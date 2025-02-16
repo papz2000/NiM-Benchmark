@@ -1,0 +1,2120 @@
+[
+    {
+        "question": "What is the price of a Coca-Cola?",
+        "answer": "4.60",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/Sonoma_ALLDAY_270x320mm_1124_WEB/page_1.png",
+            "Restaurant_files/Sonoma_ALLDAY_270x320mm_1124_WEB/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/Sonoma_ALLDAY_270x320mm_1124_WEB/page_1.png"
+    },
+    {
+        "question": "Is the Crushed Avocado dish vegan?",
+        "answer": "Yes",
+        "category": "boolean",
+        "Image_list": [
+            "Restaurant_files/william-beardmore_breakfast_0125_web/page_3.png",
+            "Restaurant_files/william-beardmore_breakfast_0125_web/page_4.png",
+            "Restaurant_files/william-beardmore_breakfast_0125_web/page_1.png",
+            "Restaurant_files/william-beardmore_breakfast_0125_web/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/william-beardmore_breakfast_0125_web/page_2.png"
+    },
+    {
+        "question": "What is the price of two fried eggs?",
+        "answer": "3.09",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/Shelby___Co_breakfast_menu_ARTWORK-compressed/page_1.png"
+        ],
+        "Ground truth page": "Restaurant_files/Shelby___Co_breakfast_menu_ARTWORK-compressed/page_1.png"
+    },
+    {
+        "question": "what is the calorie count of old mout with pineapple and raspberry?",
+        "answer": "4",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/montys-reduced-all-day-launch-menu-web-002/page_1.png",
+            "Restaurant_files/montys-reduced-all-day-launch-menu-web-002/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/montys-reduced-all-day-launch-menu-web-002/page_2.png"
+    },
+    {
+        "question": "what is the price of regular diet coke?",
+        "answer": "3.89",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/montys-reduced-all-day-launch-menu-web-002/page_1.png",
+            "Restaurant_files/montys-reduced-all-day-launch-menu-web-002/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/montys-reduced-all-day-launch-menu-web-002/page_2.png"
+    },
+    {
+        "question": "What is the price of a bottle of Sauvignon Blanc?",
+        "answer": "29.00",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/fb_conc_drinks_0524_web/page_1.png",
+            "Restaurant_files/fb_conc_drinks_0524_web/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/fb_conc_drinks_0524_web/page_2.png"
+    },
+    {
+        "question": "which is the cheapest hot drink?",
+        "answer": "Espresso,Machiato",
+        "category": "comparison",
+        "Image_list": [
+            "Restaurant_files/fb_conc_main-menu_0524_web/page_1.png",
+            "Restaurant_files/fb_conc_main-menu_0524_web/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/fb_conc_main-menu_0524_web/page_2.png"
+    },
+    {
+        "question": "What is the calorie count of Dirty Hotdog?",
+        "answer": "782",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/fb_conc_main-menu_0524_web/page_1.png",
+            "Restaurant_files/fb_conc_main-menu_0524_web/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/fb_conc_main-menu_0524_web/page_1.png"
+    },
+    {
+        "question": "What is the calorie count of the Hot chocolate?",
+        "answer": "260",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/Shelby___Co_all_day_menu_ARTWORK-compressed/page_1.png"
+        ],
+        "Ground truth page": "Restaurant_files/Shelby___Co_all_day_menu_ARTWORK-compressed/page_1.png"
+    },
+    {
+        "question": "what is the the calorie count of COLESLAW?",
+        "answer": "182",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/the-kissing-gate-all-day-menu-march-2024/page_1.png",
+            "Restaurant_files/the-kissing-gate-all-day-menu-march-2024/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/the-kissing-gate-all-day-menu-march-2024/page_2.png"
+    },
+    {
+        "question": "what is the the calorie count of VEGGIE NACHOS?",
+        "answer": "935",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/the-kissing-gate-all-day-menu-march-2024/page_1.png",
+            "Restaurant_files/the-kissing-gate-all-day-menu-march-2024/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/the-kissing-gate-all-day-menu-march-2024/page_2.png"
+    },
+    {
+        "question": "what is the additional calorie count of Chicken Caesar Salad if i add bacon?",
+        "answer": "90",
+        "category": "comparison",
+        "Image_list": [
+            "/mnt/home-ldap/parth_ldap/Final_push/FINAL/New_pdfs/castle-rock-april-2024-food-menu/page_1.png",
+            "/mnt/home-ldap/parth_ldap/Final_push/FINAL/New_pdfs/castle-rock-april-2024-food-menu/page_2.png"
+        ],
+        "Ground truth page": "/mnt/home-ldap/parth_ldap/Final_push/FINAL/New_pdfs/castle-rock-april-2024-food-menu/page_2.png"
+    },
+    {
+        "question": "what is the calorie count of Chicken Tikka?",
+        "answer": "623",
+        "category": "inline",
+        "Image_list": [
+            "/mnt/home-ldap/parth_ldap/Final_push/FINAL/New_pdfs/castle-rock-april-2024-food-menu/page_1.png",
+            "/mnt/home-ldap/parth_ldap/Final_push/FINAL/New_pdfs/castle-rock-april-2024-food-menu/page_2.png"
+        ],
+        "Ground truth page": "/mnt/home-ldap/parth_ldap/Final_push/FINAL/New_pdfs/castle-rock-april-2024-food-menu/page_2.png"
+    },
+    {
+        "question": "What are the timmings for saturday for winters?",
+        "answer": "11am-9pm",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/New_City_pizza_full_menu_Aug_2022/page_1.png",
+            "Restaurant_files/New_City_pizza_full_menu_Aug_2022/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/New_City_pizza_full_menu_Aug_2022/page_1.png"
+    },
+    {
+        "question": "What is the price of broccoli rabe?",
+        "answer": "9",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/New_City_pizza_full_menu_Aug_2022/page_1.png",
+            "Restaurant_files/New_City_pizza_full_menu_Aug_2022/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/New_City_pizza_full_menu_Aug_2022/page_2.png"
+    },
+    {
+        "question": "What is the calorie count of Absolut Vanilia?",
+        "answer": "55",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/star-light-menu/page_1.png",
+            "Restaurant_files/star-light-menu/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/star-light-menu/page_1.png"
+    },
+    {
+        "question": "What is the calorie count of pepporoni pizza?",
+        "answer": "1157",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/star-light-menu/page_1.png",
+            "Restaurant_files/star-light-menu/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/star-light-menu/page_2.png"
+    },
+    {
+        "question": "What is the calorie count of Mediterranean salad?",
+        "answer": "187",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/star-light-menu/page_1.png",
+            "Restaurant_files/star-light-menu/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/star-light-menu/page_2.png"
+    },
+    {
+        "question": "What is the calorie count of Paneer kathi roll?",
+        "answer": "609",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/1911-restaurant-menu/page_1.png"
+        ],
+        "Ground truth page": "Restaurant_files/1911-restaurant-menu/page_1.png"
+    },
+    {
+        "question": "What is the portion size of Shredded chicken hakka noodles?",
+        "answer": "675gm",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/1911-restaurant-menu/page_1.png"
+        ],
+        "Ground truth page": "Restaurant_files/1911-restaurant-menu/page_1.png"
+    },
+    {
+        "question": "Is the price of the MUSHROOM hummus the same as the ROASTED EGGPLANT hummus?",
+        "answer": "Yes",
+        "category": "comparison",
+        "Image_list": [
+            "Restaurant_files/Aventura_Lunch/page_1.png"
+        ],
+        "Ground truth page": "Restaurant_files/Aventura_Lunch/page_1.png"
+    },
+    {
+        "question": "How many calories are in a Flat White?",
+        "answer": "116",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/Shelby___Co_breakfast_menu_ARTWORK-compressed/page_1.png"
+        ],
+        "Ground truth page": "Restaurant_files/Shelby___Co_breakfast_menu_ARTWORK-compressed/page_1.png"
+    },
+    {
+        "question": "What is the calorie count of the Peri-Peri Chicken Skewers?",
+        "answer": "1035",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/Shelby___Co_all_day_menu_ARTWORK-compressed/page_1.png"
+        ],
+        "Ground truth page": "Restaurant_files/Shelby___Co_all_day_menu_ARTWORK-compressed/page_1.png"
+    },
+    {
+        "question": "How much does an extra topping cost for a full topping?",
+        "answer": "4",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/New_City_pizza_full_menu_Aug_2022/page_1.png",
+            "Restaurant_files/New_City_pizza_full_menu_Aug_2022/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/New_City_pizza_full_menu_Aug_2022/page_1.png"
+    },
+    {
+        "question": "Is the price of the Fried Calamari higher than the Wings?",
+        "answer": "No",
+        "category": "comparison",
+        "Image_list": [
+            "Restaurant_files/New_City_pizza_full_menu_Aug_2022/page_1.png",
+            "Restaurant_files/New_City_pizza_full_menu_Aug_2022/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/New_City_pizza_full_menu_Aug_2022/page_1.png"
+    },
+    {
+        "question": "Is the Chicken Sorrento more expensive than the Chicken Marsala?",
+        "answer": "Yes",
+        "category": "comparison",
+        "Image_list": [
+            "Restaurant_files/New_City_pizza_full_menu_Aug_2022/page_1.png",
+            "Restaurant_files/New_City_pizza_full_menu_Aug_2022/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/New_City_pizza_full_menu_Aug_2022/page_1.png"
+    },
+    {
+        "question": "What is the price difference between the Traditional English Breakfast and the Vegetarian Breakfast?",
+        "answer": "0.75",
+        "category": "comparison",
+        "Image_list": [
+            "Restaurant_files/Co-Pilots-T4-Menu/page_1.png",
+            "Restaurant_files/Co-Pilots-T4-Menu/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/Co-Pilots-T4-Menu/page_1.png"
+    },
+    {
+        "question": "Is the price of a pint of lemonade higher than a can of Ultra Ros\u00e1?",
+        "answer": "Yes",
+        "category": "comparison",
+        "Image_list": [
+            "Restaurant_files/star-light-drinks/page_1.png",
+            "Restaurant_files/star-light-drinks/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/star-light-drinks/page_1.png"
+    },
+    {
+        "question": "Does Captain Morgan Tiki have more than 50 kcal?",
+        "answer": "No",
+        "category": "boolean",
+        "Image_list": [
+            "Restaurant_files/star-light-drinks/page_1.png",
+            "Restaurant_files/star-light-drinks/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/star-light-drinks/page_2.png"
+    },
+    {
+        "question": "What is the calorie count of the Lasagne dish?",
+        "answer": "659",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/merged_output_9/page_3.png",
+            "Restaurant_files/merged_output_9/page_6.png",
+            "Restaurant_files/merged_output_9/page_4.png",
+            "Restaurant_files/merged_output_9/merged_output_9_page_4.png",
+            "Restaurant_files/merged_output_9/merged_output_9_page_3.png",
+            "Restaurant_files/merged_output_9/page_1.png",
+            "Restaurant_files/merged_output_9/merged_output_9_page_5.png",
+            "Restaurant_files/merged_output_9/page_5.png",
+            "Restaurant_files/merged_output_9/merged_output_9_page_6.png",
+            "Restaurant_files/merged_output_9/merged_output_9_page_2.png",
+            "Restaurant_files/merged_output_9/merged_output_9_page_1.png",
+            "Restaurant_files/merged_output_9/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/merged_output_9/page_6.png"
+    },
+    {
+        "question": "What is the ABV percentage of Bumbu rum?",
+        "answer": "40",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/star-light-drinks/page_1.png",
+            "Restaurant_files/star-light-drinks/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/star-light-drinks/page_2.png"
+    },
+    {
+        "question": "Does the PETALUMA dish include free range fried eggs?",
+        "answer": "Yes",
+        "category": "boolean",
+        "Image_list": [
+            "Restaurant_files/Sonoma_Food_Conscious_1124_WEB/page_1.png",
+            "Restaurant_files/Sonoma_Food_Conscious_1124_WEB/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/Sonoma_Food_Conscious_1124_WEB/page_2.png"
+    },
+    {
+        "question": "How much does a pint of Camden Pale cost?",
+        "answer": "7.80",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/Sonoma_Drinks_Menu_1124_WEB_2/page_1.png",
+            "Restaurant_files/Sonoma_Drinks_Menu_1124_WEB_2/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/Sonoma_Drinks_Menu_1124_WEB_2/page_2.png"
+    },
+    {
+        "question": "Which tequila has the lowest alcohol percentage?",
+        "answer": "Tequila Rose",
+        "category": "comparison",
+        "Image_list": [
+            "Restaurant_files/londons-pride-drinks-menu/page_3.png",
+            "Restaurant_files/londons-pride-drinks-menu/page_6.png",
+            "Restaurant_files/londons-pride-drinks-menu/page_4.png",
+            "Restaurant_files/londons-pride-drinks-menu/page_8.png",
+            "Restaurant_files/londons-pride-drinks-menu/page_1.png",
+            "Restaurant_files/londons-pride-drinks-menu/page_5.png",
+            "Restaurant_files/londons-pride-drinks-menu/page_7.png",
+            "Restaurant_files/londons-pride-drinks-menu/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/londons-pride-drinks-menu/page_2.png"
+    },
+    {
+        "question": "Does Patron Anejo have the same alcohol percentage as Patron Silver?",
+        "answer": "Yes",
+        "category": "comparison",
+        "Image_list": [
+            "Restaurant_files/londons-pride-drinks-menu/page_3.png",
+            "Restaurant_files/londons-pride-drinks-menu/page_6.png",
+            "Restaurant_files/londons-pride-drinks-menu/page_4.png",
+            "Restaurant_files/londons-pride-drinks-menu/page_8.png",
+            "Restaurant_files/londons-pride-drinks-menu/page_1.png",
+            "Restaurant_files/londons-pride-drinks-menu/page_5.png",
+            "Restaurant_files/londons-pride-drinks-menu/page_7.png",
+            "Restaurant_files/londons-pride-drinks-menu/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/londons-pride-drinks-menu/page_2.png"
+    },
+    {
+        "question": "What is the alcohol percentage of Disaronno?",
+        "answer": "28%",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/londons-pride-drinks-menu/page_3.png",
+            "Restaurant_files/londons-pride-drinks-menu/page_6.png",
+            "Restaurant_files/londons-pride-drinks-menu/page_4.png",
+            "Restaurant_files/londons-pride-drinks-menu/page_8.png",
+            "Restaurant_files/londons-pride-drinks-menu/page_1.png",
+            "Restaurant_files/londons-pride-drinks-menu/page_5.png",
+            "Restaurant_files/londons-pride-drinks-menu/page_7.png",
+            "Restaurant_files/londons-pride-drinks-menu/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/londons-pride-drinks-menu/page_2.png"
+    },
+    {
+        "question": "Is the price of a 250ml drink higher than a 200ml drink?",
+        "answer": "Yes",
+        "category": "comparison",
+        "Image_list": [
+            "Restaurant_files/londons-pride-drinks-menu/page_3.png",
+            "Restaurant_files/londons-pride-drinks-menu/page_6.png",
+            "Restaurant_files/londons-pride-drinks-menu/page_4.png",
+            "Restaurant_files/londons-pride-drinks-menu/page_8.png",
+            "Restaurant_files/londons-pride-drinks-menu/page_1.png",
+            "Restaurant_files/londons-pride-drinks-menu/page_5.png",
+            "Restaurant_files/londons-pride-drinks-menu/page_7.png",
+            "Restaurant_files/londons-pride-drinks-menu/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/londons-pride-drinks-menu/page_3.png"
+    },
+    {
+        "question": "What is the calorie content of the Blackcurrant Squash?",
+        "answer": "4",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/fb_conc_kids-breakfast_0524_web/page_1.png",
+            "Restaurant_files/fb_conc_kids-breakfast_0524_web/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/fb_conc_kids-breakfast_0524_web/page_1.png"
+    },
+    {
+        "question": "What is the ABV of Peroni Nastro Azzurro?",
+        "answer": "5.0%",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/william-beardmore_drinks-menu_0125_web/page_3.png",
+            "Restaurant_files/william-beardmore_drinks-menu_0125_web/page_4.png",
+            "Restaurant_files/william-beardmore_drinks-menu_0125_web/page_1.png",
+            "Restaurant_files/william-beardmore_drinks-menu_0125_web/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/william-beardmore_drinks-menu_0125_web/page_2.png"
+    },
+    {
+        "question": "Does the Chicken & Bacon Caesar Salad contain more calories than the Veggie Nachos?",
+        "answer": "Yes",
+        "category": "comparison",
+        "Image_list": [
+            "Restaurant_files/Shelby___Co_all_day_menu_ARTWORK-compressed/page_1.png"
+        ],
+        "Ground truth page": "Restaurant_files/Shelby___Co_all_day_menu_ARTWORK-compressed/page_1.png"
+    },
+    {
+        "question": "What is the calorie count of the Lasagne dish?",
+        "answer": "659",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/terracotta-main-april-2024/page_1.png",
+            "Restaurant_files/terracotta-main-april-2024/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/terracotta-main-april-2024/page_2.png"
+    },
+    {
+        "question": "Does the Funghi dish contain thyme?",
+        "answer": "Yes",
+        "category": "boolean",
+        "Image_list": [
+            "Restaurant_files/terracotta-main-april-2024/page_1.png",
+            "Restaurant_files/terracotta-main-april-2024/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/terracotta-main-april-2024/page_2.png"
+    },
+    {
+        "question": "Does the menu offer flavored syrup shots?",
+        "answer": "Yes",
+        "category": "boolean",
+        "Image_list": [
+            "Restaurant_files/bocco_menus_main-drinks-inners_0324_web/page_1.png",
+            "Restaurant_files/bocco_menus_main-drinks-inners_0324_web/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/bocco_menus_main-drinks-inners_0324_web/page_1.png"
+    },
+    {
+        "question": "Are the Onion Rings plant-based?",
+        "answer": "Yes",
+        "category": "boolean",
+        "Image_list": [
+            "Restaurant_files/montys-reduced-all-day-launch-menu-web-002/page_1.png",
+            "Restaurant_files/montys-reduced-all-day-launch-menu-web-002/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/montys-reduced-all-day-launch-menu-web-002/page_1.png"
+    },
+    {
+        "question": "Are the breakfast rolls served after 11am?",
+        "answer": "No",
+        "category": "boolean",
+        "Image_list": [
+            "Restaurant_files/Tap-Brew-Main-Menu-1/page_1.png",
+            "Restaurant_files/Tap-Brew-Main-Menu-1/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/Tap-Brew-Main-Menu-1/page_2.png"
+    },
+    {
+        "question": "What type of marinade is used for the Half Roast Chicken?",
+        "answer": "Garlic & herb",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/william-beardmore_main_0125_web/page_3.png",
+            "Restaurant_files/william-beardmore_main_0125_web/page_4.png",
+            "Restaurant_files/william-beardmore_main_0125_web/page_1.png",
+            "Restaurant_files/william-beardmore_main_0125_web/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/william-beardmore_main_0125_web/page_3.png"
+    },
+    {
+        "question": "What is the price of the naan curry dish?",
+        "answer": "15.5",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/william-beardmore_main_0125_web/page_3.png",
+            "Restaurant_files/william-beardmore_main_0125_web/page_4.png",
+            "Restaurant_files/william-beardmore_main_0125_web/page_1.png",
+            "Restaurant_files/william-beardmore_main_0125_web/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/william-beardmore_main_0125_web/page_3.png"
+    },
+    {
+        "question": "Is the Fig + Thyme toast vegetarian?",
+        "answer": "Yes",
+        "category": "boolean",
+        "Image_list": [
+            "Restaurant_files/Sonoma_BREAKFAST_270x320mm_1124_WEB/page_1.png",
+            "Restaurant_files/Sonoma_BREAKFAST_270x320mm_1124_WEB/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/Sonoma_BREAKFAST_270x320mm_1124_WEB/page_2.png"
+    },
+    {
+        "question": "How much does the Liqueur Coffee cost?",
+        "answer": "6.50",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/fb_conc_drinks_0524_web/page_1.png",
+            "Restaurant_files/fb_conc_drinks_0524_web/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/fb_conc_drinks_0524_web/page_2.png"
+    },
+    {
+        "question": "What is the price of the Rhubarb & Ginger gin and tonic?",
+        "answer": "9.00",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/fb_conc_drinks_0524_web/page_1.png",
+            "Restaurant_files/fb_conc_drinks_0524_web/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/fb_conc_drinks_0524_web/page_2.png"
+    },
+    {
+        "question": "What is the price of the Bloody Mary cocktail?",
+        "answer": "10.00",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/fb_conc_drinks_0524_web/page_1.png",
+            "Restaurant_files/fb_conc_drinks_0524_web/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/fb_conc_drinks_0524_web/page_2.png"
+    },
+    {
+        "question": "Does the Berry Yoghurt Bowl contain almond granola?",
+        "answer": "Yes",
+        "category": "boolean",
+        "Image_list": [
+            "Restaurant_files/saltaire---leeds-bradford-airport---breakfast-menu---march-2024/page_1.png",
+            "Restaurant_files/saltaire---leeds-bradford-airport---breakfast-menu---march-2024/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/saltaire---leeds-bradford-airport---breakfast-menu---march-2024/page_2.png"
+    },
+    {
+        "question": "What is the price of the marinated chicken dish?",
+        "answer": "17.5",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/28692c-the-distilling-house_main-menu_0224_v2_nf_web/page_3.png",
+            "Restaurant_files/28692c-the-distilling-house_main-menu_0224_v2_nf_web/page_4.png",
+            "Restaurant_files/28692c-the-distilling-house_main-menu_0224_v2_nf_web/page_1.png",
+            "Restaurant_files/28692c-the-distilling-house_main-menu_0224_v2_nf_web/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/28692c-the-distilling-house_main-menu_0224_v2_nf_web/page_3.png"
+    },
+    {
+        "question": "What is the price of a small sparkling water?",
+        "answer": "2.95",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/comptoir-breakfast-menu-stn/page_1.png",
+            "Restaurant_files/comptoir-breakfast-menu-stn/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/comptoir-breakfast-menu-stn/page_2.png"
+    },
+    {
+        "question": "What is the price of a 250ml glass of Altositas Sauvignon Blanc?",
+        "answer": "8.40",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/granite-city_drinks-menu-1/page_1.png",
+            "Restaurant_files/granite-city_drinks-menu-1/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/granite-city_drinks-menu-1/page_1.png"
+    },
+    {
+        "question": "Is Espresso Martini expensive than blushing spiritz?",
+        "answer": "No",
+        "category": "comparison",
+        "Image_list": [
+            "Restaurant_files/comptoir-main-menu-a3-sep-2024-stn/page_1.png",
+            "Restaurant_files/comptoir-main-menu-a3-sep-2024-stn/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/comptoir-main-menu-a3-sep-2024-stn/page_2.png"
+    },
+    {
+        "question": "What is the calorie count of Vermicelli Rice?",
+        "answer": "364",
+        "category": "common sense",
+        "Image_list": [
+            "Restaurant_files/comptoir-main-menu-a3-sep-2024-stn/page_1.png",
+            "Restaurant_files/comptoir-main-menu-a3-sep-2024-stn/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/comptoir-main-menu-a3-sep-2024-stn/page_1.png"
+    },
+    {
+        "question": "what is the price for pint of Poretti?",
+        "answer": "7.45",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/comptoir-breakfast-menu-stn/page_1.png",
+            "Restaurant_files/comptoir-breakfast-menu-stn/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/comptoir-breakfast-menu-stn/page_2.png"
+    },
+    {
+        "question": "what is the calorie count of Vegetarian Breakfast?",
+        "answer": "541",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/comptoir-breakfast-menu-stn/page_1.png",
+            "Restaurant_files/comptoir-breakfast-menu-stn/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/comptoir-breakfast-menu-stn/page_1.png"
+    },
+    {
+        "question": "How many calories are in the Skin on Fries?",
+        "answer": "625",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/the-perch-stn-lunch-menu/page_1.png",
+            "Restaurant_files/the-perch-stn-lunch-menu/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/the-perch-stn-lunch-menu/page_2.png"
+    },
+    {
+        "question": "Does a Mocha cost more than a Flat White?",
+        "answer": "Yes",
+        "category": "comparison",
+        "Image_list": [
+            "Restaurant_files/granite-city_drinks-menu-1/page_1.png",
+            "Restaurant_files/granite-city_drinks-menu-1/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/granite-city_drinks-menu-1/page_2.png"
+    },
+    {
+        "question": "Are the Cauliflower Bites vegetarian?",
+        "answer": "Yes",
+        "category": "boolean",
+        "Image_list": [
+            "Restaurant_files/28692c-the-distilling-house_main-menu_0224_v2_nf_web/page_3.png",
+            "Restaurant_files/28692c-the-distilling-house_main-menu_0224_v2_nf_web/page_4.png",
+            "Restaurant_files/28692c-the-distilling-house_main-menu_0224_v2_nf_web/page_1.png",
+            "Restaurant_files/28692c-the-distilling-house_main-menu_0224_v2_nf_web/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/28692c-the-distilling-house_main-menu_0224_v2_nf_web/page_2.png"
+    },
+    {
+        "question": "Is the Fentimans Ginger Beer available in 500ml?",
+        "answer": "No",
+        "category": "boolean",
+        "Image_list": [
+            "Restaurant_files/the-perch-stn-drinks-menu/page_1.png",
+            "Restaurant_files/the-perch-stn-drinks-menu/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/the-perch-stn-drinks-menu/page_2.png"
+    },
+    {
+        "question": "What is the price of the Bloody Mary?",
+        "answer": "15.95",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/the-perch-stn-drinks-menu/page_1.png",
+            "Restaurant_files/the-perch-stn-drinks-menu/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/the-perch-stn-drinks-menu/page_2.png"
+    },
+    {
+        "question": "Is Diplomatico Reserva from the West Indies?",
+        "answer": "Yes",
+        "category": "common sense",
+        "Image_list": [
+            "Restaurant_files/the-perch-stn-drinks-menu/page_1.png",
+            "Restaurant_files/the-perch-stn-drinks-menu/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/the-perch-stn-drinks-menu/page_1.png"
+    },
+    {
+        "question": "Is the price of a 75cl bottle higher than $30?",
+        "answer": "Yes",
+        "category": "comparison",
+        "Image_list": [
+            "Restaurant_files/spinning-jenny-drinks-menu/page_1.png",
+            "Restaurant_files/spinning-jenny-drinks-menu/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/spinning-jenny-drinks-menu/page_1.png"
+    },
+    {
+        "question": "What is the price of Sparkling Ros\u00e9?",
+        "answer": "9.29",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/spinning-jenny-drinks-menu/page_1.png",
+            "Restaurant_files/spinning-jenny-drinks-menu/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/spinning-jenny-drinks-menu/page_1.png"
+    },
+    {
+        "question": "Is the price of all ice cream options the same?",
+        "answer": "Yes",
+        "category": "comparison",
+        "Image_list": [
+            "Restaurant_files/sunny-side-breakfast-menu/page_1.png",
+            "Restaurant_files/sunny-side-breakfast-menu/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/sunny-side-breakfast-menu/page_1.png"
+    },
+    {
+        "question": "Does the Vegan Meatball Loaded Fries contain vegan cheese?",
+        "answer": "Yes",
+        "category": "boolean",
+        "Image_list": [
+            "Restaurant_files/castle-rock-april-2024-food-menu/page_1.png",
+            "Restaurant_files/castle-rock-april-2024-food-menu/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/castle-rock-april-2024-food-menu/page_2.png"
+    },
+    {
+        "question": "How many calories are in a Flat White?",
+        "answer": "101",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/aster-thyme_all-menus_website/page_3.png",
+            "Restaurant_files/aster-thyme_all-menus_website/page_6.png",
+            "Restaurant_files/aster-thyme_all-menus_website/page_4.png",
+            "Restaurant_files/aster-thyme_all-menus_website/page_1.png",
+            "Restaurant_files/aster-thyme_all-menus_website/page_5.png",
+            "Restaurant_files/aster-thyme_all-menus_website/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/aster-thyme_all-menus_website/page_2.png"
+    },
+    {
+        "question": "What is the price of a bottle of Belvino Pinot Grigio Rosato?",
+        "answer": "25.00",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/bredog_merged/page_3.png",
+            "Restaurant_files/bredog_merged/page_6.png",
+            "Restaurant_files/bredog_merged/page_4.png",
+            "Restaurant_files/bredog_merged/page_10.png",
+            "Restaurant_files/bredog_merged/page_8.png",
+            "Restaurant_files/bredog_merged/page_11.png",
+            "Restaurant_files/bredog_merged/page_1.png",
+            "Restaurant_files/bredog_merged/page_9.png",
+            "Restaurant_files/bredog_merged/page_5.png",
+            "Restaurant_files/bredog_merged/page_7.png",
+            "Restaurant_files/bredog_merged/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/bredog_merged/page_7.png"
+    },
+    {
+        "question": "Does the Aster & Thyme Gourmet Burger cost 18.00?",
+        "answer": "Yes",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/aster-thyme_all-menus_website/page_3.png",
+            "Restaurant_files/aster-thyme_all-menus_website/page_6.png",
+            "Restaurant_files/aster-thyme_all-menus_website/page_4.png",
+            "Restaurant_files/aster-thyme_all-menus_website/page_1.png",
+            "Restaurant_files/aster-thyme_all-menus_website/page_5.png",
+            "Restaurant_files/aster-thyme_all-menus_website/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/aster-thyme_all-menus_website/page_4.png"
+    },
+    {
+        "question": "Is the price of Hugo Spritz higher than Rossini Spritz?",
+        "answer": "Yes",
+        "category": "comparison",
+        "Image_list": [
+            "Restaurant_files/bocco_menus_main-drinks-inners_0324_web/page_1.png",
+            "Restaurant_files/bocco_menus_main-drinks-inners_0324_web/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/bocco_menus_main-drinks-inners_0324_web/page_2.png"
+    },
+    {
+        "question": "Is the Italian Salad available with burrata?",
+        "answer": "Yes",
+        "category": "boolean",
+        "Image_list": [
+            "Restaurant_files/bocco_menus_main-drinks-inners_0324_web/page_1.png",
+            "Restaurant_files/bocco_menus_main-drinks-inners_0324_web/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/bocco_menus_main-drinks-inners_0324_web/page_2.png"
+    },
+    {
+        "question": "What is the price of adding toasted sourdough to the Burrata?",
+        "answer": "1.75",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/bocco_menus_main-drinks-inners_0324_web/page_1.png",
+            "Restaurant_files/bocco_menus_main-drinks-inners_0324_web/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/bocco_menus_main-drinks-inners_0324_web/page_1.png"
+    },
+    {
+        "question": "\"What is the price of the Chicken & Streaky Bacon salad?\"",
+        "answer": "12.99",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/slp_merged/page_3.png",
+            "Restaurant_files/slp_merged/page_4.png",
+            "Restaurant_files/slp_merged/page_1.png",
+            "Restaurant_files/slp_merged/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/slp_merged/page_4.png"
+    },
+    {
+        "question": "Does the Big Meaty Breakfast include three pork sausages?",
+        "answer": "Yes",
+        "category": "boolean",
+        "Image_list": [
+            "Restaurant_files/slp_merged/page_3.png",
+            "Restaurant_files/slp_merged/page_4.png",
+            "Restaurant_files/slp_merged/page_1.png",
+            "Restaurant_files/slp_merged/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/slp_merged/page_2.png"
+    },
+    {
+        "question": "Can you add Applewood smoked bacon to The Classic Baked Potato?",
+        "answer": "Yes",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_3.png",
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_6.png",
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_4.png",
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_10.png",
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_8.png",
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_1.png",
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_9.png",
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_5.png",
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_7.png",
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_8.png"
+    },
+    {
+        "question": "What is the cost to add fries to a meal?",
+        "answer": "1.50",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_3.png",
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_6.png",
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_4.png",
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_10.png",
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_8.png",
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_1.png",
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_9.png",
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_5.png",
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_7.png",
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_1.png"
+    },
+    {
+        "question": "Does the Brewhouse Double Decker Burger have swiss cheese?",
+        "answer": "Yes",
+        "category": "boolean",
+        "Image_list": [
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_3.png",
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_6.png",
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_4.png",
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_10.png",
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_8.png",
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_1.png",
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_9.png",
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_5.png",
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_7.png",
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_6.png"
+    },
+    {
+        "question": "What is the calorie count of the Ghee Poached Chicken Lollipop?",
+        "answer": "1908",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/1911-restaurant-menu/page_1.png"
+        ],
+        "Ground truth page": "Restaurant_files/1911-restaurant-menu/page_1.png"
+    },
+    {
+        "question": "Are tender pieces of lamb cooked in spices and sauce priced at 14.99?",
+        "answer": "Yes",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/TOI_webmenu_082410/page_3.png",
+            "Restaurant_files/TOI_webmenu_082410/page_6.png",
+            "Restaurant_files/TOI_webmenu_082410/page_4.png",
+            "Restaurant_files/TOI_webmenu_082410/page_1.png",
+            "Restaurant_files/TOI_webmenu_082410/page_5.png",
+            "Restaurant_files/TOI_webmenu_082410/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/TOI_webmenu_082410/page_3.png"
+    },
+    {
+        "question": "\"What is the discount percentage for IU students?\"",
+        "answer": "10",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/TOI_webmenu_082410/page_3.png",
+            "Restaurant_files/TOI_webmenu_082410/page_6.png",
+            "Restaurant_files/TOI_webmenu_082410/page_4.png",
+            "Restaurant_files/TOI_webmenu_082410/page_1.png",
+            "Restaurant_files/TOI_webmenu_082410/page_5.png",
+            "Restaurant_files/TOI_webmenu_082410/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/TOI_webmenu_082410/page_1.png"
+    },
+    {
+        "question": "Does the Big Ben include scrambled eggs?",
+        "answer": "Yes",
+        "category": "boolean",
+        "Image_list": [
+            "Restaurant_files/merged_output_9/page_3.png",
+            "Restaurant_files/merged_output_9/page_6.png",
+            "Restaurant_files/merged_output_9/page_4.png",
+            "Restaurant_files/merged_output_9/page_1.png",
+            "Restaurant_files/merged_output_9/page_5.png",
+            "Restaurant_files/merged_output_9/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/merged_output_9/page_6.png"
+    },
+    {
+        "question": "Does the dish with 1554 calories cost SR 81?",
+        "answer": "Yes",
+        "category": "boolean",
+        "Image_list": [
+            "Restaurant_files/TGI/page_3.png",
+            "Restaurant_files/TGI/page_6.png",
+            "Restaurant_files/TGI/page_4.png",
+            "Restaurant_files/TGI/page_1.png",
+            "Restaurant_files/TGI/page_5.png",
+            "Restaurant_files/TGI/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/TGI/page_2.png"
+    },
+    {
+        "question": "What is the price for the 'All You Can Eat Wings' offer?",
+        "answer": "89",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/TGI/page_3.png",
+            "Restaurant_files/TGI/page_6.png",
+            "Restaurant_files/TGI/page_4.png",
+            "Restaurant_files/TGI/page_1.png",
+            "Restaurant_files/TGI/page_5.png",
+            "Restaurant_files/TGI/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/TGI/page_6.png"
+    },
+    {
+        "question": "Is Lahori Naan made with onions?",
+        "answer": "Yes",
+        "category": "common sense",
+        "Image_list": [
+            "Restaurant_files/TOI_webmenu_082410/page_3.png",
+            "Restaurant_files/TOI_webmenu_082410/page_6.png",
+            "Restaurant_files/TOI_webmenu_082410/page_4.png",
+            "Restaurant_files/TOI_webmenu_082410/page_1.png",
+            "Restaurant_files/TOI_webmenu_082410/page_5.png",
+            "Restaurant_files/TOI_webmenu_082410/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/TOI_webmenu_082410/page_2.png"
+    },
+    {
+        "question": "Is the Navratan Korma dish vegetarian?",
+        "answer": "Yes",
+        "category": "common sense",
+        "Image_list": [
+            "Restaurant_files/TOI_webmenu_082410/page_3.png",
+            "Restaurant_files/TOI_webmenu_082410/page_6.png",
+            "Restaurant_files/TOI_webmenu_082410/page_4.png",
+            "Restaurant_files/TOI_webmenu_082410/page_1.png",
+            "Restaurant_files/TOI_webmenu_082410/page_5.png",
+            "Restaurant_files/TOI_webmenu_082410/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/TOI_webmenu_082410/page_5.png"
+    },
+    {
+        "question": "Is the price of Chicken Mango Curry 13.99?",
+        "answer": "Yes",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/TOI_webmenu_082410/page_3.png",
+            "Restaurant_files/TOI_webmenu_082410/page_6.png",
+            "Restaurant_files/TOI_webmenu_082410/page_4.png",
+            "Restaurant_files/TOI_webmenu_082410/page_1.png",
+            "Restaurant_files/TOI_webmenu_082410/page_5.png",
+            "Restaurant_files/TOI_webmenu_082410/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/TOI_webmenu_082410/page_3.png"
+    },
+    {
+        "question": "what is the calorie of PETALUMA SUNRISE?",
+        "answer": "1505",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/Sonoma_ALLDAY_270x320mm_1124_WEB/page_1.png",
+            "Restaurant_files/Sonoma_ALLDAY_270x320mm_1124_WEB/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/Sonoma_ALLDAY_270x320mm_1124_WEB/page_2.png"
+    },
+    {
+        "question": "what is the price of adding pulled chicken in nachos?",
+        "answer": "4.60",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/Sonoma_ALLDAY_270x320mm_1124_WEB/page_1.png",
+            "Restaurant_files/Sonoma_ALLDAY_270x320mm_1124_WEB/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/Sonoma_ALLDAY_270x320mm_1124_WEB/page_2.png"
+    },
+    {
+        "question": "what is the calorie of YORKSHIRE TEA?",
+        "answer": "0.0",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/Sonoma_ALLDAY_270x320mm_1124_WEB/page_1.png",
+            "Restaurant_files/Sonoma_ALLDAY_270x320mm_1124_WEB/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/Sonoma_ALLDAY_270x320mm_1124_WEB/page_1.png"
+    },
+    {
+        "question": "what is the calorie of CHAI LATTE?",
+        "answer": "134",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/Sonoma_ALLDAY_270x320mm_1124_WEB/page_1.png",
+            "Restaurant_files/Sonoma_ALLDAY_270x320mm_1124_WEB/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/Sonoma_ALLDAY_270x320mm_1124_WEB/page_1.png"
+    },
+    {
+        "question": "what is the calorie count of muesli?",
+        "answer": "367",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/no-105-olive-tree-new-style-main-menu-a1-11-23-v3/page_1.png",
+            "Restaurant_files/no-105-olive-tree-new-style-main-menu-a1-11-23-v3/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/no-105-olive-tree-new-style-main-menu-a1-11-23-v3/page_1.png"
+    },
+    {
+        "question": "what is the price for Full English?",
+        "answer": "14.50",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/no-105-olive-tree-new-style-main-menu-a1-11-23-v3/page_1.png",
+            "Restaurant_files/no-105-olive-tree-new-style-main-menu-a1-11-23-v3/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/no-105-olive-tree-new-style-main-menu-a1-11-23-v3/page_1.png"
+    },
+    {
+        "question": "what is the calorie count of All Day Breakfast Pizza?",
+        "answer": "1016",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/no-105-olive-tree-new-style-main-menu-a1-11-23-v3/page_1.png",
+            "Restaurant_files/no-105-olive-tree-new-style-main-menu-a1-11-23-v3/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/no-105-olive-tree-new-style-main-menu-a1-11-23-v3/page_1.png"
+    },
+    {
+        "question": "what is the price of crispy fries with levanto cheese?",
+        "answer": "5.25",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/bocco_menus_main-drinks-inners_0324_web/page_1.png",
+            "Restaurant_files/bocco_menus_main-drinks-inners_0324_web/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/bocco_menus_main-drinks-inners_0324_web/page_2.png"
+    },
+    {
+        "question": "which type of cherry is present in sour cherry martini?",
+        "answer": "Maraschino",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/bocco_menus_main-drinks-inners_0324_web/page_1.png",
+            "Restaurant_files/bocco_menus_main-drinks-inners_0324_web/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/bocco_menus_main-drinks-inners_0324_web/page_2.png"
+    },
+    {
+        "question": "what is the price of Thistly Cross Cider?",
+        "answer": "7",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/bocco_menus_main-drinks-inners_0324_web/page_1.png",
+            "Restaurant_files/bocco_menus_main-drinks-inners_0324_web/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/bocco_menus_main-drinks-inners_0324_web/page_2.png"
+    },
+    {
+        "question": "what is the price of Chicken Wings?",
+        "answer": "Yes",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/william-beardmore_breakfast_0125_web/page_3.png",
+            "Restaurant_files/william-beardmore_breakfast_0125_web/page_4.png",
+            "Restaurant_files/william-beardmore_breakfast_0125_web/page_1.png",
+            "Restaurant_files/william-beardmore_breakfast_0125_web/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/william-beardmore_breakfast_0125_web/page_3.png"
+    },
+    {
+        "question": "what is the price of double Espresso?",
+        "answer": "3.75",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/william-beardmore_breakfast_0125_web/page_3.png",
+            "Restaurant_files/william-beardmore_breakfast_0125_web/page_4.png",
+            "Restaurant_files/william-beardmore_breakfast_0125_web/page_1.png",
+            "Restaurant_files/william-beardmore_breakfast_0125_web/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/william-beardmore_breakfast_0125_web/page_4.png"
+    },
+    {
+        "question": "what is the price of Loaded Nachos with crispy chicken?",
+        "answer": "14.25",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/william-beardmore_breakfast_0125_web/page_3.png",
+            "Restaurant_files/william-beardmore_breakfast_0125_web/page_4.png",
+            "Restaurant_files/william-beardmore_breakfast_0125_web/page_1.png",
+            "Restaurant_files/william-beardmore_breakfast_0125_web/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/william-beardmore_breakfast_0125_web/page_3.png"
+    },
+    {
+        "question": "what is the price of Spicy meat feast?",
+        "answer": "15.90",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/star-light-menu/page_1.png",
+            "Restaurant_files/star-light-menu/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/star-light-menu/page_1.png"
+    },
+    {
+        "question": "what is the calorie count of Spicy meat feast?",
+        "answer": "1220",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/star-light-menu/page_1.png",
+            "Restaurant_files/star-light-menu/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/star-light-menu/page_2.png"
+    },
+    {
+        "question": "what is the the price of chessy chips and gravy?",
+        "answer": "5.49",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/the-kissing-gate-all-day-menu-march-2024/page_1.png",
+            "Restaurant_files/the-kissing-gate-all-day-menu-march-2024/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/the-kissing-gate-all-day-menu-march-2024/page_2.png"
+    },
+    {
+        "question": "what is the price of lahori naan?",
+        "answer": "4.99",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/TOI_webmenu_082410/page_3.png",
+            "Restaurant_files/TOI_webmenu_082410/page_6.png",
+            "Restaurant_files/TOI_webmenu_082410/page_4.png",
+            "Restaurant_files/TOI_webmenu_082410/page_1.png",
+            "Restaurant_files/TOI_webmenu_082410/page_5.png",
+            "Restaurant_files/TOI_webmenu_082410/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/TOI_webmenu_082410/page_2.png"
+    },
+    {
+        "question": "what is the difference between Mysore dosa and Masala dosa?",
+        "answer": "Mysore dosa is made with spicy Mysore chutney, while Masala dosa is made with lightly spiced onions and potatoes.",
+        "category": "comparison",
+        "Image_list": [
+            "Restaurant_files/TOI_webmenu_082410/page_3.png",
+            "Restaurant_files/TOI_webmenu_082410/page_6.png",
+            "Restaurant_files/TOI_webmenu_082410/page_4.png",
+            "Restaurant_files/TOI_webmenu_082410/page_1.png",
+            "Restaurant_files/TOI_webmenu_082410/page_5.png",
+            "Restaurant_files/TOI_webmenu_082410/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/TOI_webmenu_082410/page_5.png"
+    },
+    {
+        "question": "is shahi paneer cheaper than malai kofta?",
+        "answer": "No",
+        "category": "comparison",
+        "Image_list": [
+            "Restaurant_files/TOI_webmenu_082410/page_3.png",
+            "Restaurant_files/TOI_webmenu_082410/page_6.png",
+            "Restaurant_files/TOI_webmenu_082410/page_4.png",
+            "Restaurant_files/TOI_webmenu_082410/page_1.png",
+            "Restaurant_files/TOI_webmenu_082410/page_5.png",
+            "Restaurant_files/TOI_webmenu_082410/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/TOI_webmenu_082410/page_5.png"
+    },
+    {
+        "question": "is mysore dosa cheaper than mysore masala dosa?",
+        "answer": "Yes",
+        "category": "comparison",
+        "Image_list": [
+            "Restaurant_files/TOI_webmenu_082410/page_3.png",
+            "Restaurant_files/TOI_webmenu_082410/page_6.png",
+            "Restaurant_files/TOI_webmenu_082410/page_4.png",
+            "Restaurant_files/TOI_webmenu_082410/page_1.png",
+            "Restaurant_files/TOI_webmenu_082410/page_5.png",
+            "Restaurant_files/TOI_webmenu_082410/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/TOI_webmenu_082410/page_5.png"
+    },
+    {
+        "question": "which dishes contain spiced spinach?",
+        "answer": "Chicken Saag,Shrimp or Fish Saag",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/TOI_webmenu_082410/page_3.png",
+            "Restaurant_files/TOI_webmenu_082410/page_6.png",
+            "Restaurant_files/TOI_webmenu_082410/page_4.png",
+            "Restaurant_files/TOI_webmenu_082410/page_1.png",
+            "Restaurant_files/TOI_webmenu_082410/page_5.png",
+            "Restaurant_files/TOI_webmenu_082410/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/TOI_webmenu_082410/page_3.png"
+    },
+    {
+        "question": "what is the calorie count for CAULIFLOWER & RED PEPPER CURRY?",
+        "answer": "979",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/the-kissing-gate-all-day-menu-march-2024/page_1.png",
+            "Restaurant_files/the-kissing-gate-all-day-menu-march-2024/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/the-kissing-gate-all-day-menu-march-2024/page_2.png"
+    },
+    {
+        "question": "what is the calorie count for cheese and bacon beef burger?",
+        "answer": "1280",
+        "category": "common sense",
+        "Image_list": [
+            "Restaurant_files/the-kissing-gate-all-day-menu-march-2024/page_1.png",
+            "Restaurant_files/the-kissing-gate-all-day-menu-march-2024/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/the-kissing-gate-all-day-menu-march-2024/page_2.png"
+    },
+    {
+        "question": "what is the calorie count for tindle burger?",
+        "answer": "945",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/the-kissing-gate-all-day-menu-march-2024/page_1.png",
+            "Restaurant_files/the-kissing-gate-all-day-menu-march-2024/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/the-kissing-gate-all-day-menu-march-2024/page_2.png"
+    },
+    {
+        "question": "until what time big breakfast is served?",
+        "answer": "2pm",
+        "category": "common sense",
+        "Image_list": [
+            "Restaurant_files/the-kissing-gate-all-day-menu-march-2024/page_1.png",
+            "Restaurant_files/the-kissing-gate-all-day-menu-march-2024/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/the-kissing-gate-all-day-menu-march-2024/page_2.png"
+    },
+    {
+        "question": "what is the additional calorie count for fridays cheese burger?",
+        "answer": "370",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/TGI/page_3.png",
+            "Restaurant_files/TGI/page_6.png",
+            "Restaurant_files/TGI/page_4.png",
+            "Restaurant_files/TGI/page_1.png",
+            "Restaurant_files/TGI/page_5.png",
+            "Restaurant_files/TGI/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/TGI/page_5.png"
+    },
+    {
+        "question": "what is the additional calorie count for adding shrimp to my RIBEYE STEAK?",
+        "answer": "370",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/TGI/page_3.png",
+            "Restaurant_files/TGI/page_6.png",
+            "Restaurant_files/TGI/page_4.png",
+            "Restaurant_files/TGI/page_1.png",
+            "Restaurant_files/TGI/page_5.png",
+            "Restaurant_files/TGI/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/TGI/page_4.png"
+    },
+    {
+        "question": "what is the price of Miner\u2019s Benedict?",
+        "answer": "12.25",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/star-light-menu/page_1.png",
+            "Restaurant_files/star-light-menu/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/star-light-menu/page_1.png"
+    },
+    {
+        "question": "what is the price of Triple American cheese & bacon burger?",
+        "answer": "15.99",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/star-light-menu/page_1.png",
+            "Restaurant_files/star-light-menu/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/star-light-menu/page_2.png"
+    },
+    {
+        "question": "very hot is denoted by how many chillies?",
+        "answer": "4",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/star-light-menu/page_1.png",
+            "Restaurant_files/star-light-menu/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/star-light-menu/page_2.png"
+    },
+    {
+        "question": "what is the price for Eggs Benedict?",
+        "answer": "12.25",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/star-light-menu/page_1.png",
+            "Restaurant_files/star-light-menu/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/star-light-menu/page_1.png"
+    },
+    {
+        "question": "what is the price for Monster Mango Loco?",
+        "answer": "3.05",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/star-light-drinks/page_1.png",
+            "Restaurant_files/star-light-drinks/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/star-light-drinks/page_1.png"
+    },
+    {
+        "question": "what is the alcohol percentage of Reserve Malbec?",
+        "answer": "14%",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/star-light-drinks/page_1.png",
+            "Restaurant_files/star-light-drinks/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/star-light-drinks/page_1.png"
+    },
+    {
+        "question": "what is the calorie count of Zana Pinot Noir?",
+        "answer": "563",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/star-light-drinks/page_1.png",
+            "Restaurant_files/star-light-drinks/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/star-light-drinks/page_1.png"
+    },
+    {
+        "question": "what is the alcohol % of Glenfiddich?",
+        "answer": "40%",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/star-light-drinks/page_1.png",
+            "Restaurant_files/star-light-drinks/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/star-light-drinks/page_2.png"
+    },
+    {
+        "question": "are all ice creams vegan?",
+        "answer": "Yes",
+        "category": "boolean",
+        "Image_list": [
+            "Restaurant_files/Sonoma_Food_Conscious_1124_WEB/page_1.png",
+            "Restaurant_files/Sonoma_Food_Conscious_1124_WEB/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/Sonoma_Food_Conscious_1124_WEB/page_1.png"
+    },
+    {
+        "question": "what is the price of rosewood pizza?",
+        "answer": "16.20",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/Sonoma_Food_Conscious_1124_WEB/page_1.png",
+            "Restaurant_files/Sonoma_Food_Conscious_1124_WEB/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/Sonoma_Food_Conscious_1124_WEB/page_1.png"
+    },
+    {
+        "question": "what is the calorie count of tofu burger?",
+        "answer": "687",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/Sonoma_Food_Conscious_1124_WEB/page_1.png",
+            "Restaurant_files/Sonoma_Food_Conscious_1124_WEB/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/Sonoma_Food_Conscious_1124_WEB/page_2.png"
+    },
+    {
+        "question": "what is the price of sunshine granola bowl?",
+        "answer": "9.90",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/Sonoma_Food_Conscious_1124_WEB/page_1.png",
+            "Restaurant_files/Sonoma_Food_Conscious_1124_WEB/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/Sonoma_Food_Conscious_1124_WEB/page_2.png"
+    },
+    {
+        "question": "what is the price of veneto 125ml?",
+        "answer": "9.00",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/Sonoma_Drinks_Menu_1124_WEB_2/page_1.png",
+            "Restaurant_files/Sonoma_Drinks_Menu_1124_WEB_2/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/Sonoma_Drinks_Menu_1124_WEB_2/page_2.png"
+    },
+    {
+        "question": "what is the alcohol % of brroklyn lager?",
+        "answer": "5.2",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/Sonoma_Drinks_Menu_1124_WEB_2/page_1.png",
+            "Restaurant_files/Sonoma_Drinks_Menu_1124_WEB_2/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/Sonoma_Drinks_Menu_1124_WEB_2/page_2.png"
+    },
+    {
+        "question": "what is price for a pint of camden pale?",
+        "answer": "7.80",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/Sonoma_Drinks_Menu_1124_WEB_2/page_1.png",
+            "Restaurant_files/Sonoma_Drinks_Menu_1124_WEB_2/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/Sonoma_Drinks_Menu_1124_WEB_2/page_2.png"
+    },
+    {
+        "question": "what is alcohol % of fourpure easy?",
+        "answer": "4",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/Sonoma_Drinks_Menu_1124_WEB_2/page_1.png",
+            "Restaurant_files/Sonoma_Drinks_Menu_1124_WEB_2/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/Sonoma_Drinks_Menu_1124_WEB_2/page_2.png"
+    },
+    {
+        "question": "what is price of awake espresso?",
+        "answer": "3.50",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/Sonoma_BREAKFAST_270x320mm_1124_WEB/page_1.png",
+            "Restaurant_files/Sonoma_BREAKFAST_270x320mm_1124_WEB/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/Sonoma_BREAKFAST_270x320mm_1124_WEB/page_2.png"
+    },
+    {
+        "question": "what is price of veggie breakfast?",
+        "answer": "15.00",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/Sonoma_BREAKFAST_270x320mm_1124_WEB/page_1.png",
+            "Restaurant_files/Sonoma_BREAKFAST_270x320mm_1124_WEB/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/Sonoma_BREAKFAST_270x320mm_1124_WEB/page_2.png"
+    },
+    {
+        "question": "what is price of overnight oats?",
+        "answer": "9.20",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/Sonoma_BREAKFAST_270x320mm_1124_WEB/page_1.png",
+            "Restaurant_files/Sonoma_BREAKFAST_270x320mm_1124_WEB/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/Sonoma_BREAKFAST_270x320mm_1124_WEB/page_2.png"
+    },
+    {
+        "question": "what is calorie count of hippie child?",
+        "answer": "184",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/Sonoma_BREAKFAST_270x320mm_1124_WEB/page_1.png",
+            "Restaurant_files/Sonoma_BREAKFAST_270x320mm_1124_WEB/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/Sonoma_BREAKFAST_270x320mm_1124_WEB/page_2.png"
+    },
+    {
+        "question": "what is the price of two poached eggs?",
+        "answer": "3.09",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/Shelby___Co_breakfast_menu_ARTWORK-compressed/page_1.png"
+        ],
+        "Ground truth page": "Restaurant_files/Shelby___Co_breakfast_menu_ARTWORK-compressed/page_1.png"
+    },
+    {
+        "question": "what is the price of espresso martini?",
+        "answer": "11.49",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/Shelby___Co_breakfast_menu_ARTWORK-compressed/page_1.png"
+        ],
+        "Ground truth page": "Restaurant_files/Shelby___Co_breakfast_menu_ARTWORK-compressed/page_1.png"
+    },
+    {
+        "question": "what is the calorie count of big breakfast?",
+        "answer": "1372",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/Shelby___Co_breakfast_menu_ARTWORK-compressed/page_1.png"
+        ],
+        "Ground truth page": "Restaurant_files/Shelby___Co_breakfast_menu_ARTWORK-compressed/page_1.png"
+    },
+    {
+        "question": "what is the price of two hash browns?",
+        "answer": "2.99",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/Shelby___Co_breakfast_menu_ARTWORK-compressed/page_1.png"
+        ],
+        "Ground truth page": "Restaurant_files/Shelby___Co_breakfast_menu_ARTWORK-compressed/page_1.png"
+    },
+    {
+        "question": "what is the price of americano?",
+        "answer": "3.79",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/Shelby___Co_all_day_menu_ARTWORK-compressed/page_1.png"
+        ],
+        "Ground truth page": "Restaurant_files/Shelby___Co_all_day_menu_ARTWORK-compressed/page_1.png"
+    },
+    {
+        "question": "what is the calorie count of the shelby supreme?",
+        "answer": "1141",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/Shelby___Co_all_day_menu_ARTWORK-compressed/page_1.png"
+        ],
+        "Ground truth page": "Restaurant_files/Shelby___Co_all_day_menu_ARTWORK-compressed/page_1.png"
+    },
+    {
+        "question": "what is the price of Garlic Bread?",
+        "answer": "4.99",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/Shelby___Co_all_day_menu_ARTWORK-compressed/page_1.png"
+        ],
+        "Ground truth page": "Restaurant_files/Shelby___Co_all_day_menu_ARTWORK-compressed/page_1.png"
+    },
+    {
+        "question": "is buffalo chicken roll cheaper than chicken marsala roll?",
+        "answer": "Yes",
+        "category": "comparison",
+        "Image_list": [
+            "Restaurant_files/New_City_pizza_full_menu_Aug_2022/page_1.png",
+            "Restaurant_files/New_City_pizza_full_menu_Aug_2022/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/New_City_pizza_full_menu_Aug_2022/page_1.png"
+    },
+    {
+        "question": "what is the price of broccoli rabe?",
+        "answer": "9",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/New_City_pizza_full_menu_Aug_2022/page_1.png",
+            "Restaurant_files/New_City_pizza_full_menu_Aug_2022/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/New_City_pizza_full_menu_Aug_2022/page_2.png"
+    },
+    {
+        "question": "what is the calorie count of English Breakfast?",
+        "answer": "21 kcal",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/montys-reduced-all-day-launch-menu-web-002/page_1.png",
+            "Restaurant_files/montys-reduced-all-day-launch-menu-web-002/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/montys-reduced-all-day-launch-menu-web-002/page_2.png"
+    },
+    {
+        "question": "merlot is from which country?",
+        "answer": "italy",
+        "category": "common sense",
+        "Image_list": [
+            "Restaurant_files/montys-reduced-all-day-launch-menu-web-002/page_1.png",
+            "Restaurant_files/montys-reduced-all-day-launch-menu-web-002/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/montys-reduced-all-day-launch-menu-web-002/page_2.png"
+    },
+    {
+        "question": "what is the cost of adding smoked streaky bacon to my mac & cheese?",
+        "answer": "2.00",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/montys-reduced-all-day-launch-menu-web-002/page_1.png",
+            "Restaurant_files/montys-reduced-all-day-launch-menu-web-002/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/montys-reduced-all-day-launch-menu-web-002/page_1.png"
+    },
+    {
+        "question": "what is the calorie count of CLASSIC HOT DOG?",
+        "answer": "494",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/montys-reduced-all-day-launch-menu-web-002/page_1.png",
+            "Restaurant_files/montys-reduced-all-day-launch-menu-web-002/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/montys-reduced-all-day-launch-menu-web-002/page_1.png"
+    },
+    {
+        "question": "what is the calorie count of taco salad?",
+        "answer": "294",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/montys-reduced-all-day-launch-menu-web-002/page_1.png",
+            "Restaurant_files/montys-reduced-all-day-launch-menu-web-002/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/montys-reduced-all-day-launch-menu-web-002/page_1.png"
+    },
+    {
+        "question": "does their signature dish come with raita?",
+        "answer": "Yes",
+        "category": "boolean",
+        "Image_list": [
+            "Restaurant_files/londons-pride-main-menu/page_1.png"
+        ],
+        "Ground truth page": "Restaurant_files/londons-pride-main-menu/page_1.png"
+    },
+    {
+        "question": "what is the price of dirty fries?",
+        "answer": "9.95",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/londons-pride-main-menu/page_1.png"
+        ],
+        "Ground truth page": "Restaurant_files/londons-pride-main-menu/page_1.png"
+    },
+    {
+        "question": "what is the price of kebab board?",
+        "answer": "31.00",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/londons-pride-main-menu/page_1.png"
+        ],
+        "Ground truth page": "Restaurant_files/londons-pride-main-menu/page_1.png"
+    },
+    {
+        "question": "what is the price of eggs royale?",
+        "answer": "14.95",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/londons-pride-breakfast-menu/page_1.png"
+        ],
+        "Ground truth page": "Restaurant_files/londons-pride-breakfast-menu/page_1.png"
+    },
+    {
+        "question": "what is the price of american pancake?",
+        "answer": "13.50",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/londons-pride-breakfast-menu/page_1.png"
+        ],
+        "Ground truth page": "Restaurant_files/londons-pride-breakfast-menu/page_1.png"
+    },
+    {
+        "question": "What are the caloris for Korean BBQ Chicken?",
+        "answer": "1032",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/Giraffe_MAIN/page_3.png",
+            "Restaurant_files/Giraffe_MAIN/page_1.png",
+            "Restaurant_files/Giraffe_MAIN/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/Giraffe_MAIN/page_2.png"
+    },
+    {
+        "question": "What are the caloris for Teriyaki Rice Bowl with chicken?",
+        "answer": "857",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/Giraffe_MAIN/page_3.png",
+            "Restaurant_files/Giraffe_MAIN/page_1.png",
+            "Restaurant_files/Giraffe_MAIN/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/Giraffe_MAIN/page_2.png"
+    },
+    {
+        "question": "What is the price for Fish & Chips?",
+        "answer": "16.75",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/Giraffe_MAIN/page_3.png",
+            "Restaurant_files/Giraffe_MAIN/page_1.png",
+            "Restaurant_files/Giraffe_MAIN/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/Giraffe_MAIN/page_2.png"
+    },
+    {
+        "question": "What is the price for Croissant & Butter?",
+        "answer": "3.40",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/fb_conc_main-menu_0524_web/page_1.png",
+            "Restaurant_files/fb_conc_main-menu_0524_web/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/fb_conc_main-menu_0524_web/page_1.png"
+    },
+    {
+        "question": "What are the calories for Hot Chocolate?",
+        "answer": "293",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/fb_conc_main-menu_0524_web/page_1.png",
+            "Restaurant_files/fb_conc_main-menu_0524_web/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/fb_conc_main-menu_0524_web/page_2.png"
+    },
+    {
+        "question": "What are the calories for Breakfast Stacker?",
+        "answer": "1467",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/fb_conc_scot_breakfast_0524_web/page_1.png",
+            "Restaurant_files/fb_conc_scot_breakfast_0524_web/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/fb_conc_scot_breakfast_0524_web/page_1.png"
+    },
+    {
+        "question": "What are the additional calories if i add chicken in my carbonara?",
+        "answer": "+117",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/fb_conc_main-menu_0524_web/page_1.png",
+            "Restaurant_files/fb_conc_main-menu_0524_web/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/fb_conc_main-menu_0524_web/page_1.png"
+    },
+    {
+        "question": "What is the the price of Double Bacon Cheese burger?",
+        "answer": "19.20",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/fb_conc_main-menu_0524_web/page_1.png",
+            "Restaurant_files/fb_conc_main-menu_0524_web/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/fb_conc_main-menu_0524_web/page_1.png"
+    },
+    {
+        "question": "What is the the calorie count of half rack of Smoky BBQ Ribs?",
+        "answer": "899",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/fb_conc_main-menu_0524_web/page_1.png",
+            "Restaurant_files/fb_conc_main-menu_0524_web/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/fb_conc_main-menu_0524_web/page_1.png"
+    },
+    {
+        "question": "What is the the calorie count of Classic Caesar salad?",
+        "answer": "457",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/fb_conc_main-menu_0524_web/page_1.png",
+            "Restaurant_files/fb_conc_main-menu_0524_web/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/fb_conc_main-menu_0524_web/page_1.png"
+    },
+    {
+        "question": "What is the the calorie count of Piccolo Pasta with no veggies?",
+        "answer": "236",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/fb_conc_kids-main_0524_web/page_1.png",
+            "Restaurant_files/fb_conc_kids-main_0524_web/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/fb_conc_kids-main_0524_web/page_1.png"
+    },
+    {
+        "question": "What is the the calorie count of Pasta & Meatballs with veggies?",
+        "answer": "722",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/fb_conc_kids-main_0524_web/page_1.png",
+            "Restaurant_files/fb_conc_kids-main_0524_web/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/fb_conc_kids-main_0524_web/page_1.png"
+    },
+    {
+        "question": "What is the the calorie count of Piccolo Pasta Bolognese with veggies?",
+        "answer": "356",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/fb_conc_kids-main_0524_web/page_1.png",
+            "Restaurant_files/fb_conc_kids-main_0524_web/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/fb_conc_kids-main_0524_web/page_1.png"
+    },
+    {
+        "question": "What is the the price of Americano?",
+        "answer": "3.6",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/Eats_Menu_Bangalore_Digital/page_1.png",
+            "Restaurant_files/Eats_Menu_Bangalore_Digital/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/Eats_Menu_Bangalore_Digital/page_1.png"
+    },
+    {
+        "question": "What is the calorie count of Hot Chocolate?",
+        "answer": "293",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/fb_conc_drinks_0524_web/page_1.png",
+            "Restaurant_files/fb_conc_drinks_0524_web/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/fb_conc_drinks_0524_web/page_2.png"
+    },
+    {
+        "question": "What is the calorie count of Big Tom Spicy Tomato Juice?",
+        "answer": "236",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/Eats_Menu_Bangalore_Digital/page_1.png",
+            "Restaurant_files/Eats_Menu_Bangalore_Digital/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/Eats_Menu_Bangalore_Digital/page_1.png"
+    },
+    {
+        "question": "what is the price of full classic nachos with Fajita Steak?",
+        "answer": "850",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/Eats_Menu_Bangalore_Digital/page_1.png",
+            "Restaurant_files/Eats_Menu_Bangalore_Digital/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/Eats_Menu_Bangalore_Digital/page_1.png"
+    },
+    {
+        "question": "what is the price of 250 ml Reserve de Lucien?",
+        "answer": "18.00",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/Co-Pilots-T4-Menu/page_1.png",
+            "Restaurant_files/Co-Pilots-T4-Menu/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/Co-Pilots-T4-Menu/page_2.png"
+    },
+    {
+        "question": "Does florentine eggs have hollandaise?",
+        "answer": "Yes",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/Co-Pilots-T4-Menu/page_1.png",
+            "Restaurant_files/Co-Pilots-T4-Menu/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/Co-Pilots-T4-Menu/page_1.png"
+    },
+    {
+        "question": "What is the price of the Crispy Fried Artichokes?",
+        "answer": "3.95",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_3.png",
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_6.png",
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_4.png",
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_10.png",
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_8.png",
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_1.png",
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_9.png",
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_5.png",
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_7.png",
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_2.png"
+    },
+    {
+        "question": "what is the price of Iced Tea?",
+        "answer": "6",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/Aventura_Brunch/page_1.png",
+            "Restaurant_files/Aventura_Brunch/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/Aventura_Brunch/page_1.png"
+    },
+    {
+        "question": "what is the size of meat in hanger steak?",
+        "answer": "9oz",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/Aventura_Brunch/page_1.png",
+            "Restaurant_files/Aventura_Brunch/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/Aventura_Brunch/page_1.png"
+    },
+    {
+        "question": "what is the price of Malagousia",
+        "answer": "85",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/Aventura_Brunch/page_1.png",
+            "Restaurant_files/Aventura_Brunch/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/Aventura_Brunch/page_2.png"
+    },
+    {
+        "question": "which dish contains kalamata olives",
+        "answer": "MOROCCAN FISH",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/Aventura_Brunch/page_1.png",
+            "Restaurant_files/Aventura_Brunch/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/Aventura_Brunch/page_1.png"
+    },
+    {
+        "question": "what is the portion size of chicken dum biryani?",
+        "answer": "377gm",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/1911-restaurant-menu/page_1.png"
+        ],
+        "Ground truth page": "Restaurant_files/1911-restaurant-menu/page_1.png"
+    },
+    {
+        "question": "what is the price of paneer and sabudana burger?",
+        "answer": "1150",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/1911-restaurant-menu/page_1.png"
+        ],
+        "Ground truth page": "Restaurant_files/1911-restaurant-menu/page_1.png"
+    },
+    {
+        "question": "what is the calorie count of Falafel Platter?",
+        "answer": "592",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/1911-restaurant-menu/page_1.png"
+        ],
+        "Ground truth page": "Restaurant_files/1911-restaurant-menu/page_1.png"
+    },
+    {
+        "question": "what is the calorie count of French Fries?",
+        "answer": "144",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/1911-restaurant-menu/page_1.png"
+        ],
+        "Ground truth page": "Restaurant_files/1911-restaurant-menu/page_1.png"
+    },
+    {
+        "question": "what is the price of old mout with Pineapple & Raspberry?",
+        "answer": "162,116",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/montys-reduced-all-day-launch-menu-web-002/page_1.png",
+            "Restaurant_files/montys-reduced-all-day-launch-menu-web-002/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/montys-reduced-all-day-launch-menu-web-002/page_2.png"
+    },
+    {
+        "question": "Does Tandoori Murgh Makhani contain cashew nuts?",
+        "answer": "Yes",
+        "category": "common sense",
+        "Image_list": [
+            "Restaurant_files/1911-restaurant-menu/page_1.png"
+        ],
+        "Ground truth page": "Restaurant_files/1911-restaurant-menu/page_1.png"
+    },
+    {
+        "question": "Are the Signature Potato Twisters topped with diced vegetables?",
+        "answer": "Yes",
+        "category": "boolean",
+        "Image_list": [
+            "Restaurant_files/TGI/page_3.png",
+            "Restaurant_files/TGI/page_6.png",
+            "Restaurant_files/TGI/page_4.png",
+            "Restaurant_files/TGI/page_1.png",
+            "Restaurant_files/TGI/page_5.png",
+            "Restaurant_files/TGI/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/TGI/page_2.png"
+    },
+    {
+        "question": "Does the Signature Potato Twisters have more calories than the Cheeseburger Sliders?",
+        "answer": "Yes",
+        "category": "comparison",
+        "Image_list": [
+            "Restaurant_files/TGI/page_3.png",
+            "Restaurant_files/TGI/page_6.png",
+            "Restaurant_files/TGI/page_4.png",
+            "Restaurant_files/TGI/page_1.png",
+            "Restaurant_files/TGI/page_5.png",
+            "Restaurant_files/TGI/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/TGI/page_2.png"
+    },
+    {
+        "question": "How many calories are in the Fridays' Sesame Signature Glaze Chicken Strips?",
+        "answer": "1104",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/TGI/page_3.png",
+            "Restaurant_files/TGI/page_6.png",
+            "Restaurant_files/TGI/page_4.png",
+            "Restaurant_files/TGI/page_1.png",
+            "Restaurant_files/TGI/page_5.png",
+            "Restaurant_files/TGI/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/TGI/page_2.png"
+    },
+    {
+        "question": "What is the price of the Signature Glaze sliders?",
+        "answer": "49",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/TGI/page_3.png",
+            "Restaurant_files/TGI/page_6.png",
+            "Restaurant_files/TGI/page_4.png",
+            "Restaurant_files/TGI/page_1.png",
+            "Restaurant_files/TGI/page_5.png",
+            "Restaurant_files/TGI/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/TGI/page_2.png"
+    },
+    {
+        "question": "What is the calorie count of \"Cheeseburger sliders\" in the \"Three for All\" platter?",
+        "answer": "507",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/TGI/page_3.png",
+            "Restaurant_files/TGI/page_6.png",
+            "Restaurant_files/TGI/page_4.png",
+            "Restaurant_files/TGI/page_1.png",
+            "Restaurant_files/TGI/page_5.png",
+            "Restaurant_files/TGI/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/TGI/page_2.png"
+    },
+    {
+        "question": "What is the price of SM size Traditional Wings?",
+        "answer": "50",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/TGI/page_3.png",
+            "Restaurant_files/TGI/page_6.png",
+            "Restaurant_files/TGI/page_4.png",
+            "Restaurant_files/TGI/page_1.png",
+            "Restaurant_files/TGI/page_5.png",
+            "Restaurant_files/TGI/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/TGI/page_2.png"
+    },
+    {
+        "question": "Does the BBQ Chicken pizza include cilantro?",
+        "answer": "Yes",
+        "category": "boolean",
+        "Image_list": [
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_3.png",
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_6.png",
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_4.png",
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_10.png",
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_8.png",
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_1.png",
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_9.png",
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_5.png",
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_7.png",
+            "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/BJs-Restaurant-Brewhouse-Shenandoah-Menu/page_3.png"
+    },
+    {
+        "question": "What is the calorie count of the Salaminio Picante pizza?",
+        "answer": "1678",
+        "category": "inline",
+        "Image_list": [
+            "Restaurant_files/merged_output_9/page_3.png",
+            "Restaurant_files/merged_output_9/page_6.png",
+            "Restaurant_files/merged_output_9/page_4.png",
+            "Restaurant_files/merged_output_9/page_1.png",
+            "Restaurant_files/merged_output_9/page_5.png",
+            "Restaurant_files/merged_output_9/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/merged_output_9/page_6.png"
+    },
+    {
+        "question": "Does the Affogato dessert come with a gluten-free (GF) option?",
+        "answer": "Yes",
+        "category": "boolean",
+        "Image_list": [
+            "Restaurant_files/bocco_menus_main-drinks-inners_0324_web/page_1.png",
+            "Restaurant_files/bocco_menus_main-drinks-inners_0324_web/page_2.png"
+        ],
+        "Ground truth page": "Restaurant_files/bocco_menus_main-drinks-inners_0324_web/page_1.png"
+    }
+]
