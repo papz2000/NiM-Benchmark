@@ -1,4 +1,7 @@
 # NiM-Benchmark
+
+This is a sample dataset, and we plan to release the full benchmark in the future.
+
 ## Overview
 This JSON file stores structured data for document-based question answering, mapping questions to answers along with relevant image references.
 
