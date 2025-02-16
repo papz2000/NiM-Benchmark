@@ -1,0 +1,114 @@
+[
+    {
+        "question": "Which model introduced hand-crafted functions based on physical concepts of attraction and repulsion?",
+        "answer": "Social Force Model",
+        "category": "Inline",
+        "Ground truth page": "dataset_sub/acad_paper_data/2501.13848v1/images/page_2.png",
+        "Image_list": [
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_3.png",
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_4.png",
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_1.png",
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_5.png",
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_2.png",
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_6.png"
+        ]
+    },
+    {
+        "question": "Which module processes H_fused to predict future positions?",
+        "answer": "Inline Convolutional Network (TCN)",
+        "category": "Inline",
+        "Ground truth page": "dataset_sub/acad_paper_data/2501.13848v1/images/page_3.png",
+        "Image_list": [
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_2.png",
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_3.png",
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_6.png",
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_1.png",
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_5.png",
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_4.png"
+        ]
+    },
+    {
+        "question": "Which module utilizes SGCN to model pedestrian interactions?",
+        "answer": "Interaction Module",
+        "category": "Inline",
+        "Ground truth page": "dataset_sub/acad_paper_data/2501.13848v1/images/page_3.png",
+        "Image_list": [
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_4.png",
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_1.png",
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_5.png",
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_3.png",
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_2.png",
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_6.png"
+        ]
+    },
+    {
+        "question": "Which module integrates scene features with interaction features for trajectory prediction?",
+        "answer": "Cross-Attention Module",
+        "category": "Inline",
+        "Ground truth page": "dataset_sub/acad_paper_data/2501.13848v1/images/page_3.png",
+        "Image_list": [
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_6.png",
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_5.png",
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_2.png",
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_1.png",
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_3.png",
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_4.png"
+        ]
+    },
+    {
+        "question": "Which ResNet variant is used in the Feature Extraction Module?",
+        "answer": "ResNet-18",
+        "category": "Inline",
+        "Ground truth page": "dataset_sub/acad_paper_data/2501.13848v1/images/page_4.png",
+        "Image_list": [
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_5.png",
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_4.png",
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_3.png",
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_2.png",
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_6.png",
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_1.png"
+        ]
+    },
+    {
+        "question": "What is the previous best ADE in the HOTEL scene achieved by SGCN?",
+        "answer": "0.31 meters",
+        "category": "Inline",
+        "Ground truth page": "dataset_sub/acad_paper_data/2501.13848v1/images/page_4.png",
+        "Image_list": [
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_5.png",
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_6.png",
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_1.png",
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_2.png",
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_3.png",
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_4.png"
+        ]
+    },
+    {
+        "question": "What is the best APE in the MOVIE scene achieved by SKCN?",
+        "answer": "Unanswerable",
+        "category": "Unanswerable",
+        "Ground truth page": "dataset_sub/acad_paper_data/2501.13848v1/images/page_4.png",
+        "Image_list": [
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_4.png",
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_3.png",
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_1.png",
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_5.png",
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_2.png",
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_6.png"
+        ]
+    },
+    {
+        "question": "Which model is used for universal image segmentation in Oneformer?",
+        "answer": "One transformer",
+        "category": "Inline",
+        "Ground truth page": "dataset_sub/acad_paper_data/2501.13848v1/images/page_6.png",
+        "Image_list": [
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_4.png",
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_6.png",
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_1.png",
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_3.png",
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_5.png",
+            "dataset_sub/acad_paper_data/2501.13848v1/images/page_2.png"
+        ]
+    }
+]

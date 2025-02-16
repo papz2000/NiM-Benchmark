@@ -1,0 +1,87 @@
+[{
+    "question": "what is the price of Spicy meat feast?",
+    "answer": "15.90",
+    "category": "inline",
+    "Image_list": [
+        "Restaurant_files/star-light-menu/page_1.png",
+        "Restaurant_files/star-light-menu/page_2.png"
+    ],
+    "Ground truth page": "Restaurant_files/star-light-menu/page_1.png"
+},
+{
+    "question": "what is the calorie count of Spicy meat feast?",
+    "answer": "1220",
+    "category": "inline",
+    "Image_list": [
+        "Restaurant_files/star-light-menu/page_1.png",
+        "Restaurant_files/star-light-menu/page_2.png"
+    ],
+    "Ground truth page": "Restaurant_files/star-light-menu/page_2.png"
+},
+{
+    "question": "what is the the price of chessy chips and gravy?",
+    "answer": "5.49",
+    "category": "inline",
+    "Image_list": [
+        "Restaurant_files/the-kissing-gate-all-day-menu-march-2024/page_1.png",
+        "Restaurant_files/the-kissing-gate-all-day-menu-march-2024/page_2.png"
+    ],
+    "Ground truth page": "Restaurant_files/the-kissing-gate-all-day-menu-march-2024/page_2.png"
+},
+{
+    "question": "what is the price of lahori naan?",
+    "answer": "4.99",
+    "category": "inline",
+    "Image_list": [
+        "Restaurant_files/TOI_webmenu_082410/page_3.png",
+        "Restaurant_files/TOI_webmenu_082410/page_6.png",
+        "Restaurant_files/TOI_webmenu_082410/page_4.png",
+        "Restaurant_files/TOI_webmenu_082410/page_1.png",
+        "Restaurant_files/TOI_webmenu_082410/page_5.png",
+        "Restaurant_files/TOI_webmenu_082410/page_2.png"
+    ],
+    "Ground truth page": "Restaurant_files/TOI_webmenu_082410/page_2.png"
+},
+{
+    "question": "what is the difference between Mysore dosa and Masala dosa?",
+    "answer": "Mysore dosa is made with spicy Mysore chutney, while Masala dosa is made with lightly spiced onions and potatoes.",
+    "category": "comparison",
+    "Image_list": [
+        "Restaurant_files/TOI_webmenu_082410/page_3.png",
+        "Restaurant_files/TOI_webmenu_082410/page_6.png",
+        "Restaurant_files/TOI_webmenu_082410/page_4.png",
+        "Restaurant_files/TOI_webmenu_082410/page_1.png",
+        "Restaurant_files/TOI_webmenu_082410/page_5.png",
+        "Restaurant_files/TOI_webmenu_082410/page_2.png"
+    ],
+    "Ground truth page": "Restaurant_files/TOI_webmenu_082410/page_5.png"
+},
+{
+    "question": "is shahi paneer cheaper than malai kofta?",
+    "answer": "No",
+    "category": "comparison",
+    "Image_list": [
+        "Restaurant_files/TOI_webmenu_082410/page_3.png",
+        "Restaurant_files/TOI_webmenu_082410/page_6.png",
+        "Restaurant_files/TOI_webmenu_082410/page_4.png",
+        "Restaurant_files/TOI_webmenu_082410/page_1.png",
+        "Restaurant_files/TOI_webmenu_082410/page_5.png",
+        "Restaurant_files/TOI_webmenu_082410/page_2.png"
+    ],
+    "Ground truth page": "Restaurant_files/TOI_webmenu_082410/page_5.png"
+},
+{
+    "question": "is mysore dosa cheaper than mysore masala dosa?",
+    "answer": "Yes",
+    "category": "comparison",
+    "Image_list": [
+        "Restaurant_files/TOI_webmenu_082410/page_3.png",
+        "Restaurant_files/TOI_webmenu_082410/page_6.png",
+        "Restaurant_files/TOI_webmenu_082410/page_4.png",
+        "Restaurant_files/TOI_webmenu_082410/page_1.png",
+        "Restaurant_files/TOI_webmenu_082410/page_5.png",
+        "Restaurant_files/TOI_webmenu_082410/page_2.png"
+    ],
+    "Ground truth page": "Restaurant_files/TOI_webmenu_082410/page_5.png"
+}
+]

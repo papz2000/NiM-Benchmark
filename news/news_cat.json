@@ -1,0 +1,184 @@
+[
+    {
+        "question": "What chemical is central to Mexican cartels' operations?",
+        "answer": "Fentanyl",
+        "category": "Inline",
+        "Ground truth page": "dataset_sub/news_data/The Telegraph 02-12/images/page_1.png",
+        "Image_list": [
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_8.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_9.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_4.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_1.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_2.png"
+        ]
+    },
+    {
+        "question": "What is the age of the steam locos displayed at the Ghum Festival?",
+        "answer": "Over 100 years old",
+        "category": "Inline",
+        "Ground truth page": "dataset_sub/news_data/The Telegraph 02-12/images/page_2.png",
+        "Image_list": [
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_9.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_1.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_10.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_2.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_5.png"
+        ]
+    },
+    {
+        "question": "When was the Darjeeling Himalayan Railway granted UNESCO heritage status?",
+        "answer": "December 5, 1999",
+        "category": "Inline",
+        "Ground truth page": "dataset_sub/news_data/The Telegraph 02-12/images/page_2.png",
+        "Image_list": [
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_4.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_5.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_6.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_2.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_7.png"
+        ]
+    },
+    {
+        "question": "Who was the first Indian vice-chancellor of Calcutta University?",
+        "answer": "Gurudas Bandyopadhyay",
+        "category": "Inline",
+        "Ground truth page": "dataset_sub/news_data/The Telegraph 02-12/images/page_4.png",
+        "Image_list": [
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_8.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_10.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_4.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_3.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_5.png"
+        ]
+    },
+    {
+        "question": "Who is the registrar of Calcutta University?",
+        "answer": "Debasish Das",
+        "category": "Inline",
+        "Ground truth page": "dataset_sub/news_data/The Telegraph 02-12/images/page_5.png",
+        "Image_list": [
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_10.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_5.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_9.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_2.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_4.png"
+        ]
+    },
+    {
+        "question": "Who organized the Maa (Mother's Apt Appreciation) project?",
+        "answer": "Rotary Club of Calcutta North East",
+        "category": "Inline",
+        "Ground truth page": "dataset_sub/news_data/The Telegraph 02-12/images/page_5.png",
+        "Image_list": [
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_7.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_4.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_5.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_10.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_3.png"
+        ]
+    },
+    {
+        "question": "What genetic mutation was Anuradha and her mother tested positive for?",
+        "answer": "BRCA 1",
+        "category": "Inline",
+        "Ground truth page": "dataset_sub/news_data/The Telegraph 02-12/images/page_5.png",
+        "Image_list": [
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_9.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_7.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_1.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_5.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_2.png"
+        ]
+    },
+    {
+        "question": "What is the local Bengali name for Russell's viper?",
+        "answer": "Chandrobora",
+        "category": "Inline",
+        "Ground truth page": "dataset_sub/news_data/The Telegraph 02-12/images/page_6.png",
+        "Image_list": [
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_6.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_10.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_5.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_7.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_8.png"
+        ]
+    },
+    {
+        "question": "Which school launched the 'Zero Wastage of Food' project?",
+        "answer": "BDM International",
+        "category": "Inline",
+        "Ground truth page": "dataset_sub/news_data/The Telegraph 02-12/images/page_6.png",
+        "Image_list": [
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_10.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_7.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_8.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_6.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_1.png"
+        ]
+    },
+    {
+        "question": "How many trucks entered Bangladesh from Mahadipur on Saturday?",
+        "answer": "170 trucks",
+        "category": "Inline",
+        "Ground truth page": "dataset_sub/news_data/The Telegraph 02-12/images/page_6.png",
+        "Image_list": [
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_4.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_1.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_6.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_9.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_10.png"
+        ]
+    },
+    {
+        "question": "What is the official hydration partner for Tata Steel World 25K?",
+        "answer": "Bisleri",
+        "category": "Inline",
+        "Ground truth page": "dataset_sub/news_data/The Telegraph 02-12/images/page_6.png",
+        "Image_list": [
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_9.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_6.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_3.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_10.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_2.png"
+        ]
+    },
+    {
+        "question": "What genre is the game 'App Wars 01'?",
+        "answer": "RPG",
+        "category": "Inline",
+        "Ground truth page": "dataset_sub/news_data/The Telegraph 02-12/images/page_10.png",
+        "Image_list": [
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_9.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_1.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_10.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_7.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_8.png"
+        ]
+    },
+    {
+        "question": "Which country sits atop the mid-oceanic ridge separating North America and Europe?",
+        "answer": "Iceland",
+        "category": "Inline",
+        "Ground truth page": "dataset_sub/news_data/The Telegraph 02-12/images/page_10.png",
+        "Image_list": [
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_3.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_9.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_5.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_10.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_8.png"
+        ]
+    },
+    {
+        "question": "What is the size of Zealandia in square kilometers?",
+        "answer": "4.9 million square kilometers",
+        "category": "Inline",
+        "Ground truth page": "dataset_sub/news_data/The Telegraph 02-12/images/page_10.png",
+        "Image_list": [
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_7.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_2.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_10.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_5.png",
+            "dataset_sub/news_data/The Telegraph 02-12/images/page_4.png"
+        ]
+    }
+]

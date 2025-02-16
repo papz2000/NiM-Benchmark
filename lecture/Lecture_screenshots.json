@@ -1,0 +1,1838 @@
+[
+    {
+        "Question": "What is the condition for the equation \"\\bar{w} \\cdot \\bar{u} \\geq C\" as shown on the blackboard?",
+        "Answer": "C = -b",
+        "Image": "Lecture_screenshots/screenshot_9.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_16.png",
+            "Lecture_screenshots/screenshot_37.png",
+            "Lecture_screenshots/screenshot_1.png",
+            "Lecture_screenshots/screenshot_19.png",
+            "Lecture_screenshots/screenshot_42.png",
+            "Lecture_screenshots/screenshot_3.png",
+            "Lecture_screenshots/screenshot_9.png",
+            "Lecture_screenshots/screenshot_20.png",
+            "Lecture_screenshots/screenshot_21.png",
+            "Lecture_screenshots/screenshot_46.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "what is the Decision Rule on the blackboard?",
+        "Answer": "\\bar{w} \\cdot \\bar{u} + b \\geq 0",
+        "Image": "Lecture_screenshots/screenshot_9.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_16.png",
+            "Lecture_screenshots/screenshot_37.png",
+            "Lecture_screenshots/screenshot_1.png",
+            "Lecture_screenshots/screenshot_19.png",
+            "Lecture_screenshots/screenshot_42.png",
+            "Lecture_screenshots/screenshot_3.png",
+            "Lecture_screenshots/screenshot_9.png",
+            "Lecture_screenshots/screenshot_20.png",
+            "Lecture_screenshots/screenshot_21.png",
+            "Lecture_screenshots/screenshot_46.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "True or False: In the 'ORACLE' Graph, node 'A' has a value of 7.",
+        "Answer": "False",
+        "Image": "Lecture_screenshots/screenshot_33.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_15.png",
+            "Lecture_screenshots/screenshot_12.png",
+            "Lecture_screenshots/screenshot_18.png",
+            "Lecture_screenshots/screenshot_33.png",
+            "Lecture_screenshots/screenshot_14.png",
+            "Lecture_screenshots/screenshot_44.png",
+            "Lecture_screenshots/screenshot_24.png",
+            "Lecture_screenshots/screenshot_40.png",
+            "Lecture_screenshots/screenshot_27.png",
+            "Lecture_screenshots/screenshot_7.png"
+        ],
+        "Category": "Boolean"
+    },
+    {
+        "Question": "True or False: The node 'S' has a value of 0 in the 'BRANCH & BOUND' Graph",
+        "Answer": "True",
+        "Image": "Lecture_screenshots/screenshot_33.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_15.png",
+            "Lecture_screenshots/screenshot_12.png",
+            "Lecture_screenshots/screenshot_18.png",
+            "Lecture_screenshots/screenshot_33.png",
+            "Lecture_screenshots/screenshot_14.png",
+            "Lecture_screenshots/screenshot_44.png",
+            "Lecture_screenshots/screenshot_24.png",
+            "Lecture_screenshots/screenshot_40.png",
+            "Lecture_screenshots/screenshot_27.png",
+            "Lecture_screenshots/screenshot_7.png"
+        ],
+        "Category": "Boolean"
+    },
+    {
+        "Question": "What is the formula for L as described on the blackboard?",
+        "Answer": "L = \\frac{1}{2} \\|\\bar{w}\\|^2 - \\sum \\alpha_i \\left[ y_i (\\bar{w} \\cdot \\bar{x}_i + b) - 1 \\right]",
+        "Image": "Lecture_screenshots/screenshot_8.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_27.png",
+            "Lecture_screenshots/screenshot_1.png",
+            "Lecture_screenshots/screenshot_8.png",
+            "Lecture_screenshots/screenshot_41.png",
+            "Lecture_screenshots/screenshot_2.png",
+            "Lecture_screenshots/screenshot_18.png",
+            "Lecture_screenshots/screenshot_31.png",
+            "Lecture_screenshots/screenshot_40.png",
+            "Lecture_screenshots/screenshot_37.png",
+            "Lecture_screenshots/screenshot_26.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "According to the blackboard, what is the result of the partial derivative of L with respect to b (\\frac{\\partial L}{\\partial b})?",
+        "Answer": "\\sum \\alpha_i y_i = 0",
+        "Image": "Lecture_screenshots/screenshot_8.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_27.png",
+            "Lecture_screenshots/screenshot_1.png",
+            "Lecture_screenshots/screenshot_8.png",
+            "Lecture_screenshots/screenshot_41.png",
+            "Lecture_screenshots/screenshot_2.png",
+            "Lecture_screenshots/screenshot_18.png",
+            "Lecture_screenshots/screenshot_31.png",
+            "Lecture_screenshots/screenshot_40.png",
+            "Lecture_screenshots/screenshot_37.png",
+            "Lecture_screenshots/screenshot_26.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "Which feature is marked with equal number of  '+' and '-' for all entries in the 'KATS' column?",
+        "Answer": "Continuent",
+        "Image": "Lecture_screenshots/screenshot_23.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_4.png",
+            "Lecture_screenshots/screenshot_6.png",
+            "Lecture_screenshots/screenshot_44.png",
+            "Lecture_screenshots/screenshot_10.png",
+            "Lecture_screenshots/screenshot_47.png",
+            "Lecture_screenshots/screenshot_43.png",
+            "Lecture_screenshots/screenshot_23.png",
+            "Lecture_screenshots/screenshot_42.png",
+            "Lecture_screenshots/screenshot_41.png",
+            "Lecture_screenshots/screenshot_29.png"
+        ],
+        "Category": "Reasoning"
+    },
+    {
+        "Question": "How many plus signs (+) are there in the 'KATS' column for the STRIDENT feature?",
+        "Answer": "1",
+        "Image": "Lecture_screenshots/screenshot_23.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_4.png",
+            "Lecture_screenshots/screenshot_6.png",
+            "Lecture_screenshots/screenshot_44.png",
+            "Lecture_screenshots/screenshot_10.png",
+            "Lecture_screenshots/screenshot_47.png",
+            "Lecture_screenshots/screenshot_43.png",
+            "Lecture_screenshots/screenshot_23.png",
+            "Lecture_screenshots/screenshot_42.png",
+            "Lecture_screenshots/screenshot_41.png",
+            "Lecture_screenshots/screenshot_29.png"
+        ],
+        "Category": "Reasoning"
+    },
+    {
+        "Question": "How many plus signs (+) are there in the 'KATS' column?",
+        "Answer": "6",
+        "Image": "Lecture_screenshots/screenshot_23.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_4.png",
+            "Lecture_screenshots/screenshot_6.png",
+            "Lecture_screenshots/screenshot_44.png",
+            "Lecture_screenshots/screenshot_10.png",
+            "Lecture_screenshots/screenshot_47.png",
+            "Lecture_screenshots/screenshot_43.png",
+            "Lecture_screenshots/screenshot_23.png",
+            "Lecture_screenshots/screenshot_42.png",
+            "Lecture_screenshots/screenshot_41.png",
+            "Lecture_screenshots/screenshot_29.png"
+        ],
+        "Category": "Reasoning"
+    },
+    {
+        "Question": "Which feature is marked with a '+' for all filled entries in the 'DOGZ' column?",
+        "Answer": "VOICED",
+        "Image": "Lecture_screenshots/screenshot_23.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_4.png",
+            "Lecture_screenshots/screenshot_6.png",
+            "Lecture_screenshots/screenshot_44.png",
+            "Lecture_screenshots/screenshot_10.png",
+            "Lecture_screenshots/screenshot_47.png",
+            "Lecture_screenshots/screenshot_43.png",
+            "Lecture_screenshots/screenshot_23.png",
+            "Lecture_screenshots/screenshot_42.png",
+            "Lecture_screenshots/screenshot_41.png",
+            "Lecture_screenshots/screenshot_29.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "Which feature is marked with a '+' for all filled entries in the 'KATS' column?",
+        "Answer": "Information not available",
+        "Image": "Lecture_screenshots/screenshot_23.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_4.png",
+            "Lecture_screenshots/screenshot_6.png",
+            "Lecture_screenshots/screenshot_44.png",
+            "Lecture_screenshots/screenshot_10.png",
+            "Lecture_screenshots/screenshot_47.png",
+            "Lecture_screenshots/screenshot_43.png",
+            "Lecture_screenshots/screenshot_23.png",
+            "Lecture_screenshots/screenshot_42.png",
+            "Lecture_screenshots/screenshot_41.png",
+            "Lecture_screenshots/screenshot_29.png"
+        ],
+        "Category": "Unanswerable"
+    },
+    {
+        "Question": "Which feature is marked with a '-' for all filled entries in the 'KATS' column?",
+        "Answer": "Information not available",
+        "Image": "Lecture_screenshots/screenshot_23.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_4.png",
+            "Lecture_screenshots/screenshot_6.png",
+            "Lecture_screenshots/screenshot_44.png",
+            "Lecture_screenshots/screenshot_10.png",
+            "Lecture_screenshots/screenshot_47.png",
+            "Lecture_screenshots/screenshot_43.png",
+            "Lecture_screenshots/screenshot_23.png",
+            "Lecture_screenshots/screenshot_42.png",
+            "Lecture_screenshots/screenshot_41.png",
+            "Lecture_screenshots/screenshot_29.png"
+        ],
+        "Category": "Unanswerable"
+    },
+    {
+        "Question": "Which feature is not marked with any symbol (+/-) in the 'KATS' columns?",
+        "Answer": "Information not available",
+        "Image": "Lecture_screenshots/screenshot_23.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_4.png",
+            "Lecture_screenshots/screenshot_6.png",
+            "Lecture_screenshots/screenshot_44.png",
+            "Lecture_screenshots/screenshot_10.png",
+            "Lecture_screenshots/screenshot_47.png",
+            "Lecture_screenshots/screenshot_43.png",
+            "Lecture_screenshots/screenshot_23.png",
+            "Lecture_screenshots/screenshot_42.png",
+            "Lecture_screenshots/screenshot_41.png",
+            "Lecture_screenshots/screenshot_29.png"
+        ],
+        "Category": "Unanswerable"
+    },
+    {
+        "Question": "In the Venn diagram, under the 'INTUITION' heading, which circle is fully shaded?",
+        "Answer": "b",
+        "Image": "Lecture_screenshots/screenshot_45.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_10.png",
+            "Lecture_screenshots/screenshot_38.png",
+            "Lecture_screenshots/screenshot_26.png",
+            "Lecture_screenshots/screenshot_19.png",
+            "Lecture_screenshots/screenshot_28.png",
+            "Lecture_screenshots/screenshot_7.png",
+            "Lecture_screenshots/screenshot_22.png",
+            "Lecture_screenshots/screenshot_45.png",
+            "Lecture_screenshots/screenshot_27.png",
+            "Lecture_screenshots/screenshot_37.png"
+        ],
+        "Category": "Reasoning"
+    },
+    {
+        "Question": "True or False: The diagram on the right side of the blackboard shows a '1 LINK' connection between nodes labeled 1 and 3.",
+        "Answer": "False",
+        "Image": "Lecture_screenshots/screenshot_7.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_38.png",
+            "Lecture_screenshots/screenshot_31.png",
+            "Lecture_screenshots/screenshot_49.png",
+            "Lecture_screenshots/screenshot_20.png",
+            "Lecture_screenshots/screenshot_17.png",
+            "Lecture_screenshots/screenshot_35.png",
+            "Lecture_screenshots/screenshot_37.png",
+            "Lecture_screenshots/screenshot_41.png",
+            "Lecture_screenshots/screenshot_43.png",
+            "Lecture_screenshots/screenshot_7.png"
+        ],
+        "Category": "Boolean"
+    },
+    {
+        "Question": "True or False: There are less than three '2 LINK' connections shown on the blackboard.",
+        "Answer": "False",
+        "Image": "Lecture_screenshots/screenshot_7.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_38.png",
+            "Lecture_screenshots/screenshot_31.png",
+            "Lecture_screenshots/screenshot_49.png",
+            "Lecture_screenshots/screenshot_20.png",
+            "Lecture_screenshots/screenshot_17.png",
+            "Lecture_screenshots/screenshot_35.png",
+            "Lecture_screenshots/screenshot_37.png",
+            "Lecture_screenshots/screenshot_41.png",
+            "Lecture_screenshots/screenshot_43.png",
+            "Lecture_screenshots/screenshot_7.png"
+        ],
+        "Category": "Boolean"
+    },
+    {
+        "Question": "Which feature node among GARLIC, ACCENT and  COMPLEXION is Homogeneous?",
+        "Answer": "GARLIC",
+        "Image": "Lecture_screenshots/screenshot_16.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_44.png",
+            "Lecture_screenshots/screenshot_40.png",
+            "Lecture_screenshots/screenshot_27.png",
+            "Lecture_screenshots/screenshot_34.png",
+            "Lecture_screenshots/screenshot_50.png",
+            "Lecture_screenshots/screenshot_16.png",
+            "Lecture_screenshots/screenshot_29.png",
+            "Lecture_screenshots/screenshot_31.png",
+            "Lecture_screenshots/screenshot_2.png",
+            "Lecture_screenshots/screenshot_45.png"
+        ],
+        "Category": "Commonsense"
+    },
+    {
+        "Question": "Which feature node among GARLIC, ACCENT, SHADOW and  COMPLEXION crossed out on the blackboard?",
+        "Answer": "SHADOW",
+        "Image": "Lecture_screenshots/screenshot_16.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_44.png",
+            "Lecture_screenshots/screenshot_40.png",
+            "Lecture_screenshots/screenshot_27.png",
+            "Lecture_screenshots/screenshot_34.png",
+            "Lecture_screenshots/screenshot_50.png",
+            "Lecture_screenshots/screenshot_16.png",
+            "Lecture_screenshots/screenshot_29.png",
+            "Lecture_screenshots/screenshot_31.png",
+            "Lecture_screenshots/screenshot_2.png",
+            "Lecture_screenshots/screenshot_45.png"
+        ],
+        "Category": "Reasoning"
+    },
+    {
+        "Question": "What is the role of the element labeled with preposition 'FOR' in the TRAJECTORY FRAME diagram?",
+        "Answer": "BENEFICIARY",
+        "Image": "Lecture_screenshots/screenshot_25.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_18.png",
+            "Lecture_screenshots/screenshot_25.png",
+            "Lecture_screenshots/screenshot_42.png",
+            "Lecture_screenshots/screenshot_33.png",
+            "Lecture_screenshots/screenshot_31.png",
+            "Lecture_screenshots/screenshot_12.png",
+            "Lecture_screenshots/screenshot_8.png",
+            "Lecture_screenshots/screenshot_2.png",
+            "Lecture_screenshots/screenshot_43.png",
+            "Lecture_screenshots/screenshot_14.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "How many unique prepositions written on the balckboard for 'TRAJECTORY FRAME' diagram?",
+        "Answer": "5",
+        "Image": "Lecture_screenshots/screenshot_25.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_18.png",
+            "Lecture_screenshots/screenshot_25.png",
+            "Lecture_screenshots/screenshot_42.png",
+            "Lecture_screenshots/screenshot_33.png",
+            "Lecture_screenshots/screenshot_31.png",
+            "Lecture_screenshots/screenshot_12.png",
+            "Lecture_screenshots/screenshot_8.png",
+            "Lecture_screenshots/screenshot_2.png",
+            "Lecture_screenshots/screenshot_43.png",
+            "Lecture_screenshots/screenshot_14.png"
+        ],
+        "Category": "Commonsense"
+    },
+    {
+        "Question": "What is the First 'DON'T' instruction listed under the topic STRONG STORY HYPOTHESIS?",
+        "Answer": "DON'T USE PRONOUNS",
+        "Image": "Lecture_screenshots/screenshot_27.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_16.png",
+            "Lecture_screenshots/screenshot_3.png",
+            "Lecture_screenshots/screenshot_39.png",
+            "Lecture_screenshots/screenshot_19.png",
+            "Lecture_screenshots/screenshot_34.png",
+            "Lecture_screenshots/screenshot_27.png",
+            "Lecture_screenshots/screenshot_4.png",
+            "Lecture_screenshots/screenshot_13.png",
+            "Lecture_screenshots/screenshot_12.png",
+            "Lecture_screenshots/screenshot_41.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "What is the second 'DON'T' instruction listed under the topic STRONG STORY HYPOTHESIS??",
+        "Answer": "DON'T USE FORMER OR LATTER",
+        "Image": "Lecture_screenshots/screenshot_27.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_16.png",
+            "Lecture_screenshots/screenshot_3.png",
+            "Lecture_screenshots/screenshot_39.png",
+            "Lecture_screenshots/screenshot_19.png",
+            "Lecture_screenshots/screenshot_34.png",
+            "Lecture_screenshots/screenshot_27.png",
+            "Lecture_screenshots/screenshot_4.png",
+            "Lecture_screenshots/screenshot_13.png",
+            "Lecture_screenshots/screenshot_12.png",
+            "Lecture_screenshots/screenshot_41.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "How many Minus signs (-) are present under the Node 'COMPLEXION' Feture?",
+        "Answer": "5",
+        "Image": "Lecture_screenshots/screenshot_15.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_30.png",
+            "Lecture_screenshots/screenshot_15.png",
+            "Lecture_screenshots/screenshot_25.png",
+            "Lecture_screenshots/screenshot_44.png",
+            "Lecture_screenshots/screenshot_45.png",
+            "Lecture_screenshots/screenshot_43.png",
+            "Lecture_screenshots/screenshot_32.png",
+            "Lecture_screenshots/screenshot_39.png",
+            "Lecture_screenshots/screenshot_6.png",
+            "Lecture_screenshots/screenshot_38.png"
+        ],
+        "Category": "Reasoning"
+    },
+    {
+        "Question": "What letters are used to represent different categories for decision tree under the 'ACCENT' feature?",
+        "Answer": "N, H, O",
+        "Image": "Lecture_screenshots/screenshot_15.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_30.png",
+            "Lecture_screenshots/screenshot_15.png",
+            "Lecture_screenshots/screenshot_25.png",
+            "Lecture_screenshots/screenshot_44.png",
+            "Lecture_screenshots/screenshot_45.png",
+            "Lecture_screenshots/screenshot_43.png",
+            "Lecture_screenshots/screenshot_32.png",
+            "Lecture_screenshots/screenshot_39.png",
+            "Lecture_screenshots/screenshot_6.png",
+            "Lecture_screenshots/screenshot_38.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "What type of classifier is associated with an Error rate close to 0, as on blackboard?",
+        "Answer": "STRONG CLASSIFIER",
+        "Image": "Lecture_screenshots/screenshot_18.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_39.png",
+            "Lecture_screenshots/screenshot_9.png",
+            "Lecture_screenshots/screenshot_35.png",
+            "Lecture_screenshots/screenshot_8.png",
+            "Lecture_screenshots/screenshot_18.png",
+            "Lecture_screenshots/screenshot_7.png",
+            "Lecture_screenshots/screenshot_4.png",
+            "Lecture_screenshots/screenshot_27.png",
+            "Lecture_screenshots/screenshot_3.png",
+            "Lecture_screenshots/screenshot_40.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "What type of classifier is associated with an Error rate close to 0.5, according to the blackboard?",
+        "Answer": "WEAK CLASSIFIER",
+        "Image": "Lecture_screenshots/screenshot_18.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_39.png",
+            "Lecture_screenshots/screenshot_9.png",
+            "Lecture_screenshots/screenshot_35.png",
+            "Lecture_screenshots/screenshot_8.png",
+            "Lecture_screenshots/screenshot_18.png",
+            "Lecture_screenshots/screenshot_7.png",
+            "Lecture_screenshots/screenshot_4.png",
+            "Lecture_screenshots/screenshot_27.png",
+            "Lecture_screenshots/screenshot_3.png",
+            "Lecture_screenshots/screenshot_40.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "Besides 'BEWARE OF FAST TALKERS', what are the key actions listed on the blackboard?",
+        "Answer": "LOOK, LISTEN, DRAW, TALK",
+        "Image": "Lecture_screenshots/screenshot_1.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_45.png",
+            "Lecture_screenshots/screenshot_36.png",
+            "Lecture_screenshots/screenshot_34.png",
+            "Lecture_screenshots/screenshot_29.png",
+            "Lecture_screenshots/screenshot_33.png",
+            "Lecture_screenshots/screenshot_21.png",
+            "Lecture_screenshots/screenshot_8.png",
+            "Lecture_screenshots/screenshot_28.png",
+            "Lecture_screenshots/screenshot_1.png",
+            "Lecture_screenshots/screenshot_38.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "Following 'LOOK-LISTEN-DRAW-TALK', what is the warning mentioned in the second point on the blackboard?",
+        "Answer": "Beware of fast talkers",
+        "Image": "Lecture_screenshots/screenshot_1.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_45.png",
+            "Lecture_screenshots/screenshot_36.png",
+            "Lecture_screenshots/screenshot_34.png",
+            "Lecture_screenshots/screenshot_29.png",
+            "Lecture_screenshots/screenshot_33.png",
+            "Lecture_screenshots/screenshot_21.png",
+            "Lecture_screenshots/screenshot_8.png",
+            "Lecture_screenshots/screenshot_28.png",
+            "Lecture_screenshots/screenshot_1.png",
+            "Lecture_screenshots/screenshot_38.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "True or False: In the 'BRANCH & BOUND' Graph, the node with the lowest value is 'C'.",
+        "Answer": "False",
+        "Image": "Lecture_screenshots/screenshot_32.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_19.png",
+            "Lecture_screenshots/screenshot_5.png",
+            "Lecture_screenshots/screenshot_11.png",
+            "Lecture_screenshots/screenshot_32.png",
+            "Lecture_screenshots/screenshot_16.png",
+            "Lecture_screenshots/screenshot_24.png",
+            "Lecture_screenshots/screenshot_50.png",
+            "Lecture_screenshots/screenshot_7.png",
+            "Lecture_screenshots/screenshot_41.png",
+            "Lecture_screenshots/screenshot_48.png"
+        ],
+        "Category": "Boolean"
+    },
+    {
+        "Question": "True or False: In the '+ EXTENDED LIST' Graph, node 'G' has a value of 11",
+        "Answer": "True",
+        "Image": "Lecture_screenshots/screenshot_32.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_19.png",
+            "Lecture_screenshots/screenshot_5.png",
+            "Lecture_screenshots/screenshot_11.png",
+            "Lecture_screenshots/screenshot_32.png",
+            "Lecture_screenshots/screenshot_16.png",
+            "Lecture_screenshots/screenshot_24.png",
+            "Lecture_screenshots/screenshot_50.png",
+            "Lecture_screenshots/screenshot_7.png",
+            "Lecture_screenshots/screenshot_41.png",
+            "Lecture_screenshots/screenshot_48.png"
+        ],
+        "Category": "Boolean"
+    },
+    {
+        "Question": "In the '+ EXTENDED LIST' Graph, what is the value on node \"S\"?",
+        "Answer": "Information not available",
+        "Image": "Lecture_screenshots/screenshot_32.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_19.png",
+            "Lecture_screenshots/screenshot_5.png",
+            "Lecture_screenshots/screenshot_11.png",
+            "Lecture_screenshots/screenshot_32.png",
+            "Lecture_screenshots/screenshot_16.png",
+            "Lecture_screenshots/screenshot_24.png",
+            "Lecture_screenshots/screenshot_50.png",
+            "Lecture_screenshots/screenshot_7.png",
+            "Lecture_screenshots/screenshot_41.png",
+            "Lecture_screenshots/screenshot_48.png"
+        ],
+        "Category": "Unanswerable"
+    },
+    {
+        "Question": "In the '+ EXTENDED LIST' Graph, what is the value on node \"A\"?",
+        "Answer": "Information not available",
+        "Image": "Lecture_screenshots/screenshot_32.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_19.png",
+            "Lecture_screenshots/screenshot_5.png",
+            "Lecture_screenshots/screenshot_11.png",
+            "Lecture_screenshots/screenshot_32.png",
+            "Lecture_screenshots/screenshot_16.png",
+            "Lecture_screenshots/screenshot_24.png",
+            "Lecture_screenshots/screenshot_50.png",
+            "Lecture_screenshots/screenshot_7.png",
+            "Lecture_screenshots/screenshot_41.png",
+            "Lecture_screenshots/screenshot_48.png"
+        ],
+        "Category": "Unanswerable"
+    },
+    {
+        "Question": "In the 'Oracle' Graph, what is the value on node \"S\"?",
+        "Answer": "Information not available",
+        "Image": "Lecture_screenshots/screenshot_32.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_19.png",
+            "Lecture_screenshots/screenshot_5.png",
+            "Lecture_screenshots/screenshot_11.png",
+            "Lecture_screenshots/screenshot_32.png",
+            "Lecture_screenshots/screenshot_16.png",
+            "Lecture_screenshots/screenshot_24.png",
+            "Lecture_screenshots/screenshot_50.png",
+            "Lecture_screenshots/screenshot_7.png",
+            "Lecture_screenshots/screenshot_41.png",
+            "Lecture_screenshots/screenshot_48.png"
+        ],
+        "Category": "Unanswerable"
+    },
+    {
+        "Question": "what is the value in first cell of Case #1?",
+        "Answer": "835",
+        "Image": "Lecture_screenshots/screenshot_32.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_19.png",
+            "Lecture_screenshots/screenshot_5.png",
+            "Lecture_screenshots/screenshot_11.png",
+            "Lecture_screenshots/screenshot_32.png",
+            "Lecture_screenshots/screenshot_16.png",
+            "Lecture_screenshots/screenshot_24.png",
+            "Lecture_screenshots/screenshot_50.png",
+            "Lecture_screenshots/screenshot_7.png",
+            "Lecture_screenshots/screenshot_41.png",
+            "Lecture_screenshots/screenshot_48.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "what is the value in second cell of Case #1?",
+        "Answer": "38",
+        "Image": "Lecture_screenshots/screenshot_32.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_19.png",
+            "Lecture_screenshots/screenshot_5.png",
+            "Lecture_screenshots/screenshot_11.png",
+            "Lecture_screenshots/screenshot_32.png",
+            "Lecture_screenshots/screenshot_16.png",
+            "Lecture_screenshots/screenshot_24.png",
+            "Lecture_screenshots/screenshot_50.png",
+            "Lecture_screenshots/screenshot_7.png",
+            "Lecture_screenshots/screenshot_41.png",
+            "Lecture_screenshots/screenshot_48.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "what is the value in second cell of Case #2?",
+        "Answer": "Information not available",
+        "Image": "Lecture_screenshots/screenshot_32.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_19.png",
+            "Lecture_screenshots/screenshot_5.png",
+            "Lecture_screenshots/screenshot_11.png",
+            "Lecture_screenshots/screenshot_32.png",
+            "Lecture_screenshots/screenshot_16.png",
+            "Lecture_screenshots/screenshot_24.png",
+            "Lecture_screenshots/screenshot_50.png",
+            "Lecture_screenshots/screenshot_7.png",
+            "Lecture_screenshots/screenshot_41.png",
+            "Lecture_screenshots/screenshot_48.png"
+        ],
+        "Category": "Unanswerable"
+    },
+    {
+        "Question": "In the 'Oracle' Graph, what is the value on node \"D\"?",
+        "Answer": "Information not available",
+        "Image": "Lecture_screenshots/screenshot_32.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_19.png",
+            "Lecture_screenshots/screenshot_5.png",
+            "Lecture_screenshots/screenshot_11.png",
+            "Lecture_screenshots/screenshot_32.png",
+            "Lecture_screenshots/screenshot_16.png",
+            "Lecture_screenshots/screenshot_24.png",
+            "Lecture_screenshots/screenshot_50.png",
+            "Lecture_screenshots/screenshot_7.png",
+            "Lecture_screenshots/screenshot_41.png",
+            "Lecture_screenshots/screenshot_48.png"
+        ],
+        "Category": "Unanswerable"
+    },
+    {
+        "Question": "True or False: The expression labeled as 'Wrong' on the blackboard is \"\\sqrt{\\frac{e^t}{1 - e^t}}\"",
+        "Answer": "False",
+        "Image": "Lecture_screenshots/screenshot_17.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_23.png",
+            "Lecture_screenshots/screenshot_24.png",
+            "Lecture_screenshots/screenshot_2.png",
+            "Lecture_screenshots/screenshot_7.png",
+            "Lecture_screenshots/screenshot_6.png",
+            "Lecture_screenshots/screenshot_31.png",
+            "Lecture_screenshots/screenshot_9.png",
+            "Lecture_screenshots/screenshot_25.png",
+            "Lecture_screenshots/screenshot_5.png",
+            "Lecture_screenshots/screenshot_17.png"
+        ],
+        "Category": "Boolean"
+    },
+    {
+        "Question": "True or False: The expression labeled as 'Correct' on the blackboard is \"\\sqrt{\\frac{1 - e^t}{e^t}}\"",
+        "Answer": "False",
+        "Image": "Lecture_screenshots/screenshot_17.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_23.png",
+            "Lecture_screenshots/screenshot_24.png",
+            "Lecture_screenshots/screenshot_2.png",
+            "Lecture_screenshots/screenshot_7.png",
+            "Lecture_screenshots/screenshot_6.png",
+            "Lecture_screenshots/screenshot_31.png",
+            "Lecture_screenshots/screenshot_9.png",
+            "Lecture_screenshots/screenshot_25.png",
+            "Lecture_screenshots/screenshot_5.png",
+            "Lecture_screenshots/screenshot_17.png"
+        ],
+        "Category": "Boolean"
+    },
+    {
+        "Question": "What is the condition specified below the box for equation \"y_i (\\bar{x}_i \\cdot \\bar{w} + b) - 1 = 0\" on the blackboard?",
+        "Answer": "FOR x_i IN GUTTER",
+        "Image": "Lecture_screenshots/screenshot_12.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_22.png",
+            "Lecture_screenshots/screenshot_1.png",
+            "Lecture_screenshots/screenshot_29.png",
+            "Lecture_screenshots/screenshot_3.png",
+            "Lecture_screenshots/screenshot_40.png",
+            "Lecture_screenshots/screenshot_6.png",
+            "Lecture_screenshots/screenshot_32.png",
+            "Lecture_screenshots/screenshot_18.png",
+            "Lecture_screenshots/screenshot_5.png",
+            "Lecture_screenshots/screenshot_12.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "What labels are used for the three diagrams where the advice 'WHEN STUCK, SWITCH TO ANOTHER PERSPECTIVE' is written?",
+        "Answer": "NN, ID, NN",
+        "Image": "Lecture_screenshots/screenshot_11.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_41.png",
+            "Lecture_screenshots/screenshot_23.png",
+            "Lecture_screenshots/screenshot_2.png",
+            "Lecture_screenshots/screenshot_26.png",
+            "Lecture_screenshots/screenshot_21.png",
+            "Lecture_screenshots/screenshot_37.png",
+            "Lecture_screenshots/screenshot_11.png",
+            "Lecture_screenshots/screenshot_17.png",
+            "Lecture_screenshots/screenshot_46.png",
+            "Lecture_screenshots/screenshot_44.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "In the diagram labeled 'ID', how many plus (+) signs are depicted on the blackboard where the advice 'WHEN STUCK, SWITCH TO ANOTHER PERSPECTIVE' is written?",
+        "Answer": "2",
+        "Image": "Lecture_screenshots/screenshot_11.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_41.png",
+            "Lecture_screenshots/screenshot_23.png",
+            "Lecture_screenshots/screenshot_2.png",
+            "Lecture_screenshots/screenshot_26.png",
+            "Lecture_screenshots/screenshot_21.png",
+            "Lecture_screenshots/screenshot_37.png",
+            "Lecture_screenshots/screenshot_11.png",
+            "Lecture_screenshots/screenshot_17.png",
+            "Lecture_screenshots/screenshot_46.png",
+            "Lecture_screenshots/screenshot_44.png"
+        ],
+        "Category": "Reasoning"
+    },
+    {
+        "Question": "How many plus (+) signs are depicted on the blackboard where the advice 'WHEN STUCK, SWITCH TO ANOTHER PERSPECTIVE' is written?",
+        "Answer": "6",
+        "Image": "Lecture_screenshots/screenshot_11.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_41.png",
+            "Lecture_screenshots/screenshot_23.png",
+            "Lecture_screenshots/screenshot_2.png",
+            "Lecture_screenshots/screenshot_26.png",
+            "Lecture_screenshots/screenshot_21.png",
+            "Lecture_screenshots/screenshot_37.png",
+            "Lecture_screenshots/screenshot_11.png",
+            "Lecture_screenshots/screenshot_17.png",
+            "Lecture_screenshots/screenshot_46.png",
+            "Lecture_screenshots/screenshot_44.png"
+        ],
+        "Category": "Reasoning"
+    },
+    {
+        "Question": "What is the other topic discussed aslong with Get Out The Vote?",
+        "Answer": "Decision Tree Stumps",
+        "Image": "Lecture_screenshots/screenshot_19.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_1.png",
+            "Lecture_screenshots/screenshot_26.png",
+            "Lecture_screenshots/screenshot_2.png",
+            "Lecture_screenshots/screenshot_8.png",
+            "Lecture_screenshots/screenshot_34.png",
+            "Lecture_screenshots/screenshot_19.png",
+            "Lecture_screenshots/screenshot_27.png",
+            "Lecture_screenshots/screenshot_39.png",
+            "Lecture_screenshots/screenshot_42.png",
+            "Lecture_screenshots/screenshot_35.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "what is the Role of Chris in strong Sequence topic?",
+        "Answer": "Object",
+        "Image": "Lecture_screenshots/screenshot_26.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_18.png",
+            "Lecture_screenshots/screenshot_2.png",
+            "Lecture_screenshots/screenshot_14.png",
+            "Lecture_screenshots/screenshot_41.png",
+            "Lecture_screenshots/screenshot_4.png",
+            "Lecture_screenshots/screenshot_37.png",
+            "Lecture_screenshots/screenshot_26.png",
+            "Lecture_screenshots/screenshot_1.png",
+            "Lecture_screenshots/screenshot_3.png",
+            "Lecture_screenshots/screenshot_40.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "What is the Transistion 'MOOD' status for 'Pat Terrorized Chris' use color coding?",
+        "Answer": "Down arrow",
+        "Image": "Lecture_screenshots/screenshot_26.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_18.png",
+            "Lecture_screenshots/screenshot_2.png",
+            "Lecture_screenshots/screenshot_14.png",
+            "Lecture_screenshots/screenshot_41.png",
+            "Lecture_screenshots/screenshot_4.png",
+            "Lecture_screenshots/screenshot_37.png",
+            "Lecture_screenshots/screenshot_26.png",
+            "Lecture_screenshots/screenshot_1.png",
+            "Lecture_screenshots/screenshot_3.png",
+            "Lecture_screenshots/screenshot_40.png"
+        ],
+        "Category": "Reasoning"
+    },
+    {
+        "Question": "What is the Transistion 'MOOD' status for 'Pat comforted Chris' use color coding?",
+        "Answer": "Up arrow",
+        "Image": "Lecture_screenshots/screenshot_26.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_18.png",
+            "Lecture_screenshots/screenshot_2.png",
+            "Lecture_screenshots/screenshot_14.png",
+            "Lecture_screenshots/screenshot_41.png",
+            "Lecture_screenshots/screenshot_4.png",
+            "Lecture_screenshots/screenshot_37.png",
+            "Lecture_screenshots/screenshot_26.png",
+            "Lecture_screenshots/screenshot_1.png",
+            "Lecture_screenshots/screenshot_3.png",
+            "Lecture_screenshots/screenshot_40.png"
+        ],
+        "Category": "Reasoning"
+    },
+    {
+        "Question": "Who Hugged Chris?",
+        "Answer": "Information not available",
+        "Image": "Lecture_screenshots/screenshot_26.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_18.png",
+            "Lecture_screenshots/screenshot_2.png",
+            "Lecture_screenshots/screenshot_14.png",
+            "Lecture_screenshots/screenshot_41.png",
+            "Lecture_screenshots/screenshot_4.png",
+            "Lecture_screenshots/screenshot_37.png",
+            "Lecture_screenshots/screenshot_26.png",
+            "Lecture_screenshots/screenshot_1.png",
+            "Lecture_screenshots/screenshot_3.png",
+            "Lecture_screenshots/screenshot_40.png"
+        ],
+        "Category": "Unanswerable"
+    },
+    {
+        "Question": "Pat Hugged whom?",
+        "Answer": "Information not available",
+        "Image": "Lecture_screenshots/screenshot_26.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_18.png",
+            "Lecture_screenshots/screenshot_2.png",
+            "Lecture_screenshots/screenshot_14.png",
+            "Lecture_screenshots/screenshot_41.png",
+            "Lecture_screenshots/screenshot_4.png",
+            "Lecture_screenshots/screenshot_37.png",
+            "Lecture_screenshots/screenshot_26.png",
+            "Lecture_screenshots/screenshot_1.png",
+            "Lecture_screenshots/screenshot_3.png",
+            "Lecture_screenshots/screenshot_40.png"
+        ],
+        "Category": "Unanswerable"
+    },
+    {
+        "Question": "What is the Transistion 'MOOD' status for 'Pat Stabbed Chris', use color coding?",
+        "Answer": "Down arrow",
+        "Image": "Lecture_screenshots/screenshot_26.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_18.png",
+            "Lecture_screenshots/screenshot_2.png",
+            "Lecture_screenshots/screenshot_14.png",
+            "Lecture_screenshots/screenshot_41.png",
+            "Lecture_screenshots/screenshot_4.png",
+            "Lecture_screenshots/screenshot_37.png",
+            "Lecture_screenshots/screenshot_26.png",
+            "Lecture_screenshots/screenshot_1.png",
+            "Lecture_screenshots/screenshot_3.png",
+            "Lecture_screenshots/screenshot_40.png"
+        ],
+        "Category": "Reasoning"
+    },
+    {
+        "Question": "What is the Transistion 'MOOD' status for 'Pat Kissed Chris', use color coding?",
+        "Answer": "UP arrow",
+        "Image": "Lecture_screenshots/screenshot_26.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_18.png",
+            "Lecture_screenshots/screenshot_2.png",
+            "Lecture_screenshots/screenshot_14.png",
+            "Lecture_screenshots/screenshot_41.png",
+            "Lecture_screenshots/screenshot_4.png",
+            "Lecture_screenshots/screenshot_37.png",
+            "Lecture_screenshots/screenshot_26.png",
+            "Lecture_screenshots/screenshot_1.png",
+            "Lecture_screenshots/screenshot_3.png",
+            "Lecture_screenshots/screenshot_40.png"
+        ],
+        "Category": "Reasoning"
+    },
+    {
+        "Question": "what is the Role of PAT in strong Sequence topic?",
+        "Answer": "Agent",
+        "Image": "Lecture_screenshots/screenshot_26.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_18.png",
+            "Lecture_screenshots/screenshot_2.png",
+            "Lecture_screenshots/screenshot_14.png",
+            "Lecture_screenshots/screenshot_41.png",
+            "Lecture_screenshots/screenshot_4.png",
+            "Lecture_screenshots/screenshot_37.png",
+            "Lecture_screenshots/screenshot_26.png",
+            "Lecture_screenshots/screenshot_1.png",
+            "Lecture_screenshots/screenshot_3.png",
+            "Lecture_screenshots/screenshot_40.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "What are the two topics listed for L1 GOAL-CENTERED PROGRAMMING?",
+        "Answer": "BLOCKS, questions",
+        "Image": "Lecture_screenshots/screenshot_35.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_29.png",
+            "Lecture_screenshots/screenshot_35.png",
+            "Lecture_screenshots/screenshot_20.png",
+            "Lecture_screenshots/screenshot_26.png",
+            "Lecture_screenshots/screenshot_17.png",
+            "Lecture_screenshots/screenshot_3.png",
+            "Lecture_screenshots/screenshot_13.png",
+            "Lecture_screenshots/screenshot_45.png",
+            "Lecture_screenshots/screenshot_23.png",
+            "Lecture_screenshots/screenshot_24.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "How many topics are listed for L2 RULE BASED \"EXPERT\" SYSTEMS?",
+        "Answer": "3",
+        "Image": "Lecture_screenshots/screenshot_35.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_29.png",
+            "Lecture_screenshots/screenshot_35.png",
+            "Lecture_screenshots/screenshot_20.png",
+            "Lecture_screenshots/screenshot_26.png",
+            "Lecture_screenshots/screenshot_17.png",
+            "Lecture_screenshots/screenshot_3.png",
+            "Lecture_screenshots/screenshot_13.png",
+            "Lecture_screenshots/screenshot_45.png",
+            "Lecture_screenshots/screenshot_23.png",
+            "Lecture_screenshots/screenshot_24.png"
+        ],
+        "Category": "Reasoning"
+    },
+    {
+        "Question": "How many topics are discussed under the 'FAREWELL ADDRESS'?",
+        "Answer": "5 or Five",
+        "Image": "Lecture_screenshots/screenshot_44.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_29.png",
+            "Lecture_screenshots/screenshot_17.png",
+            "Lecture_screenshots/screenshot_38.png",
+            "Lecture_screenshots/screenshot_44.png",
+            "Lecture_screenshots/screenshot_31.png",
+            "Lecture_screenshots/screenshot_32.png",
+            "Lecture_screenshots/screenshot_27.png",
+            "Lecture_screenshots/screenshot_28.png",
+            "Lecture_screenshots/screenshot_36.png",
+            "Lecture_screenshots/screenshot_37.png"
+        ],
+        "Category": "Reasoning"
+    },
+    {
+        "Question": "What is the fourth topic under the 'FAREWELL ADDRESS'?",
+        "Answer": "GENESIS DEMONSTRATION",
+        "Image": "Lecture_screenshots/screenshot_44.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_29.png",
+            "Lecture_screenshots/screenshot_17.png",
+            "Lecture_screenshots/screenshot_38.png",
+            "Lecture_screenshots/screenshot_44.png",
+            "Lecture_screenshots/screenshot_31.png",
+            "Lecture_screenshots/screenshot_32.png",
+            "Lecture_screenshots/screenshot_27.png",
+            "Lecture_screenshots/screenshot_28.png",
+            "Lecture_screenshots/screenshot_36.png",
+            "Lecture_screenshots/screenshot_37.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "Which subtopic under the 'FAREWELL ADDRESS' has an illustration or diagram associated with it?",
+        "Answer": "BAYESIAN STORY MERGING",
+        "Image": "Lecture_screenshots/screenshot_44.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_29.png",
+            "Lecture_screenshots/screenshot_17.png",
+            "Lecture_screenshots/screenshot_38.png",
+            "Lecture_screenshots/screenshot_44.png",
+            "Lecture_screenshots/screenshot_31.png",
+            "Lecture_screenshots/screenshot_32.png",
+            "Lecture_screenshots/screenshot_27.png",
+            "Lecture_screenshots/screenshot_28.png",
+            "Lecture_screenshots/screenshot_36.png",
+            "Lecture_screenshots/screenshot_37.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "What are the four subtopics listed under 'NEURAL NETS'?",
+        "Answer": "NAIVE NEUROBIOLOGY, MIMICKING, BACK PROPAGATION, PROBLEMS",
+        "Image": "Lecture_screenshots/screenshot_49.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_40.png",
+            "Lecture_screenshots/screenshot_13.png",
+            "Lecture_screenshots/screenshot_18.png",
+            "Lecture_screenshots/screenshot_12.png",
+            "Lecture_screenshots/screenshot_23.png",
+            "Lecture_screenshots/screenshot_49.png",
+            "Lecture_screenshots/screenshot_33.png",
+            "Lecture_screenshots/screenshot_4.png",
+            "Lecture_screenshots/screenshot_24.png",
+            "Lecture_screenshots/screenshot_1.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "How many subtopics listed under 'NEURAL NETS'?",
+        "Answer": "4",
+        "Image": "Lecture_screenshots/screenshot_49.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_40.png",
+            "Lecture_screenshots/screenshot_13.png",
+            "Lecture_screenshots/screenshot_18.png",
+            "Lecture_screenshots/screenshot_12.png",
+            "Lecture_screenshots/screenshot_23.png",
+            "Lecture_screenshots/screenshot_49.png",
+            "Lecture_screenshots/screenshot_33.png",
+            "Lecture_screenshots/screenshot_4.png",
+            "Lecture_screenshots/screenshot_24.png",
+            "Lecture_screenshots/screenshot_1.png"
+        ],
+        "Category": "Reasoning"
+    },
+    {
+        "Question": "Which among these 'PROBABILISTIC INFERENCE, BELIEF NETS, NAIVE BAYES CLASSIFICATION, BAYESIAN MODEL DISCOVERY' topics have a checkmark next to them?",
+        "Answer": "PROBABILISTIC INFERENCE, BELIEF NETS",
+        "Image": "Lecture_screenshots/screenshot_46.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_4.png",
+            "Lecture_screenshots/screenshot_35.png",
+            "Lecture_screenshots/screenshot_33.png",
+            "Lecture_screenshots/screenshot_46.png",
+            "Lecture_screenshots/screenshot_29.png",
+            "Lecture_screenshots/screenshot_3.png",
+            "Lecture_screenshots/screenshot_31.png",
+            "Lecture_screenshots/screenshot_25.png",
+            "Lecture_screenshots/screenshot_37.png",
+            "Lecture_screenshots/screenshot_28.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "True or False: 'SEARCH' is equivalent to 'MAPS' as seen on Blackboard.",
+        "Answer": "False",
+        "Image": "Lecture_screenshots/screenshot_38.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_30.png",
+            "Lecture_screenshots/screenshot_3.png",
+            "Lecture_screenshots/screenshot_11.png",
+            "Lecture_screenshots/screenshot_25.png",
+            "Lecture_screenshots/screenshot_6.png",
+            "Lecture_screenshots/screenshot_46.png",
+            "Lecture_screenshots/screenshot_16.png",
+            "Lecture_screenshots/screenshot_38.png",
+            "Lecture_screenshots/screenshot_15.png",
+            "Lecture_screenshots/screenshot_10.png"
+        ],
+        "Category": "Boolean"
+    },
+    {
+        "Question": "What is the equation for \"P(\\bar{a}, \\bar{a})\" as written on the blackboard?",
+        "Answer": "P(\\bar{d}, \\bar{z}) = -\\frac{1}{2} \\|\\bar{d} - \\bar{z}\\|^2",
+        "Image": "Lecture_screenshots/screenshot_48.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_41.png",
+            "Lecture_screenshots/screenshot_7.png",
+            "Lecture_screenshots/screenshot_6.png",
+            "Lecture_screenshots/screenshot_33.png",
+            "Lecture_screenshots/screenshot_31.png",
+            "Lecture_screenshots/screenshot_48.png",
+            "Lecture_screenshots/screenshot_8.png",
+            "Lecture_screenshots/screenshot_4.png",
+            "Lecture_screenshots/screenshot_29.png",
+            "Lecture_screenshots/screenshot_5.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "What are the characteristics that contribute to the conclusion of 'CARNIVORE'?",
+        "Answer": "HAS CLAWS, SHARP TEETH, FORWARD POINTING EYE, EATS MEAT",
+        "Image": "Lecture_screenshots/screenshot_37.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_47.png",
+            "Lecture_screenshots/screenshot_28.png",
+            "Lecture_screenshots/screenshot_15.png",
+            "Lecture_screenshots/screenshot_23.png",
+            "Lecture_screenshots/screenshot_50.png",
+            "Lecture_screenshots/screenshot_1.png",
+            "Lecture_screenshots/screenshot_2.png",
+            "Lecture_screenshots/screenshot_48.png",
+            "Lecture_screenshots/screenshot_37.png",
+            "Lecture_screenshots/screenshot_12.png"
+        ],
+        "Category": "Reasoning"
+    },
+    {
+        "Question": "What are the characteristics that, combined with 'MAMMAL' and 'CARNIVORE', lead to the conclusion of 'CHEETAH'?",
+        "Answer": "SPOTS, VERY FAST",
+        "Image": "Lecture_screenshots/screenshot_37.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_47.png",
+            "Lecture_screenshots/screenshot_28.png",
+            "Lecture_screenshots/screenshot_15.png",
+            "Lecture_screenshots/screenshot_23.png",
+            "Lecture_screenshots/screenshot_50.png",
+            "Lecture_screenshots/screenshot_1.png",
+            "Lecture_screenshots/screenshot_2.png",
+            "Lecture_screenshots/screenshot_48.png",
+            "Lecture_screenshots/screenshot_37.png",
+            "Lecture_screenshots/screenshot_12.png"
+        ],
+        "Category": "Reasoning"
+    },
+    {
+        "Question": "What is the initial characteristic that helps to identify animal as 'MAMMAL' on the blackboard?",
+        "Answer": "HAS HAIR",
+        "Image": "Lecture_screenshots/screenshot_37.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_47.png",
+            "Lecture_screenshots/screenshot_28.png",
+            "Lecture_screenshots/screenshot_15.png",
+            "Lecture_screenshots/screenshot_23.png",
+            "Lecture_screenshots/screenshot_50.png",
+            "Lecture_screenshots/screenshot_1.png",
+            "Lecture_screenshots/screenshot_2.png",
+            "Lecture_screenshots/screenshot_48.png",
+            "Lecture_screenshots/screenshot_37.png",
+            "Lecture_screenshots/screenshot_12.png"
+        ],
+        "Category": "Reasoning"
+    },
+    {
+        "Question": "What is the formula for \"X'\" as written on the blackboard for SPREAD?",
+        "Answer": "X' = \\frac{x}{\\sigma_x}",
+        "Image": "Lecture_screenshots/screenshot_29.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_21.png",
+            "Lecture_screenshots/screenshot_29.png",
+            "Lecture_screenshots/screenshot_23.png",
+            "Lecture_screenshots/screenshot_47.png",
+            "Lecture_screenshots/screenshot_45.png",
+            "Lecture_screenshots/screenshot_15.png",
+            "Lecture_screenshots/screenshot_13.png",
+            "Lecture_screenshots/screenshot_50.png",
+            "Lecture_screenshots/screenshot_17.png",
+            "Lecture_screenshots/screenshot_3.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "What operation is suggested for the expression \"\\int \\frac{P(x)}{Q(x)}\" of the blackboard?",
+        "Answer": "DIVIDE",
+        "Image": "Lecture_screenshots/screenshot_41.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_2.png",
+            "Lecture_screenshots/screenshot_12.png",
+            "Lecture_screenshots/screenshot_35.png",
+            "Lecture_screenshots/screenshot_22.png",
+            "Lecture_screenshots/screenshot_41.png",
+            "Lecture_screenshots/screenshot_27.png",
+            "Lecture_screenshots/screenshot_31.png",
+            "Lecture_screenshots/screenshot_47.png",
+            "Lecture_screenshots/screenshot_8.png",
+            "Lecture_screenshots/screenshot_13.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "What is the condition specified for 'IF SHADOW = ?' on the blackboard?",
+        "Answer": "GARLIC = Y",
+        "Image": "Lecture_screenshots/screenshot_14.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_50.png",
+            "Lecture_screenshots/screenshot_2.png",
+            "Lecture_screenshots/screenshot_31.png",
+            "Lecture_screenshots/screenshot_5.png",
+            "Lecture_screenshots/screenshot_42.png",
+            "Lecture_screenshots/screenshot_3.png",
+            "Lecture_screenshots/screenshot_14.png",
+            "Lecture_screenshots/screenshot_45.png",
+            "Lecture_screenshots/screenshot_8.png",
+            "Lecture_screenshots/screenshot_28.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "Is the Garlic Node in the Identification tree Hetrogeneous (Yes/No)?",
+        "Answer": "No",
+        "Image": "Lecture_screenshots/screenshot_14.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_50.png",
+            "Lecture_screenshots/screenshot_2.png",
+            "Lecture_screenshots/screenshot_31.png",
+            "Lecture_screenshots/screenshot_5.png",
+            "Lecture_screenshots/screenshot_42.png",
+            "Lecture_screenshots/screenshot_3.png",
+            "Lecture_screenshots/screenshot_14.png",
+            "Lecture_screenshots/screenshot_45.png",
+            "Lecture_screenshots/screenshot_8.png",
+            "Lecture_screenshots/screenshot_28.png"
+        ],
+        "Category": "Boolean"
+    },
+    {
+        "Question": "What is the Root Node in the Identification tree?",
+        "Answer": "SHADOW",
+        "Image": "Lecture_screenshots/screenshot_14.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_50.png",
+            "Lecture_screenshots/screenshot_2.png",
+            "Lecture_screenshots/screenshot_31.png",
+            "Lecture_screenshots/screenshot_5.png",
+            "Lecture_screenshots/screenshot_42.png",
+            "Lecture_screenshots/screenshot_3.png",
+            "Lecture_screenshots/screenshot_14.png",
+            "Lecture_screenshots/screenshot_45.png",
+            "Lecture_screenshots/screenshot_8.png",
+            "Lecture_screenshots/screenshot_28.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "What are the Y and X axis for the Graph at which \"\\cos \\Theta = \\frac{\\sum u_i A_i}{\\|\\mathbf{u}\\| \\|\\mathbf{A}\\|}\"?",
+        "Answer": "COMPUTER, HACK",
+        "Image": "Lecture_screenshots/screenshot_31.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_20.png",
+            "Lecture_screenshots/screenshot_37.png",
+            "Lecture_screenshots/screenshot_13.png",
+            "Lecture_screenshots/screenshot_22.png",
+            "Lecture_screenshots/screenshot_39.png",
+            "Lecture_screenshots/screenshot_16.png",
+            "Lecture_screenshots/screenshot_31.png",
+            "Lecture_screenshots/screenshot_43.png",
+            "Lecture_screenshots/screenshot_1.png",
+            "Lecture_screenshots/screenshot_42.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "What is Theory Boosting as seen in image?",
+        "Answer": "Information not available",
+        "Image": "Lecture_screenshots/screenshot_30.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_1.png",
+            "Lecture_screenshots/screenshot_6.png",
+            "Lecture_screenshots/screenshot_44.png",
+            "Lecture_screenshots/screenshot_10.png",
+            "Lecture_screenshots/screenshot_47.png",
+            "Lecture_screenshots/screenshot_43.png",
+            "Lecture_screenshots/screenshot_8.png",
+            "Lecture_screenshots/screenshot_30.png",
+            "Lecture_screenshots/screenshot_41.png",
+            "Lecture_screenshots/screenshot_20.png"
+        ],
+        "Category": "Unanswerable"
+    },
+    {
+        "Question": "What is Bulldozer Regularity as seen in image?",
+        "Answer": "Information not available",
+        "Image": "Lecture_screenshots/screenshot_30.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_1.png",
+            "Lecture_screenshots/screenshot_6.png",
+            "Lecture_screenshots/screenshot_44.png",
+            "Lecture_screenshots/screenshot_10.png",
+            "Lecture_screenshots/screenshot_47.png",
+            "Lecture_screenshots/screenshot_43.png",
+            "Lecture_screenshots/screenshot_8.png",
+            "Lecture_screenshots/screenshot_30.png",
+            "Lecture_screenshots/screenshot_41.png",
+            "Lecture_screenshots/screenshot_20.png"
+        ],
+        "Category": "Unanswerable"
+    },
+    {
+        "Question": "What is the other hypothesis mentioned along with SYMBOL SYSTEM HYPOTHESIS?",
+        "Answer": "PROBLEM SOLVING HYPOTHESIS",
+        "Image": "Lecture_screenshots/screenshot_3.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_43.png",
+            "Lecture_screenshots/screenshot_44.png",
+            "Lecture_screenshots/screenshot_23.png",
+            "Lecture_screenshots/screenshot_3.png",
+            "Lecture_screenshots/screenshot_40.png",
+            "Lecture_screenshots/screenshot_14.png",
+            "Lecture_screenshots/screenshot_33.png",
+            "Lecture_screenshots/screenshot_42.png",
+            "Lecture_screenshots/screenshot_12.png",
+            "Lecture_screenshots/screenshot_27.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "What are the five elements listed under 'STM & LTM' on the blackboard?",
+        "Answer": "ASSERTIONS & RULE, PREFERENCES, PROBLEM SPACES, UNIVERSAL SUBGOALING",
+        "Image": "Lecture_screenshots/screenshot_3.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_43.png",
+            "Lecture_screenshots/screenshot_44.png",
+            "Lecture_screenshots/screenshot_23.png",
+            "Lecture_screenshots/screenshot_3.png",
+            "Lecture_screenshots/screenshot_40.png",
+            "Lecture_screenshots/screenshot_14.png",
+            "Lecture_screenshots/screenshot_33.png",
+            "Lecture_screenshots/screenshot_42.png",
+            "Lecture_screenshots/screenshot_12.png",
+            "Lecture_screenshots/screenshot_27.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "What is the full form of the acronym 'SOAR' as mentioned on the blackboard?",
+        "Answer": "STATE OPERATOR AND RESULT",
+        "Image": "Lecture_screenshots/screenshot_3.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_43.png",
+            "Lecture_screenshots/screenshot_44.png",
+            "Lecture_screenshots/screenshot_23.png",
+            "Lecture_screenshots/screenshot_3.png",
+            "Lecture_screenshots/screenshot_40.png",
+            "Lecture_screenshots/screenshot_14.png",
+            "Lecture_screenshots/screenshot_33.png",
+            "Lecture_screenshots/screenshot_42.png",
+            "Lecture_screenshots/screenshot_12.png",
+            "Lecture_screenshots/screenshot_27.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "As mentioned under General Problem solver, what is the shortest distance between 'MIT' and 'Home'?",
+        "Answer": "D1",
+        "Image": "Lecture_screenshots/screenshot_3.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_43.png",
+            "Lecture_screenshots/screenshot_44.png",
+            "Lecture_screenshots/screenshot_23.png",
+            "Lecture_screenshots/screenshot_3.png",
+            "Lecture_screenshots/screenshot_40.png",
+            "Lecture_screenshots/screenshot_14.png",
+            "Lecture_screenshots/screenshot_33.png",
+            "Lecture_screenshots/screenshot_42.png",
+            "Lecture_screenshots/screenshot_12.png",
+            "Lecture_screenshots/screenshot_27.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "As mentioned under General Problem solver, what is the shortest distance between 'C' and 'S'?",
+        "Answer": "d",
+        "Image": "Lecture_screenshots/screenshot_3.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_43.png",
+            "Lecture_screenshots/screenshot_44.png",
+            "Lecture_screenshots/screenshot_23.png",
+            "Lecture_screenshots/screenshot_3.png",
+            "Lecture_screenshots/screenshot_40.png",
+            "Lecture_screenshots/screenshot_14.png",
+            "Lecture_screenshots/screenshot_33.png",
+            "Lecture_screenshots/screenshot_42.png",
+            "Lecture_screenshots/screenshot_12.png",
+            "Lecture_screenshots/screenshot_27.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "As mentioned under General Problem solver, what is the shortest distance between 'MIT' and 'Airport'?",
+        "Answer": "Information not available",
+        "Image": "Lecture_screenshots/screenshot_3.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_43.png",
+            "Lecture_screenshots/screenshot_44.png",
+            "Lecture_screenshots/screenshot_23.png",
+            "Lecture_screenshots/screenshot_3.png",
+            "Lecture_screenshots/screenshot_40.png",
+            "Lecture_screenshots/screenshot_14.png",
+            "Lecture_screenshots/screenshot_33.png",
+            "Lecture_screenshots/screenshot_42.png",
+            "Lecture_screenshots/screenshot_12.png",
+            "Lecture_screenshots/screenshot_27.png"
+        ],
+        "Category": "Unanswerable"
+    },
+    {
+        "Question": "As mentioned under General Problem solver, what is the shortest distance between 'MIT' and 'S'?",
+        "Answer": "Information not available",
+        "Image": "Lecture_screenshots/screenshot_3.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_43.png",
+            "Lecture_screenshots/screenshot_44.png",
+            "Lecture_screenshots/screenshot_23.png",
+            "Lecture_screenshots/screenshot_3.png",
+            "Lecture_screenshots/screenshot_40.png",
+            "Lecture_screenshots/screenshot_14.png",
+            "Lecture_screenshots/screenshot_33.png",
+            "Lecture_screenshots/screenshot_42.png",
+            "Lecture_screenshots/screenshot_12.png",
+            "Lecture_screenshots/screenshot_27.png"
+        ],
+        "Category": "Unanswerable"
+    },
+    {
+        "Question": "As mentioned under General Problem solver, what is the shortest distance between 'C' and 'MIT'?",
+        "Answer": "Information not available",
+        "Image": "Lecture_screenshots/screenshot_3.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_43.png",
+            "Lecture_screenshots/screenshot_44.png",
+            "Lecture_screenshots/screenshot_23.png",
+            "Lecture_screenshots/screenshot_3.png",
+            "Lecture_screenshots/screenshot_40.png",
+            "Lecture_screenshots/screenshot_14.png",
+            "Lecture_screenshots/screenshot_33.png",
+            "Lecture_screenshots/screenshot_42.png",
+            "Lecture_screenshots/screenshot_12.png",
+            "Lecture_screenshots/screenshot_27.png"
+        ],
+        "Category": "Unanswerable"
+    },
+    {
+        "Question": "What is the other search method being compared with BEAM SEARCH on the blackboard?",
+        "Answer": "HILL CLIMBING",
+        "Image": "Lecture_screenshots/screenshot_40.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_33.png",
+            "Lecture_screenshots/screenshot_26.png",
+            "Lecture_screenshots/screenshot_40.png",
+            "Lecture_screenshots/screenshot_22.png",
+            "Lecture_screenshots/screenshot_21.png",
+            "Lecture_screenshots/screenshot_50.png",
+            "Lecture_screenshots/screenshot_6.png",
+            "Lecture_screenshots/screenshot_15.png",
+            "Lecture_screenshots/screenshot_23.png",
+            "Lecture_screenshots/screenshot_3.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "How many points are on the star drawn on the blackboard that contains the words STORY, SYMBOL, SLOGAN, and SALIENT?",
+        "Answer": "5",
+        "Image": "Lecture_screenshots/screenshot_4.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_47.png",
+            "Lecture_screenshots/screenshot_46.png",
+            "Lecture_screenshots/screenshot_23.png",
+            "Lecture_screenshots/screenshot_41.png",
+            "Lecture_screenshots/screenshot_4.png",
+            "Lecture_screenshots/screenshot_45.png",
+            "Lecture_screenshots/screenshot_18.png",
+            "Lecture_screenshots/screenshot_29.png",
+            "Lecture_screenshots/screenshot_35.png",
+            "Lecture_screenshots/screenshot_19.png"
+        ],
+        "Category": "Reasoning"
+    },
+    {
+        "Question": "How many stars in total are present on the blackboard where 'WINSTON'S' topic was discussed?",
+        "Answer": "4",
+        "Image": "Lecture_screenshots/screenshot_4.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_47.png",
+            "Lecture_screenshots/screenshot_46.png",
+            "Lecture_screenshots/screenshot_23.png",
+            "Lecture_screenshots/screenshot_41.png",
+            "Lecture_screenshots/screenshot_4.png",
+            "Lecture_screenshots/screenshot_45.png",
+            "Lecture_screenshots/screenshot_18.png",
+            "Lecture_screenshots/screenshot_29.png",
+            "Lecture_screenshots/screenshot_35.png",
+            "Lecture_screenshots/screenshot_19.png"
+        ],
+        "Category": "Reasoning"
+    },
+    {
+        "Question": "Who is the EXPERIMENTALIST mentioned on the blackboard?",
+        "Answer": "GUZMAN",
+        "Image": "Lecture_screenshots/screenshot_6.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_31.png",
+            "Lecture_screenshots/screenshot_6.png",
+            "Lecture_screenshots/screenshot_33.png",
+            "Lecture_screenshots/screenshot_20.png",
+            "Lecture_screenshots/screenshot_18.png",
+            "Lecture_screenshots/screenshot_12.png",
+            "Lecture_screenshots/screenshot_25.png",
+            "Lecture_screenshots/screenshot_49.png",
+            "Lecture_screenshots/screenshot_17.png",
+            "Lecture_screenshots/screenshot_44.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "what is the name person labelled as Mathematician on the blackboard?",
+        "Answer": "HUFFMAN",
+        "Image": "Lecture_screenshots/screenshot_6.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_31.png",
+            "Lecture_screenshots/screenshot_6.png",
+            "Lecture_screenshots/screenshot_33.png",
+            "Lecture_screenshots/screenshot_20.png",
+            "Lecture_screenshots/screenshot_18.png",
+            "Lecture_screenshots/screenshot_12.png",
+            "Lecture_screenshots/screenshot_25.png",
+            "Lecture_screenshots/screenshot_49.png",
+            "Lecture_screenshots/screenshot_17.png",
+            "Lecture_screenshots/screenshot_44.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "What are the three actions listed under the 'SEEK VRA' column for CREATURE HYPOTHESIS?",
+        "Answer": "EXPLORE VRA, WANDER VRA, AVOID VAR",
+        "Image": "Lecture_screenshots/screenshot_2.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_8.png",
+            "Lecture_screenshots/screenshot_24.png",
+            "Lecture_screenshots/screenshot_2.png",
+            "Lecture_screenshots/screenshot_28.png",
+            "Lecture_screenshots/screenshot_45.png",
+            "Lecture_screenshots/screenshot_20.png",
+            "Lecture_screenshots/screenshot_34.png",
+            "Lecture_screenshots/screenshot_50.png",
+            "Lecture_screenshots/screenshot_39.png",
+            "Lecture_screenshots/screenshot_11.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "Who is the killer in the PARASYTIC SEMANTICS example?",
+        "Answer": "MACBETH",
+        "Image": "Lecture_screenshots/screenshot_28.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_45.png",
+            "Lecture_screenshots/screenshot_28.png",
+            "Lecture_screenshots/screenshot_9.png",
+            "Lecture_screenshots/screenshot_41.png",
+            "Lecture_screenshots/screenshot_22.png",
+            "Lecture_screenshots/screenshot_40.png",
+            "Lecture_screenshots/screenshot_39.png",
+            "Lecture_screenshots/screenshot_2.png",
+            "Lecture_screenshots/screenshot_17.png",
+            "Lecture_screenshots/screenshot_38.png"
+        ],
+        "Category": "Reasoning"
+    },
+    {
+        "Question": "Who is Dead in the PARASYTIC SEMANTICS example?",
+        "Answer": "DUNCAN",
+        "Image": "Lecture_screenshots/screenshot_28.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_45.png",
+            "Lecture_screenshots/screenshot_28.png",
+            "Lecture_screenshots/screenshot_9.png",
+            "Lecture_screenshots/screenshot_41.png",
+            "Lecture_screenshots/screenshot_22.png",
+            "Lecture_screenshots/screenshot_40.png",
+            "Lecture_screenshots/screenshot_39.png",
+            "Lecture_screenshots/screenshot_2.png",
+            "Lecture_screenshots/screenshot_17.png",
+            "Lecture_screenshots/screenshot_38.png"
+        ],
+        "Category": "Reasoning"
+    },
+    {
+        "Question": "What is the action connecting 'MACBETH' and 'DUNCAN'?",
+        "Answer": "MURDER or Kill",
+        "Image": "Lecture_screenshots/screenshot_28.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_45.png",
+            "Lecture_screenshots/screenshot_28.png",
+            "Lecture_screenshots/screenshot_9.png",
+            "Lecture_screenshots/screenshot_41.png",
+            "Lecture_screenshots/screenshot_22.png",
+            "Lecture_screenshots/screenshot_40.png",
+            "Lecture_screenshots/screenshot_39.png",
+            "Lecture_screenshots/screenshot_2.png",
+            "Lecture_screenshots/screenshot_17.png",
+            "Lecture_screenshots/screenshot_38.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "What property is associated with 'DUNCAN'?",
+        "Answer": "DEAD",
+        "Image": "Lecture_screenshots/screenshot_28.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_45.png",
+            "Lecture_screenshots/screenshot_28.png",
+            "Lecture_screenshots/screenshot_9.png",
+            "Lecture_screenshots/screenshot_41.png",
+            "Lecture_screenshots/screenshot_22.png",
+            "Lecture_screenshots/screenshot_40.png",
+            "Lecture_screenshots/screenshot_39.png",
+            "Lecture_screenshots/screenshot_2.png",
+            "Lecture_screenshots/screenshot_17.png",
+            "Lecture_screenshots/screenshot_38.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "Besides the 'POWER OF CORRELATION', what are the two other principles listed on the blackboard?",
+        "Answer": "RUMPLESTILSKIN PRINCIPLE, GOLDILOCKS PRINCIPLE",
+        "Image": "Lecture_screenshots/screenshot_21.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_12.png",
+            "Lecture_screenshots/screenshot_34.png",
+            "Lecture_screenshots/screenshot_33.png",
+            "Lecture_screenshots/screenshot_13.png",
+            "Lecture_screenshots/screenshot_45.png",
+            "Lecture_screenshots/screenshot_36.png",
+            "Lecture_screenshots/screenshot_49.png",
+            "Lecture_screenshots/screenshot_31.png",
+            "Lecture_screenshots/screenshot_46.png",
+            "Lecture_screenshots/screenshot_21.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "What is the other search method being compared with DEPTH FIRST on the blackboard?",
+        "Answer": "BREADTH FIRST",
+        "Image": "Lecture_screenshots/screenshot_39.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_4.png",
+            "Lecture_screenshots/screenshot_25.png",
+            "Lecture_screenshots/screenshot_1.png",
+            "Lecture_screenshots/screenshot_47.png",
+            "Lecture_screenshots/screenshot_7.png",
+            "Lecture_screenshots/screenshot_45.png",
+            "Lecture_screenshots/screenshot_50.png",
+            "Lecture_screenshots/screenshot_49.png",
+            "Lecture_screenshots/screenshot_48.png",
+            "Lecture_screenshots/screenshot_39.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "In the 'DEPTH FIRST' search, what nodes are visited immediately after node 'A'?",
+        "Answer": "B, C",
+        "Image": "Lecture_screenshots/screenshot_39.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_4.png",
+            "Lecture_screenshots/screenshot_25.png",
+            "Lecture_screenshots/screenshot_1.png",
+            "Lecture_screenshots/screenshot_47.png",
+            "Lecture_screenshots/screenshot_7.png",
+            "Lecture_screenshots/screenshot_45.png",
+            "Lecture_screenshots/screenshot_50.png",
+            "Lecture_screenshots/screenshot_49.png",
+            "Lecture_screenshots/screenshot_48.png",
+            "Lecture_screenshots/screenshot_39.png"
+        ],
+        "Category": "Reasoning"
+    },
+    {
+        "Question": "In the 'BREADTH FIRST' search, what nodes are visited immediately after node 'A'?",
+        "Answer": "B, D",
+        "Image": "Lecture_screenshots/screenshot_39.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_4.png",
+            "Lecture_screenshots/screenshot_25.png",
+            "Lecture_screenshots/screenshot_1.png",
+            "Lecture_screenshots/screenshot_47.png",
+            "Lecture_screenshots/screenshot_7.png",
+            "Lecture_screenshots/screenshot_45.png",
+            "Lecture_screenshots/screenshot_50.png",
+            "Lecture_screenshots/screenshot_49.png",
+            "Lecture_screenshots/screenshot_48.png",
+            "Lecture_screenshots/screenshot_39.png"
+        ],
+        "Category": "Reasoning"
+    },
+    {
+        "Question": "How many sub topics were discussed under GENETIC ALGORITHMS on balck noard?",
+        "Answer": "5",
+        "Image": "Lecture_screenshots/screenshot_5.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_32.png",
+            "Lecture_screenshots/screenshot_48.png",
+            "Lecture_screenshots/screenshot_16.png",
+            "Lecture_screenshots/screenshot_5.png",
+            "Lecture_screenshots/screenshot_13.png",
+            "Lecture_screenshots/screenshot_39.png",
+            "Lecture_screenshots/screenshot_11.png",
+            "Lecture_screenshots/screenshot_20.png",
+            "Lecture_screenshots/screenshot_15.png",
+            "Lecture_screenshots/screenshot_22.png"
+        ],
+        "Category": "Reasoning"
+    },
+    {
+        "Question": "Was Fitness Space discussed under GENETIC ALGORITHMS? (Yes/No)",
+        "Answer": "Yes",
+        "Image": "Lecture_screenshots/screenshot_5.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_32.png",
+            "Lecture_screenshots/screenshot_48.png",
+            "Lecture_screenshots/screenshot_16.png",
+            "Lecture_screenshots/screenshot_5.png",
+            "Lecture_screenshots/screenshot_13.png",
+            "Lecture_screenshots/screenshot_39.png",
+            "Lecture_screenshots/screenshot_11.png",
+            "Lecture_screenshots/screenshot_20.png",
+            "Lecture_screenshots/screenshot_15.png",
+            "Lecture_screenshots/screenshot_22.png"
+        ],
+        "Category": "Boolean"
+    },
+    {
+        "Question": "Was Mutation discussed under GENETIC ALGORITHMS? (Yes/No)",
+        "Answer": "No",
+        "Image": "Lecture_screenshots/screenshot_5.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_32.png",
+            "Lecture_screenshots/screenshot_48.png",
+            "Lecture_screenshots/screenshot_16.png",
+            "Lecture_screenshots/screenshot_5.png",
+            "Lecture_screenshots/screenshot_13.png",
+            "Lecture_screenshots/screenshot_39.png",
+            "Lecture_screenshots/screenshot_11.png",
+            "Lecture_screenshots/screenshot_20.png",
+            "Lecture_screenshots/screenshot_15.png",
+            "Lecture_screenshots/screenshot_22.png"
+        ],
+        "Category": "Boolean"
+    },
+    {
+        "Question": "Which variable comes under MEASURE category in the equation \"X_A = x_S \\cos \\Theta_A - y_S \\sin \\Theta_A\" as shown on the blackboard?",
+        "Answer": "X_A",
+        "Image": "Lecture_screenshots/screenshot_22.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_15.png",
+            "Lecture_screenshots/screenshot_9.png",
+            "Lecture_screenshots/screenshot_49.png",
+            "Lecture_screenshots/screenshot_29.png",
+            "Lecture_screenshots/screenshot_14.png",
+            "Lecture_screenshots/screenshot_31.png",
+            "Lecture_screenshots/screenshot_5.png",
+            "Lecture_screenshots/screenshot_40.png",
+            "Lecture_screenshots/screenshot_22.png",
+            "Lecture_screenshots/screenshot_39.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "What is the equation for X_A under the 'MEASURE' category?",
+        "Answer": "X_A = x_S \\cos \\Theta_A - y_S \\sin \\Theta_A",
+        "Image": "Lecture_screenshots/screenshot_22.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_15.png",
+            "Lecture_screenshots/screenshot_9.png",
+            "Lecture_screenshots/screenshot_49.png",
+            "Lecture_screenshots/screenshot_29.png",
+            "Lecture_screenshots/screenshot_14.png",
+            "Lecture_screenshots/screenshot_31.png",
+            "Lecture_screenshots/screenshot_5.png",
+            "Lecture_screenshots/screenshot_40.png",
+            "Lecture_screenshots/screenshot_22.png",
+            "Lecture_screenshots/screenshot_39.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "What is the equation for X_B under the 'MEASURE' category?",
+        "Answer": "X_B = x_S \\cos \\Theta_B - y_S \\sin \\Theta_B",
+        "Image": "Lecture_screenshots/screenshot_22.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_15.png",
+            "Lecture_screenshots/screenshot_9.png",
+            "Lecture_screenshots/screenshot_49.png",
+            "Lecture_screenshots/screenshot_29.png",
+            "Lecture_screenshots/screenshot_14.png",
+            "Lecture_screenshots/screenshot_31.png",
+            "Lecture_screenshots/screenshot_5.png",
+            "Lecture_screenshots/screenshot_40.png",
+            "Lecture_screenshots/screenshot_22.png",
+            "Lecture_screenshots/screenshot_39.png"
+        ],
+        "Category": "Inline"
+    },
+    {
+        "Question": "What is the equation for Theta_u under the 'CONSTANTS' category?",
+        "Answer": "x_u = x_S \\cos \\Theta_u - y_S \\sin \\Theta_u",
+        "Image": "Lecture_screenshots/screenshot_22.png",
+        "Image_list": [
+            "Lecture_screenshots/screenshot_15.png",
+            "Lecture_screenshots/screenshot_9.png",
+            "Lecture_screenshots/screenshot_49.png",
+            "Lecture_screenshots/screenshot_29.png",
+            "Lecture_screenshots/screenshot_14.png",
+            "Lecture_screenshots/screenshot_31.png",
+            "Lecture_screenshots/screenshot_5.png",
+            "Lecture_screenshots/screenshot_40.png",
+            "Lecture_screenshots/screenshot_22.png",
+            "Lecture_screenshots/screenshot_39.png"
+        ],
+        "Category": "Inline"
+    }
+]

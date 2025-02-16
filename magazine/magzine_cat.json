@@ -1,0 +1,254 @@
+[
+    {
+        "question": "Where was the sniper school located in July 1944?",
+        "answer": "Normandy",
+        "category": "Inline",
+        "Ground truth page": "dataset_sub/magazine_data/15/images/page_29.png",
+        "Image_list": [
+            "dataset_sub/magazine_data/15/images/page_2.png",
+            "dataset_sub/magazine_data/15/images/page_42.png",
+            "dataset_sub/magazine_data/15/images/page_8.png",
+            "dataset_sub/magazine_data/15/images/page_9.png",
+            "dataset_sub/magazine_data/15/images/page_83.png",
+            "dataset_sub/magazine_data/15/images/page_3.png",
+            "dataset_sub/magazine_data/15/images/page_14.png",
+            "dataset_sub/magazine_data/15/images/page_40.png",
+            "dataset_sub/magazine_data/15/images/page_29.png",
+            "dataset_sub/magazine_data/15/images/page_33.png"
+        ]
+    },
+    {
+        "question": "What was the standard-issue rifle of the British Army from 1895 to 1957?",
+        "answer": "7.7mm Lee-Enfield",
+        "category": "Inline",
+        "Ground truth page": "dataset_sub/magazine_data/15/images/page_29.png",
+        "Image_list": [
+            "dataset_sub/magazine_data/15/images/page_14.png",
+            "dataset_sub/magazine_data/15/images/page_9.png",
+            "dataset_sub/magazine_data/15/images/page_35.png",
+            "dataset_sub/magazine_data/15/images/page_29.png",
+            "dataset_sub/magazine_data/15/images/page_50.png",
+            "dataset_sub/magazine_data/15/images/page_66.png",
+            "dataset_sub/magazine_data/15/images/page_27.png",
+            "dataset_sub/magazine_data/15/images/page_13.png",
+            "dataset_sub/magazine_data/15/images/page_56.png",
+            "dataset_sub/magazine_data/15/images/page_33.png"
+        ]
+    },
+    {
+        "question": "Who was the Canadian sergeant known for his sniper skills during the 1944-45 campaign?",
+        "answer": "L\u00e9o Major",
+        "category": "Inline",
+        "Ground truth page": "dataset_sub/magazine_data/15/images/page_33.png",
+        "Image_list": [
+            "dataset_sub/magazine_data/15/images/page_18.png",
+            "dataset_sub/magazine_data/15/images/page_20.png",
+            "dataset_sub/magazine_data/15/images/page_52.png",
+            "dataset_sub/magazine_data/15/images/page_46.png",
+            "dataset_sub/magazine_data/15/images/page_45.png",
+            "dataset_sub/magazine_data/15/images/page_22.png",
+            "dataset_sub/magazine_data/15/images/page_33.png",
+            "dataset_sub/magazine_data/15/images/page_12.png",
+            "dataset_sub/magazine_data/15/images/page_19.png",
+            "dataset_sub/magazine_data/15/images/page_82.png"
+        ]
+    },
+    {
+        "question": "Who watched the American flag flying over Fort McHenry on 14 September?",
+        "answer": "Francis Scott Key",
+        "category": "Inline",
+        "Ground truth page": "dataset_sub/magazine_data/15/images/page_35.png",
+        "Image_list": [
+            "dataset_sub/magazine_data/15/images/page_63.png",
+            "dataset_sub/magazine_data/15/images/page_22.png",
+            "dataset_sub/magazine_data/15/images/page_35.png",
+            "dataset_sub/magazine_data/15/images/page_45.png",
+            "dataset_sub/magazine_data/15/images/page_71.png",
+            "dataset_sub/magazine_data/15/images/page_19.png",
+            "dataset_sub/magazine_data/15/images/page_31.png",
+            "dataset_sub/magazine_data/15/images/page_9.png",
+            "dataset_sub/magazine_data/15/images/page_49.png",
+            "dataset_sub/magazine_data/15/images/page_46.png"
+        ]
+    },
+    {
+        "question": "Who commanded the main British force advancing towards Stricker's brigade?",
+        "answer": "Colonel Arthur Brooke",
+        "category": "Inline",
+        "Ground truth page": "dataset_sub/magazine_data/15/images/page_37.png",
+        "Image_list": [
+            "dataset_sub/magazine_data/15/images/page_14.png",
+            "dataset_sub/magazine_data/15/images/page_38.png",
+            "dataset_sub/magazine_data/15/images/page_2.png",
+            "dataset_sub/magazine_data/15/images/page_43.png",
+            "dataset_sub/magazine_data/15/images/page_42.png",
+            "dataset_sub/magazine_data/15/images/page_37.png",
+            "dataset_sub/magazine_data/15/images/page_54.png",
+            "dataset_sub/magazine_data/15/images/page_24.png",
+            "dataset_sub/magazine_data/15/images/page_19.png",
+            "dataset_sub/magazine_data/15/images/page_13.png"
+        ]
+    },
+    {
+        "question": "Who penned the lyrics for the American national anthem?",
+        "answer": "Francis Scott Key",
+        "category": "Inline",
+        "Ground truth page": "dataset_sub/magazine_data/15/images/page_41.png",
+        "Image_list": [
+            "dataset_sub/magazine_data/15/images/page_73.png",
+            "dataset_sub/magazine_data/15/images/page_80.png",
+            "dataset_sub/magazine_data/15/images/page_66.png",
+            "dataset_sub/magazine_data/15/images/page_25.png",
+            "dataset_sub/magazine_data/15/images/page_78.png",
+            "dataset_sub/magazine_data/15/images/page_61.png",
+            "dataset_sub/magazine_data/15/images/page_47.png",
+            "dataset_sub/magazine_data/15/images/page_41.png",
+            "dataset_sub/magazine_data/15/images/page_46.png",
+            "dataset_sub/magazine_data/15/images/page_69.png"
+        ]
+    },
+    {
+        "question": "How many troops were rescued during Operation Dynamo?",
+        "answer": "338,226",
+        "category": "Inline",
+        "Ground truth page": "dataset_sub/magazine_data/15/images/page_43.png",
+        "Image_list": [
+            "dataset_sub/magazine_data/15/images/page_7.png",
+            "dataset_sub/magazine_data/15/images/page_43.png",
+            "dataset_sub/magazine_data/15/images/page_37.png",
+            "dataset_sub/magazine_data/15/images/page_40.png",
+            "dataset_sub/magazine_data/15/images/page_14.png",
+            "dataset_sub/magazine_data/15/images/page_47.png",
+            "dataset_sub/magazine_data/15/images/page_4.png",
+            "dataset_sub/magazine_data/15/images/page_18.png",
+            "dataset_sub/magazine_data/15/images/page_59.png",
+            "dataset_sub/magazine_data/15/images/page_68.png"
+        ]
+    },
+    {
+        "question": "How many British ships were sunk on 29 May?",
+        "answer": "16",
+        "category": "Inline",
+        "Ground truth page": "dataset_sub/magazine_data/15/images/page_45.png",
+        "Image_list": [
+            "dataset_sub/magazine_data/15/images/page_43.png",
+            "dataset_sub/magazine_data/15/images/page_38.png",
+            "dataset_sub/magazine_data/15/images/page_74.png",
+            "dataset_sub/magazine_data/15/images/page_45.png",
+            "dataset_sub/magazine_data/15/images/page_23.png",
+            "dataset_sub/magazine_data/15/images/page_64.png",
+            "dataset_sub/magazine_data/15/images/page_53.png",
+            "dataset_sub/magazine_data/15/images/page_24.png",
+            "dataset_sub/magazine_data/15/images/page_8.png",
+            "dataset_sub/magazine_data/15/images/page_72.png"
+        ]
+    },
+    {
+        "question": "What time did the hospital carrier Paris depart Dover on 2 June?",
+        "answer": "4.48pm",
+        "category": "Inline",
+        "Ground truth page": "dataset_sub/magazine_data/15/images/page_47.png",
+        "Image_list": [
+            "dataset_sub/magazine_data/15/images/page_83.png",
+            "dataset_sub/magazine_data/15/images/page_56.png",
+            "dataset_sub/magazine_data/15/images/page_44.png",
+            "dataset_sub/magazine_data/15/images/page_65.png",
+            "dataset_sub/magazine_data/15/images/page_47.png",
+            "dataset_sub/magazine_data/15/images/page_82.png",
+            "dataset_sub/magazine_data/15/images/page_5.png",
+            "dataset_sub/magazine_data/15/images/page_2.png",
+            "dataset_sub/magazine_data/15/images/page_17.png",
+            "dataset_sub/magazine_data/15/images/page_51.png"
+        ]
+    },
+    {
+        "question": "What was the first UK-designed axial-flow engine to enter manufacture?",
+        "answer": "Rolls-Royce Avon RA.3",
+        "category": "Inline",
+        "Ground truth page": "dataset_sub/magazine_data/15/images/page_59.png",
+        "Image_list": [
+            "dataset_sub/magazine_data/15/images/page_57.png",
+            "dataset_sub/magazine_data/15/images/page_1.png",
+            "dataset_sub/magazine_data/15/images/page_21.png",
+            "dataset_sub/magazine_data/15/images/page_71.png",
+            "dataset_sub/magazine_data/15/images/page_81.png",
+            "dataset_sub/magazine_data/15/images/page_59.png",
+            "dataset_sub/magazine_data/15/images/page_43.png",
+            "dataset_sub/magazine_data/15/images/page_75.png",
+            "dataset_sub/magazine_data/15/images/page_31.png",
+            "dataset_sub/magazine_data/15/images/page_80.png"
+        ]
+    },
+    {
+        "question": "How many RAF squadrons flew Canberras in the 1956 Suez Campaign?",
+        "answer": "14",
+        "category": "Inline",
+        "Ground truth page": "dataset_sub/magazine_data/15/images/page_61.png",
+        "Image_list": [
+            "dataset_sub/magazine_data/15/images/page_77.png",
+            "dataset_sub/magazine_data/15/images/page_7.png",
+            "dataset_sub/magazine_data/15/images/page_16.png",
+            "dataset_sub/magazine_data/15/images/page_61.png",
+            "dataset_sub/magazine_data/15/images/page_66.png",
+            "dataset_sub/magazine_data/15/images/page_42.png",
+            "dataset_sub/magazine_data/15/images/page_79.png",
+            "dataset_sub/magazine_data/15/images/page_36.png",
+            "dataset_sub/magazine_data/15/images/page_21.png",
+            "dataset_sub/magazine_data/15/images/page_35.png"
+        ]
+    },
+    {
+        "question": "What year did Frank Trentmann identify as a turning point in German feeling towards the war and Nazism?",
+        "answer": "1943",
+        "category": "Inline",
+        "Ground truth page": "dataset_sub/magazine_data/15/images/page_63.png",
+        "Image_list": [
+            "dataset_sub/magazine_data/15/images/page_67.png",
+            "dataset_sub/magazine_data/15/images/page_44.png",
+            "dataset_sub/magazine_data/15/images/page_59.png",
+            "dataset_sub/magazine_data/15/images/page_75.png",
+            "dataset_sub/magazine_data/15/images/page_31.png",
+            "dataset_sub/magazine_data/15/images/page_6.png",
+            "dataset_sub/magazine_data/15/images/page_10.png",
+            "dataset_sub/magazine_data/15/images/page_58.png",
+            "dataset_sub/magazine_data/15/images/page_1.png",
+            "dataset_sub/magazine_data/15/images/page_63.png"
+        ]
+    },
+    {
+        "question": "Who knighted Augusta on 24 June 2011?",
+        "answer": "King Albert II",
+        "category": "Inline",
+        "Ground truth page": "dataset_sub/magazine_data/15/images/page_71.png",
+        "Image_list": [
+            "dataset_sub/magazine_data/15/images/page_22.png",
+            "dataset_sub/magazine_data/15/images/page_4.png",
+            "dataset_sub/magazine_data/15/images/page_71.png",
+            "dataset_sub/magazine_data/15/images/page_38.png",
+            "dataset_sub/magazine_data/15/images/page_66.png",
+            "dataset_sub/magazine_data/15/images/page_52.png",
+            "dataset_sub/magazine_data/15/images/page_41.png",
+            "dataset_sub/magazine_data/15/images/page_28.png",
+            "dataset_sub/magazine_data/15/images/page_34.png",
+            "dataset_sub/magazine_data/15/images/page_55.png"
+        ]
+    },
+    {
+        "question": "What is the cost of a family ticket to the Roman Army Museum?",
+        "answer": "\u00a327.50",
+        "category": "Inline",
+        "Ground truth page": "dataset_sub/magazine_data/15/images/page_73.png",
+        "Image_list": [
+            "dataset_sub/magazine_data/15/images/page_38.png",
+            "dataset_sub/magazine_data/15/images/page_73.png",
+            "dataset_sub/magazine_data/15/images/page_35.png",
+            "dataset_sub/magazine_data/15/images/page_28.png",
+            "dataset_sub/magazine_data/15/images/page_10.png",
+            "dataset_sub/magazine_data/15/images/page_42.png",
+            "dataset_sub/magazine_data/15/images/page_40.png",
+            "dataset_sub/magazine_data/15/images/page_11.png",
+            "dataset_sub/magazine_data/15/images/page_9.png",
+            "dataset_sub/magazine_data/15/images/page_43.png"
+        ]
+    }
+]
