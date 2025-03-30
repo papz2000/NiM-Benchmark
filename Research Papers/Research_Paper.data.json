@@ -1,0 +1,229 @@
+[
+    {
+        "question": "Which model introduced hand-crafted functions based on physical concepts of attraction and repulsion?",
+        "answer": "Social Force Model",
+        "category": "Inline",
+        "Ground truth page": "2501.13848v1/images/page_2.png",
+        "Image_list": [
+            "2501.13848v1/images/page_3.png",
+            "2501.13848v1/images/page_4.png",
+            "2501.13848v1/images/page_1.png",
+            "2501.13848v1/images/page_5.png",
+            "2501.13848v1/images/page_2.png",
+            "2501.13848v1/images/page_6.png"
+        ],
+        "content": [
+            {
+                "x": 141.00795044032586,
+                "y": 1216.2897226355844
+            },
+            {
+                "x": 822.3227737066445,
+                "y": 1216.2897226355844
+            },
+            {
+                "x": 822.3227737066445,
+                "y": 1308.7919962905416
+            },
+            {
+                "x": 141.00795044032586,
+                "y": 1308.7919962905416
+            }
+        ],
+        "bbox_percentage": 1.69
+    },
+    {
+        "question": "Which module processes H_fused to predict future positions?",
+        "answer": "Temporal Convolutional Network (TCN)",
+        "category": "Inline",
+        "Ground truth page": "2501.13848v1/images/page_3.png",
+        "Image_list": [
+            "2501.13848v1/images/page_2.png",
+            "2501.13848v1/images/page_3.png",
+            "2501.13848v1/images/page_6.png",
+            "2501.13848v1/images/page_1.png",
+            "2501.13848v1/images/page_5.png",
+            "2501.13848v1/images/page_4.png"
+        ],
+        "content": [
+            {
+                "x": 872.8324182103111,
+                "y": 627.4011374611061
+            },
+            {
+                "x": 1553.5897195792375,
+                "y": 627.4011374611061
+            },
+            {
+                "x": 1553.5897195792375,
+                "y": 687.6451464318076
+            },
+            {
+                "x": 872.8324182103111,
+                "y": 687.6451464318076
+            }
+        ],
+        "bbox_percentage": 1.1
+    },
+    {
+        "question": "Which ResNet variant is used in the Feature Extraction Module?",
+        "answer": "ResNet-18",
+        "category": "Inline",
+        "Ground truth page": "2501.13848v1/images/page_4.png",
+        "Image_list": [
+            "2501.13848v1/images/page_5.png",
+            "2501.13848v1/images/page_4.png",
+            "2501.13848v1/images/page_3.png",
+            "2501.13848v1/images/page_2.png",
+            "2501.13848v1/images/page_6.png",
+            "2501.13848v1/images/page_1.png"
+        ],
+        "content": [
+            {
+                "x": 406.042515754234,
+                "y": 429.85183693540324
+            },
+            {
+                "x": 534.6213719599475,
+                "y": 429.85183693540324
+            },
+            {
+                "x": 534.6213719599475,
+                "y": 468.629587219666
+            },
+            {
+                "x": 406.042515754234,
+                "y": 468.629587219666
+            }
+        ],
+        "bbox_percentage": 0.13
+    },
+    {
+        "question": "Which model is used for universal image segmentation in Oneformer?",
+        "answer": "One transformer",
+        "category": "Inline",
+        "Ground truth page": "2501.13848v1/images/page_6.png",
+        "Image_list": [
+            "2501.13848v1/images/page_4.png",
+            "2501.13848v1/images/page_6.png",
+            "2501.13848v1/images/page_1.png",
+            "2501.13848v1/images/page_3.png",
+            "2501.13848v1/images/page_5.png",
+            "2501.13848v1/images/page_2.png"
+        ],
+        "content": [
+            {
+                "x": 269.8855319624154,
+                "y": 1257.7012901861222
+            },
+            {
+                "x": 799.8490046549949,
+                "y": 1257.7012901861222
+            },
+            {
+                "x": 799.8490046549949,
+                "y": 1288.4450275522663
+            },
+            {
+                "x": 269.8855319624154,
+                "y": 1288.4450275522663
+            }
+        ],
+        "bbox_percentage": 0.44
+    },
+    {
+        "question": "What architecture is formed by combining attention-MoE, expert pruning, and router-augmentation?",
+        "answer": "BLR-MoE",
+        "category": "Inline",
+        "Ground truth page": "2501.12602v1/images/page_2.png",
+        "Image_list": [
+            "2501.12602v1/images/page_2.png",
+            "2501.12602v1/images/page_5.png",
+            "2501.12602v1/images/page_4.png",
+            "2501.12602v1/images/page_3.png",
+            "2501.12602v1/images/page_1.png"
+        ],
+        "content": [
+            {
+                "x": 177.52780152034845,
+                "y": 455.34808687153566
+            },
+            {
+                "x": 846.4277663035713,
+                "y": 455.34808687153566
+            },
+            {
+                "x": 846.4277663035713,
+                "y": 545.906851334495
+            },
+            {
+                "x": 177.52780152034845,
+                "y": 545.906851334495
+            }
+        ],
+        "bbox_percentage": 1.62
+    },
+    {
+        "question": "What is the number of unique characters in the vocabulary mentioned in the document?",
+        "answer": "17,299",
+        "category": "Inline",
+        "Ground truth page": "2501.12602v1/images/page_3.png",
+        "Image_list": [
+            "2501.12602v1/images/page_4.png",
+            "2501.12602v1/images/page_5.png",
+            "2501.12602v1/images/page_3.png",
+            "2501.12602v1/images/page_2.png"
+        ],
+        "content": [
+            {
+                "x": 854.6512121209952,
+                "y": 1282.8057274007924
+            },
+            {
+                "x": 1571.516813488728,
+                "y": 1282.8057274007924
+            },
+            {
+                "x": 1571.516813488728,
+                "y": 1341.0283143139077
+            },
+            {
+                "x": 854.6512121209952,
+                "y": 1341.0283143139077
+            }
+        ],
+        "bbox_percentage": 1.12
+    },
+    {
+        "question": "What is the LID router used in BLE-MoE?",
+        "answer": "TDNN",
+        "category": "Inline",
+        "Ground truth page": "2501.12602v1/images/page_4.png",
+        "Image_list": [
+            "2501.12602v1/images/page_5.png",
+            "2501.12602v1/images/page_4.png",
+            "2501.12602v1/images/page_1.png",
+            "2501.12602v1/images/page_2.png",
+            "2501.12602v1/images/page_3.png"
+        ],
+        "content": [
+            {
+                "x": 126.93574958813832,
+                "y": 376.9357495881382
+            },
+            {
+                "x": 511.12026359143323,
+                "y": 376.9357495881382
+            },
+            {
+                "x": 511.12026359143323,
+                "y": 463.92092257001633
+            },
+            {
+                "x": 126.93574958813832,
+                "y": 463.92092257001633
+            }
+        ],
+        "bbox_percentage": 0.89
+    }
+]

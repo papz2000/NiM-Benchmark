@@ -1,0 +1,213 @@
+[
+    {
+        "question": "what is the price of Spicy meat feast?",
+        "answer": "15.90",
+        "category": "inline",
+        "Image_list": [
+            "star-light-menu/page_1.png",
+            "star-light-menu/page_2.png"
+        ],
+        "Ground truth page": "star-light-menu/page_2.png",
+        "bbox_percentage": 0.56,
+        "content": [
+            {
+                "x": 1684.8605903156333,
+                "y": 1668.7844951401885
+            },
+            {
+                "x": 2383.745045967746,
+                "y": 1668.7844951401885
+            },
+            {
+                "x": 2383.745045967746,
+                "y": 1734.8028964884336
+            },
+            {
+                "x": 1684.8605903156333,
+                "y": 1734.8028964884336
+            }
+        ]
+    },
+    {
+        "question": "what is the the price of chessy chips and gravy?",
+        "answer": "5.49",
+        "category": "inline",
+        "Image_list": [
+            "the-kissing-gate-all-day-menu-march-2024/page_1.png",
+            "the-kissing-gate-all-day-menu-march-2024/page_2.png"
+        ],
+        "Ground truth page": "the-kissing-gate-all-day-menu-march-2024/page_2.png",
+        "bbox_percentage": 0.33,
+        "content": [
+            {
+                "x": 212.45964350576867,
+                "y": 2002.2883655987491
+            },
+            {
+                "x": 861.9967440175877,
+                "y": 2002.2883655987491
+            },
+            {
+                "x": 861.9967440175877,
+                "y": 2045.0210695797898
+            },
+            {
+                "x": 212.45964350576867,
+                "y": 2045.0210695797898
+            }
+        ]
+    },
+    {
+        "question": "what is the price of lahori naan?",
+        "answer": "4.99",
+        "category": "inline",
+        "Image_list": [
+            "TOI_webmenu_082410/page_3.png",
+            "TOI_webmenu_082410/page_6.png",
+            "TOI_webmenu_082410/page_4.png",
+            "TOI_webmenu_082410/page_1.png",
+            "TOI_webmenu_082410/page_5.png",
+            "TOI_webmenu_082410/page_2.png"
+        ],
+        "Ground truth page": "TOI_webmenu_082410/page_2.png",
+        "bbox_percentage": 1.02,
+        "content": [
+            {
+                "x": 878.7780388858168,
+                "y": 1840.9211728517987
+            },
+            {
+                "x": 1306.6946772664605,
+                "y": 1840.9211728517987
+            },
+            {
+                "x": 1306.6946772664605,
+                "y": 1930.4851204198405
+            },
+            {
+                "x": 878.7780388858168,
+                "y": 1930.4851204198405
+            }
+        ]
+    },
+    {
+        "question": "is mysore dosa cheaper than mysore masala dosa?",
+        "answer": "Yes",
+        "category": "comparison",
+        "Image_list": [
+            "TOI_webmenu_082410/page_3.png",
+            "TOI_webmenu_082410/page_6.png",
+            "TOI_webmenu_082410/page_4.png",
+            "TOI_webmenu_082410/page_1.png",
+            "TOI_webmenu_082410/page_5.png",
+            "TOI_webmenu_082410/page_2.png"
+        ],
+        "Ground truth page": "TOI_webmenu_082410/page_5.png",
+        "bbox_percentage": 3.23,
+        "content": [
+            {
+                "x": 904.5423666736644,
+                "y": 1604.9928025495935
+            },
+            {
+                "x": 1505.2706766762667,
+                "y": 1604.9928025495935
+            },
+            {
+                "x": 1505.2706766762667,
+                "y": 1806.1541173669787
+            },
+            {
+                "x": 904.5423666736644,
+                "y": 1806.1541173669787
+            }
+        ]
+    },
+    {
+        "question": "Are the Onion Rings plant-based?",
+        "answer": "Yes",
+        "category": "boolean",
+        "Image_list": [
+            "montys-reduced-all-day-launch-menu-web-002/page_1.png",
+            "montys-reduced-all-day-launch-menu-web-002/page_2.png"
+        ],
+        "Ground truth page": "montys-reduced-all-day-launch-menu-web-002/page_1.png",
+        "bbox_percentage": 0.14,
+        "content": [
+            {
+                "x": 2405.7171544010325,
+                "y": 1758.099708012843
+            },
+            {
+                "x": 2698.113588438464,
+                "y": 1758.099708012843
+            },
+            {
+                "x": 2698.113588438464,
+                "y": 1794.9048535560162
+            },
+            {
+                "x": 2405.7171544010325,
+                "y": 1794.9048535560162
+            }
+        ]
+    },
+    {
+        "question": "what is the price of regular diet coke?",
+        "answer": "3.89",
+        "category": "inline",
+        "Image_list": [
+            "montys-reduced-all-day-launch-menu-web-002/page_1.png",
+            "montys-reduced-all-day-launch-menu-web-002/page_2.png"
+        ],
+        "Ground truth page": "montys-reduced-all-day-launch-menu-web-002/page_2.png",
+        "bbox_percentage": 0.35,
+        "content": [
+            {
+                "x": 1716.5960089365537,
+                "y": 1038.5453668766518
+            },
+            {
+                "x": 2227.3000905540284,
+                "y": 1038.5453668766518
+            },
+            {
+                "x": 2227.3000905540284,
+                "y": 1091.4680696349394
+            },
+            {
+                "x": 1716.5960089365537,
+                "y": 1091.4680696349394
+            }
+        ]
+    },
+    {
+        "question": "what is the calorie count of muesli?",
+        "answer": "367",
+        "category": "inline",
+        "Image_list": [
+            "no-105-olive-tree-new-style-main-menu-a1-11-23-v3/page_1.png",
+            "no-105-olive-tree-new-style-main-menu-a1-11-23-v3/page_2.png"
+        ],
+        "Ground truth page": "no-105-olive-tree-new-style-main-menu-a1-11-23-v3/page_1.png",
+        "bbox_percentage": 0.17,
+        "content": [
+            {
+                "x": 2428.6220470835265,
+                "y": 2850.878495610362
+            },
+            {
+                "x": 2944.888608686578,
+                "y": 2850.878495610362
+            },
+            {
+                "x": 2944.888608686578,
+                "y": 2950.508884691653
+            },
+            {
+                "x": 2428.6220470835265,
+                "y": 2950.508884691653
+            }
+        ]
+    }
+]

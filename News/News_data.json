@@ -1,0 +1,290 @@
+[
+    {
+        "question": "What year did Bashar al-Assad become Syria's President?",
+        "answer": "2000",
+        "category": "Inline",
+        "Ground truth page": "The Telegraph 09-12/images/page_1.png",
+        "Image_list": [
+            "The Telegraph 09-12/images/page_8.png",
+            "The Telegraph 09-12/images/page_10.png",
+            "The Telegraph 09-12/images/page_3.png",
+            "The Telegraph 09-12/images/page_6.png",
+            "The Telegraph 09-12/images/page_1.png"
+        ],
+        "content": [
+            {
+                "x": 1148.7136250151937,
+                "y": 1955.4436463378167
+            },
+            {
+                "x": 1630.6811256564563,
+                "y": 1955.4436463378167
+            },
+            {
+                "x": 1630.6811256564563,
+                "y": 2146.411901308883
+            },
+            {
+                "x": 1148.7136250151937,
+                "y": 2146.411901308883
+            }
+        ],
+        "bbox_percentage": 0.32
+    },
+    {
+        "question": "Which city did insurgents enter on November 29, marking their first return since 2016?",
+        "answer": "Aleppo",
+        "category": "Inline",
+        "Ground truth page": "The Telegraph 09-12/images/page_2.png",
+        "Image_list": [
+            "The Telegraph 09-12/images/page_10.png",
+            "The Telegraph 09-12/images/page_8.png",
+            "The Telegraph 09-12/images/page_2.png",
+            "The Telegraph 09-12/images/page_5.png",
+            "The Telegraph 09-12/images/page_3.png"
+        ],
+        "content": [
+            {
+                "x": 3199.3286099101224,
+                "y": 1069.155223840013
+            },
+            {
+                "x": 3704.253513506192,
+                "y": 1069.155223840013
+            },
+            {
+                "x": 3704.253513506192,
+                "y": 1299.8536711727
+            },
+            {
+                "x": 3199.3286099101224,
+                "y": 1299.8536711727
+            }
+        ],
+        "bbox_percentage": 0.41
+    },
+    {
+        "question": "What was the profession of Bashar al-Assad before becoming President?",
+        "answer": "Ophthalmologist",
+        "category": "Inline",
+        "Ground truth page": "The Telegraph 09-12/images/page_2.png",
+        "Image_list": [
+            "The Telegraph 09-12/images/page_4.png",
+            "The Telegraph 09-12/images/page_1.png",
+            "The Telegraph 09-12/images/page_2.png",
+            "The Telegraph 09-12/images/page_6.png",
+            "The Telegraph 09-12/images/page_10.png"
+        ],
+        "content": [
+            {
+                "x": 112.47237233586165,
+                "y": 4262.075138718736
+            },
+            {
+                "x": 604.0053558314526,
+                "y": 4262.075138718736
+            },
+            {
+                "x": 604.0053558314526,
+                "y": 4390.731422989394
+            },
+            {
+                "x": 112.47237233586165,
+                "y": 4390.731422989394
+            }
+        ],
+        "bbox_percentage": 0.22
+    },
+    {
+        "question": "What was the final bid amount for Judy Garland's ruby slippers at the Dallas auction?",
+        "answer": "$28 million",
+        "category": "Inline",
+        "Ground truth page": "The Telegraph 09-12/images/page_3.png",
+        "Image_list": [
+            "The Telegraph 09-12/images/page_8.png",
+            "The Telegraph 09-12/images/page_5.png",
+            "The Telegraph 09-12/images/page_3.png",
+            "The Telegraph 09-12/images/page_1.png",
+            "The Telegraph 09-12/images/page_2.png"
+        ],
+        "content": [
+            {
+                "x": 1582.7257001647447,
+                "y": 4594.846787479407
+            },
+            {
+                "x": 4237.766886326194,
+                "y": 4594.846787479407
+            },
+            {
+                "x": 4237.766886326194,
+                "y": 4811.5848434925865
+            },
+            {
+                "x": 1582.7257001647447,
+                "y": 4811.5848434925865
+            }
+        ],
+        "bbox_percentage": 2.02
+    },
+    {
+        "question": "At what age did Bryan Adams perform his Calcutta debut?",
+        "answer": "65 years old",
+        "category": "Inline",
+        "Ground truth page": "The Telegraph 09-12/images/page_5.png",
+        "Image_list": [
+            "The Telegraph 09-12/images/page_8.png",
+            "The Telegraph 09-12/images/page_5.png",
+            "The Telegraph 09-12/images/page_4.png",
+            "The Telegraph 09-12/images/page_1.png",
+            "The Telegraph 09-12/images/page_10.png"
+        ],
+        "content": [
+            {
+                "x": 611.8431798081316,
+                "y": 1399.9820777949283
+            },
+            {
+                "x": 1119.822638065588,
+                "y": 1399.9820777949283
+            },
+            {
+                "x": 1119.822638065588,
+                "y": 1502.3361477423264
+            },
+            {
+                "x": 611.8431798081316,
+                "y": 1502.3361477423264
+            }
+        ],
+        "bbox_percentage": 0.18
+    },
+    {
+        "question": "From which city is Sunita Sanjay Katkar, the lottery winner?",
+        "answer": "Pune",
+        "category": "Inline",
+        "Ground truth page": "The Telegraph Calcutta 15.12.2024/images/page_2.png",
+        "Image_list": [
+            "The Telegraph Calcutta 15.12.2024/images/page_2.png",
+            "The Telegraph Calcutta 15.12.2024/images/page_3.png",
+            "The Telegraph Calcutta 15.12.2024/images/page_6.png",
+            "The Telegraph Calcutta 15.12.2024/images/page_8.png",
+            "The Telegraph Calcutta 15.12.2024/images/page_7.png"
+        ],
+        "content": [
+            {
+                "x": 382.4628954438992,
+                "y": 2499.1744813714668
+            },
+            {
+                "x": 676.8416653143025,
+                "y": 2499.1744813714668
+            },
+            {
+                "x": 676.8416653143025,
+                "y": 2558.0502353455477
+            },
+            {
+                "x": 382.4628954438992,
+                "y": 2558.0502353455477
+            }
+        ],
+        "bbox_percentage": 0.17
+    },
+    {
+        "question": "What is the annual coverage limit under PMJAY for poor households?",
+        "answer": "500,000",
+        "category": "Inline",
+        "Ground truth page": "The Telegraph Calcutta 15.12.2024/images/page_4.png",
+        "Image_list": [
+            "The Telegraph Calcutta 15.12.2024/images/page_4.png",
+            "The Telegraph Calcutta 15.12.2024/images/page_6.png",
+            "The Telegraph Calcutta 15.12.2024/images/page_9.png",
+            "The Telegraph Calcutta 15.12.2024/images/page_8.png",
+            "The Telegraph Calcutta 15.12.2024/images/page_5.png"
+        ],
+        "content": [
+            {
+                "x": 379.37489708364023,
+                "y": 1378.8114859142356
+            },
+            {
+                "x": 675.3687684034126,
+                "y": 1378.8114859142356
+            },
+            {
+                "x": 675.3687684034126,
+                "y": 1432.4603750909444
+            },
+            {
+                "x": 379.37489708364023,
+                "y": 1432.4603750909444
+            }
+        ],
+        "bbox_percentage": 0.15
+    },
+    {
+        "question": "Who chaired the PDP's general council meeting in Srinagar on Saturday?",
+        "answer": "Mehbooba Mufti",
+        "category": "Inline",
+        "Ground truth page": "The Telegraph Calcutta 15.12.2024/images/page_5.png",
+        "Image_list": [
+            "The Telegraph Calcutta 15.12.2024/images/page_8.png",
+            "The Telegraph Calcutta 15.12.2024/images/page_5.png",
+            "The Telegraph Calcutta 15.12.2024/images/page_6.png",
+            "The Telegraph Calcutta 15.12.2024/images/page_7.png",
+            "The Telegraph Calcutta 15.12.2024/images/page_2.png"
+        ],
+        "content": [
+            {
+                "x": 380.367274329204,
+                "y": 815.0639673563753
+            },
+            {
+                "x": 668.1935382027791,
+                "y": 815.0639673563753
+            },
+            {
+                "x": 668.1935382027791,
+                "y": 926.1548060444218
+            },
+            {
+                "x": 380.367274329204,
+                "y": 926.1548060444218
+            }
+        ],
+        "bbox_percentage": 0.31
+    },
+    {
+        "question": "Which tour includes a night stay at a Glass Igloo?",
+        "answer": "Iceland Lapland Scandinavia",
+        "category": "Inline",
+        "Ground truth page": "The Telegraph Calcutta 15.12.2024/images/page_5.png",
+        "Image_list": [
+            "The Telegraph Calcutta 15.12.2024/images/page_2.png",
+            "The Telegraph Calcutta 15.12.2024/images/page_3.png",
+            "The Telegraph Calcutta 15.12.2024/images/page_1.png",
+            "The Telegraph Calcutta 15.12.2024/images/page_5.png",
+            "The Telegraph Calcutta 15.12.2024/images/page_7.png"
+        ],
+        "content": [
+            {
+                "x": 1390.6746824801164,
+                "y": 727.0883641526436
+            },
+            {
+                "x": 1878.8409521143956,
+                "y": 727.0883641526436
+            },
+            {
+                "x": 1878.8409521143956,
+                "y": 930.49097650026
+            },
+            {
+                "x": 1390.6746824801164,
+                "y": 930.49097650026
+            }
+        ],
+        "bbox_percentage": 0.97
+    }
+]

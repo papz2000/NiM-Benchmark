@@ -1,0 +1,372 @@
+[
+    {
+        "Question": "For which console is Call of Duty Legacy Edition game available?",
+        "Answer": "PlayStation 4",
+        "Image_list": [
+            "images/image_10039.jpg",
+            "images/image_10060.jpg",
+            "images/image_10028.jpg",
+            "images/image_10036.jpg",
+            "images/image_10003.jpg",
+            "images/image_10031.jpg",
+            "images/image_10086.jpg",
+            "images/image_10022.jpg",
+            "images/image_10038.jpg",
+            "images/image_10001.jpg"
+        ],
+        "Category": "Inline",
+        "ground_truth_image": "images/image_10028.jpg",
+        "bbox_percentage": 0.6,
+        "content": [
+            {
+                "x": 793.5082880011403,
+                "y": 284.1752269302782
+            },
+            {
+                "x": 968.2564896719224,
+                "y": 284.1752269302782
+            },
+            {
+                "x": 968.2564896719224,
+                "y": 340.09465146492846
+            },
+            {
+                "x": 793.5082880011403,
+                "y": 340.09465146492846
+            }
+        ]
+    },
+    {
+        "Question": "What is the listed price of Red Dead Redemption 2?",
+        "Answer": "$39.99",
+        "Image_list": [
+            "images/image_10017.jpg",
+            "images/image_10026.jpg",
+            "images/image_10035.jpg",
+            "images/image_10038.jpg",
+            "images/image_10008.jpg",
+            "images/image_10010.jpg",
+            "images/image_10089.jpg",
+            "images/image_10039.jpg",
+            "images/image_10031.jpg",
+            "images/image_10036.jpg"
+        ],
+        "Category": "Inline",
+        "ground_truth_image": "images/image_10026.jpg",
+        "bbox_percentage": 0.43,
+        "content": [
+            {
+                "x": 1132.1781955935867,
+                "y": 671.3397496519104
+            },
+            {
+                "x": 1229.4722174873177,
+                "y": 671.3397496519104
+            },
+            {
+                "x": 1229.4722174873177,
+                "y": 744.3102660722088
+            },
+            {
+                "x": 1132.1781955935867,
+                "y": 744.3102660722088
+            }
+        ]
+    },
+    {
+        "Question": "How many reviews are listed for \"Little Friends\" as seen in the image?",
+        "Answer": "22",
+        "Image_list": [
+            "images/image_10022.jpg",
+            "images/image_10023.jpg",
+            "images/image_10035.jpg",
+            "images/image_10039.jpg",
+            "images/image_10038.jpg",
+            "images/image_10031.jpg",
+            "images/image_10052.jpg",
+            "images/image_10066.jpg",
+            "images/image_10030.jpg",
+            "images/image_10096.jpg"
+        ],
+        "Category": "Inline",
+        "ground_truth_image": "images/image_10030.jpg",
+        "bbox_percentage": 0.8,
+        "content": [
+            {
+                "x": 790.3555675844002,
+                "y": 278.4230728258113
+            },
+            {
+                "x": 947.9901853252604,
+                "y": 278.4230728258113
+            },
+            {
+                "x": 947.9901853252604,
+                "y": 361.70173880211473
+            },
+            {
+                "x": 790.3555675844002,
+                "y": 361.70173880211473
+            }
+        ]
+    },
+    {
+        "Question": "How many game progresses per game at most Womdee Handheld console support?",
+        "Answer": "6",
+        "Image_list": [
+            "images/image_1.jpg",
+            "images/image_10060.jpg",
+            "images/image_10037.jpg",
+            "images/image_10089.jpg",
+            "images/image_10039.jpg",
+            "images/image_10047.jpg",
+            "images/image_10022.jpg",
+            "images/image_10121.jpg",
+            "images/image_10012.jpg",
+            "images/image_10093.jpg"
+        ],
+        "Category": "Inline",
+        "ground_truth_image": "images/image_10039.jpg",
+        "bbox_percentage": 1.1,
+        "content": [
+            {
+                "x": 475.17782060338766,
+                "y": 586.8921289250706
+            },
+            {
+                "x": 967.9596315433638,
+                "y": 586.8921289250706
+            },
+            {
+                "x": 967.9596315433638,
+                "y": 623.4741847590426
+            },
+            {
+                "x": 475.17782060338766,
+                "y": 623.4741847590426
+            }
+        ]
+    },
+    {
+        "Question": "How many players can play Qwirkle game?",
+        "Answer": "2 to 4",
+        "Image_list": [
+            "images/image_10064.jpg",
+            "images/image_10090.jpg",
+            "images/image_10026.jpg",
+            "images/image_10121.jpg",
+            "images/image_10052.jpg",
+            "images/image_10127.jpg",
+            "images/image_10030.jpg",
+            "images/image_10023.jpg",
+            "images/image_1.jpg",
+            "images/image_10010.jpg"
+        ],
+        "Category": "Inline",
+        "ground_truth_image": "images/image_10023.jpg",
+        "bbox_percentage": 0.12,
+        "content": [
+            {
+                "x": 489.4279574651005,
+                "y": 804.031930045165
+            },
+            {
+                "x": 571.0711772537719,
+                "y": 804.031930045165
+            },
+            {
+                "x": 571.0711772537719,
+                "y": 827.7348003063922
+            },
+            {
+                "x": 489.4279574651005,
+                "y": 827.7348003063922
+            }
+        ]
+    },
+    {
+        "Question": "What is the total number of intereset free payments offered by Affirm?",
+        "Answer": "3",
+        "Image_list": [
+            "images/image_10042.jpg",
+            "images/image_10139.jpg",
+            "images/image_10019.jpg",
+            "images/image_10000.jpg",
+            "images/image_10011.jpg",
+            "images/image_1060.jpg",
+            "images/image_10016.jpg",
+            "images/image_101.jpg",
+            "images/image_1024.jpg",
+            "images/image_1034.jpg"
+        ],
+        "Category": "Inline",
+        "ground_truth_image": "images/image_10139.jpg",
+        "bbox_percentage": 0.72,
+        "content": [
+            {
+                "x": 776.0131795716638,
+                "y": 198.22075782537067
+            },
+            {
+                "x": 1085.996705107084,
+                "y": 198.22075782537067
+            },
+            {
+                "x": 1085.996705107084,
+                "y": 236.17792421746293
+            },
+            {
+                "x": 776.0131795716638,
+                "y": 236.17792421746293
+            }
+        ]
+    },
+    {
+        "Question": "What is the offer being advertised Johnson Family Company?",
+        "Answer": "Get a $5 gift card",
+        "Image_list": [
+            "images/image_10014.jpg",
+            "images/image_10158.jpg",
+            "images/image_10143.jpg",
+            "images/image_10101.jpg",
+            "images/image_10307.jpg",
+            "images/image_10303.jpg",
+            "images/image_10068.jpg",
+            "images/image_10082.jpg",
+            "images/image_1057.jpg",
+            "images/image_10151.jpg"
+        ],
+        "Category": "Inline",
+        "ground_truth_image": "images/image_1057.jpg",
+        "bbox_percentage": 0.57,
+        "content": [
+            {
+                "x": 424.9775857892766,
+                "y": 60.56150094296483
+            },
+            {
+                "x": 726.6627630375162,
+                "y": 60.56150094296483
+            },
+            {
+                "x": 726.6627630375162,
+                "y": 91.47186746430086
+            },
+            {
+                "x": 424.9775857892766,
+                "y": 91.47186746430086
+            }
+        ]
+    },
+    {
+        "Question": "How long is the commute to work according to the Google Home Hub speaker device?",
+        "Answer": "20 min",
+        "Image_list": [
+            "images/image_1060.jpg",
+            "images/image_10019.jpg",
+            "images/image_10016.jpg",
+            "images/image_1034.jpg",
+            "images/image_10042.jpg",
+            "images/image_10276.jpg",
+            "images/image_1057.jpg",
+            "images/image_10002.jpg",
+            "images/image_101.jpg",
+            "images/image_10000.jpg"
+        ],
+        "Category": "Inline",
+        "ground_truth_image": "images/image_10276.jpg",
+        "bbox_percentage": 0.07,
+        "content": [
+            {
+                "x": 277.86494646385205,
+                "y": 374.21622285551376
+            },
+            {
+                "x": 345.7121562056252,
+                "y": 374.21622285551376
+            },
+            {
+                "x": 345.7121562056252,
+                "y": 389.9215954809242
+            },
+            {
+                "x": 277.86494646385205,
+                "y": 389.9215954809242
+            }
+        ]
+    },
+    {
+        "Question": "How many people have watched JBL Link Drive in the last 24 hours?",
+        "Answer": "1",
+        "Image_list": [
+            "images/image_10027.jpg",
+            "images/image_10016.jpg",
+            "images/image_10041.jpg",
+            "images/image_10271.jpg",
+            "images/image_1032.jpg",
+            "images/image_101.jpg",
+            "images/image_10002.jpg",
+            "images/image_1057.jpg",
+            "images/image_10019.jpg",
+            "images/image_10013.jpg"
+        ],
+        "Category": "Inline",
+        "ground_truth_image": "images/image_10271.jpg",
+        "bbox_percentage": 0.51,
+        "content": [
+            {
+                "x": 77.37565698127585,
+                "y": 114.47395372455259
+            },
+            {
+                "x": 299.53926565381664,
+                "y": 114.47395372455259
+            },
+            {
+                "x": 299.53926565381664,
+                "y": 151.94733350064382
+            },
+            {
+                "x": 77.37565698127585,
+                "y": 151.94733350064382
+            }
+        ]
+    },
+    {
+        "Question": "What is the tagline written on the Banana Blast box?",
+        "Answer": "The game that makes you go bananas!",
+        "Image_list": [
+            "images/image_10010.jpg",
+            "images/image_10012.jpg",
+            "images/image_10127.jpg",
+            "images/image_10044.jpg",
+            "images/image_10074.jpg",
+            "images/image_10064.jpg",
+            "images/image_10026.jpg",
+            "images/image_10015.jpg",
+            "images/image_10084.jpg",
+            "images/image_10030.jpg"
+        ],
+        "Category": "Inline",
+        "ground_truth_image": "images/image_10015.jpg",
+        "bbox_percentage": 0.58,
+        "content": [
+            {
+                "x": 391.8591048895204,
+                "y": 795.8101623517376
+            },
+            {
+                "x": 529.0844703134762,
+                "y": 795.8101623517376
+            },
+            {
+                "x": 529.0844703134762,
+                "y": 865.5476431409612
+            },
+            {
+                "x": 391.8591048895204,
+                "y": 865.5476431409612
+            }
+        ]
+    }
+]

@@ -1,0 +1,335 @@
+[
+    {
+        "Question": "What is the condition for the equation \"\\bar{w} \\cdot \\bar{u} \\geq C\" as shown on the blackboard?",
+        "Answer": "C = -b",
+        "Image_list": [
+            "images/screenshot_16.png",
+            "images/screenshot_37.png",
+            "images/screenshot_1.png",
+            "images/screenshot_19.png",
+            "images/screenshot_42.png",
+            "images/screenshot_3.png",
+            "images/screenshot_9.png",
+            "images/screenshot_20.png",
+            "images/screenshot_21.png",
+            "images/screenshot_46.png"
+        ],
+        "Category": "Inline",
+        "ground_truth_image": "images/screenshot_9.png",
+        "bbox_percentage": 0.65,
+        "content": [
+            {
+                "x": 260.9704271631982,
+                "y": 45.91237677984665
+            },
+            {
+                "x": 330.72289156626505,
+                "y": 45.91237677984665
+            },
+            {
+                "x": 330.72289156626505,
+                "y": 101.23329682365826
+            },
+            {
+                "x": 260.9704271631982,
+                "y": 101.23329682365826
+            }
+        ]
+    },
+    {
+        "Question": "True or False: In the 'ORACLE' Graph, node 'A' has a value of 7.",
+        "Answer": "False",
+        "Image_list": [
+            "images/screenshot_15.png",
+            "images/screenshot_12.png",
+            "images/screenshot_18.png",
+            "images/screenshot_33.png",
+            "images/screenshot_14.png",
+            "images/screenshot_44.png",
+            "images/screenshot_24.png",
+            "images/screenshot_40.png",
+            "images/screenshot_27.png",
+            "images/screenshot_7.png"
+        ],
+        "Category": "Boolean",
+        "ground_truth_image": "images/screenshot_33.png",
+        "bbox_percentage": 0.58,
+        "content": [
+            {
+                "x": 392.87395859826967,
+                "y": 130.45435778925437
+            },
+            {
+                "x": 521.1193965832637,
+                "y": 130.45435778925437
+            },
+            {
+                "x": 521.1193965832637,
+                "y": 215.95131644591706
+            },
+            {
+                "x": 392.87395859826967,
+                "y": 215.95131644591706
+            }
+        ]
+    },
+    {
+        "Question": "In the Venn diagram, under the 'INTUITION' heading, which circle is fully shaded?",
+        "Answer": "b",
+        "Image_list": [
+            "images/screenshot_10.png",
+            "images/screenshot_38.png",
+            "images/screenshot_26.png",
+            "images/screenshot_19.png",
+            "images/screenshot_28.png",
+            "images/screenshot_7.png",
+            "images/screenshot_22.png",
+            "images/screenshot_45.png",
+            "images/screenshot_27.png",
+            "images/screenshot_37.png"
+        ],
+        "Category": "Reasoning",
+        "ground_truth_image": "images/screenshot_45.png",
+        "bbox_percentage": 4.49,
+        "content": [
+            {
+                "x": 1116.7667031763417,
+                "y": 194.11117196056955
+            },
+            {
+                "x": 1521.0076670317635,
+                "y": 194.11117196056955
+            },
+            {
+                "x": 1521.0076670317635,
+                "y": 404.39813800657174
+            },
+            {
+                "x": 1116.7667031763417,
+                "y": 404.39813800657174
+            }
+        ]
+    },
+    {
+        "Question": "How many Minus signs (-) are present under the Node 'COMPLEXION' Feture?",
+        "Answer": "5",
+        "Image_list": [
+            "images/screenshot_30.png",
+            "images/screenshot_15.png",
+            "images/screenshot_25.png",
+            "images/screenshot_44.png",
+            "images/screenshot_45.png",
+            "images/screenshot_43.png",
+            "images/screenshot_32.png",
+            "images/screenshot_39.png",
+            "images/screenshot_6.png",
+            "images/screenshot_38.png"
+        ],
+        "Category": "Reasoning",
+        "ground_truth_image": "images/screenshot_15.png",
+        "bbox_percentage": 4.09,
+        "content": [
+            {
+                "x": 636.5553121577218,
+                "y": 72.60843373493975
+            },
+            {
+                "x": 806.3033953997809,
+                "y": 72.60843373493975
+            },
+            {
+                "x": 806.3033953997809,
+                "y": 214.46933187294633
+            },
+            {
+                "x": 636.5553121577218,
+                "y": 214.46933187294633
+            }
+        ]
+    },
+    {
+        "Question": "What type of classifier is associated with an Error rate close to 0.5, according to the blackboard?",
+        "Answer": "WEAK CLASSIFIER",
+        "Image_list": [
+            "images/screenshot_39.png",
+            "images/screenshot_9.png",
+            "images/screenshot_35.png",
+            "images/screenshot_8.png",
+            "images/screenshot_18.png",
+            "images/screenshot_7.png",
+            "images/screenshot_4.png",
+            "images/screenshot_27.png",
+            "images/screenshot_3.png",
+            "images/screenshot_40.png"
+        ],
+        "Category": "Inline",
+        "ground_truth_image": "images/screenshot_18.png",
+        "bbox_percentage": 4.22,
+        "content": [
+            {
+                "x": 886.2387732749178,
+                "y": 375.23110624315444
+            },
+            {
+                "x": 1339.6155531215772,
+                "y": 375.23110624315444
+            },
+            {
+                "x": 1339.6155531215772,
+                "y": 551.658269441402
+            },
+            {
+                "x": 886.2387732749178,
+                "y": 551.658269441402
+            }
+        ]
+    },
+    {
+        "Question": "what is the value in first cell of Case #1?",
+        "Answer": "835",
+        "Image_list": [
+            "images/screenshot_19.png",
+            "images/screenshot_5.png",
+            "images/screenshot_11.png",
+            "images/screenshot_32.png",
+            "images/screenshot_16.png",
+            "images/screenshot_24.png",
+            "images/screenshot_50.png",
+            "images/screenshot_7.png",
+            "images/screenshot_41.png",
+            "images/screenshot_48.png"
+        ],
+        "Category": "Inline",
+        "ground_truth_image": "images/screenshot_32.png",
+        "bbox_percentage": 0.61,
+        "content": [
+            {
+                "x": 22.674698795180724,
+                "y": 174.59419496166484
+            },
+            {
+                "x": 150.47754654983572,
+                "y": 174.59419496166484
+            },
+            {
+                "x": 150.47754654983572,
+                "y": 265.29299014238774
+            },
+            {
+                "x": 22.674698795180724,
+                "y": 265.29299014238774
+            }
+        ]
+    },
+    {
+        "Question": "True or False: The expression labeled as 'Correct' on the blackboard is \"\\sqrt{\\frac{1 - e^t}{e^t}}\"",
+        "Answer": "False",
+        "Image_list": [
+            "images/screenshot_23.png",
+            "images/screenshot_24.png",
+            "images/screenshot_2.png",
+            "images/screenshot_7.png",
+            "images/screenshot_6.png",
+            "images/screenshot_31.png",
+            "images/screenshot_9.png",
+            "images/screenshot_25.png",
+            "images/screenshot_5.png",
+            "images/screenshot_17.png"
+        ],
+        "Category": "Boolean",
+        "ground_truth_image": "images/screenshot_17.png",
+        "bbox_percentage": 3.2,
+        "content": [
+            {
+                "x": 1008.841182913472,
+                "y": 355.00438116100764
+            },
+            {
+                "x": 1484.786418400876,
+                "y": 355.00438116100764
+            },
+            {
+                "x": 1484.786418400876,
+                "y": 481.10952902519165
+            },
+            {
+                "x": 1008.841182913472,
+                "y": 481.10952902519165
+            }
+        ]
+    },
+    {
+        "Question": "what is the Role of Chris in strong Sequence topic?",
+        "Answer": "Object",
+        "Image_list": [
+            "images/screenshot_18.png",
+            "images/screenshot_2.png",
+            "images/screenshot_14.png",
+            "images/screenshot_41.png",
+            "images/screenshot_4.png",
+            "images/screenshot_37.png",
+            "images/screenshot_26.png",
+            "images/screenshot_1.png",
+            "images/screenshot_3.png",
+            "images/screenshot_40.png"
+        ],
+        "Category": "Inline",
+        "ground_truth_image": "images/screenshot_26.png",
+        "bbox_percentage": 1.0,
+        "content": [
+            {
+                "x": 1292.4578313253012,
+                "y": 486.67196056955095
+            },
+            {
+                "x": 1568.6768893756846,
+                "y": 486.67196056955095
+            },
+            {
+                "x": 1568.6768893756846,
+                "y": 556.7573932092004
+            },
+            {
+                "x": 1292.4578313253012,
+                "y": 556.7573932092004
+            }
+        ]
+    },
+    {
+        "Question": "True or False: 'SEARCH' is equivalent to 'MAPS' as seen on Blackboard.",
+        "Answer": "False",
+        "Image_list": [
+            "images/screenshot_30.png",
+            "images/screenshot_3.png",
+            "images/screenshot_11.png",
+            "images/screenshot_25.png",
+            "images/screenshot_6.png",
+            "images/screenshot_46.png",
+            "images/screenshot_16.png",
+            "images/screenshot_38.png",
+            "images/screenshot_15.png",
+            "images/screenshot_10.png"
+        ],
+        "Category": "Boolean",
+        "ground_truth_image": "images/screenshot_38.png",
+        "bbox_percentage": 1.9,
+        "content": [
+            {
+                "x": 320.3723986856517,
+                "y": 44.451259583789714
+            },
+            {
+                "x": 807.092004381161,
+                "y": 44.451259583789714
+            },
+            {
+                "x": 807.092004381161,
+                "y": 118.38335158817087
+            },
+            {
+                "x": 320.3723986856517,
+                "y": 118.38335158817087
+            }
+        ]
+    }
+]
